@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# version 1.1
+# version 1.2
 # contact: afajri@cisco.com
 
 
@@ -30,7 +30,7 @@ if("-file"  in argumentList) and ("-config" in argumentList) and ("-node" in arg
     bulkstatdata = argumentList[1+argumentList.index("-file")]
     bulkstatconfig = argumentList[1+argumentList.index("-config")]
     node = argumentList[1+argumentList.index("-node")]
-    pushgateway = argumentList[1+argumentList.index("-pushgateway")] 
+    pushgateway = argumentList[1+argumentList.index("-pushgateway")]
 else:
     print("Usage: python "+fullCmdArguments[0]+" -config [bulkstat config file] -file [bulkstat data file] -node [node name] -pushgateway [pushgatewayaddress:port]")
     print("supported schema : ")
@@ -38,13 +38,13 @@ else:
     sys.exit()
 
 
-for line in open(bulkstatconfig).readlines():  
+for line in open(bulkstatconfig).readlines():
     for schema in schemas:
         schemaspace = schema + " "
         if line.lstrip().startswith(schemaspace):
             schemaformat = line.strip().split(" format ")[1]
             schemametrics = schemaformat.strip().split(",")
-            for x in schemametrics:  
+            for x in schemametrics:
                 if("%" not in x):
                     variables[schema].append(x)
 
@@ -58,7 +58,7 @@ for schema in schemas:
     for key, value in frequency.items():
         if(value == 1 and re.findall('[0-9]', key)):
             var[schema].append(key)
-    for line in open(bulkstatconfig).readlines():  
+    for line in open(bulkstatconfig).readlines():
         for a in var[schema]:
             if(" " + a + " " in line):
                 config[a] = line.strip().split(" format ")[1].strip().split(",")
@@ -66,7 +66,7 @@ for schema in schemas:
                 if(schema == "ecs"):
                     index[a] = "node"
                 elif(schema == "sccp"):
-                    index[a] = "node"                    
+                    index[a] = "node"
                 elif(schema == "rulebase"):
                     index[a] = "ecs-rbase-name"
                 elif(schema == "dcca-group"):
@@ -88,9 +88,9 @@ for schema in schemas:
                 elif(schema == "schema"):
                     index[a] = "node"
                 elif(schema == "map"):
-                    index[a] = "servname"   
+                    index[a] = "servname"
                 elif(schema == "sgs"):
-                    index[a] = "servname"                                     
+                    index[a] = "servname"
                 elif(schema == "tai"):
                     index[a] = "tai-mcc-mnc-tac"
                 elif(schema == "sgsn"):
@@ -119,14 +119,14 @@ for linedata in open(bulkstatdata).readlines():
                 if(b.startswith(item) and b.endswith(item)):
                     indexid = "%" + index[item] + "%"
                     if(index[item] == "node"):
-                        label = ""  
+                        label = ""
                     elif(index[item] == "tai-mcc-mnc-tac"):
                         label = "mcc=\"" + schemadata[config[item].index("%tai-mcc%")]+"\",mnc=\"" + schemadata[config[item].index("%tai-mnc%")] + "\",tac=\"" + schemadata[config[item].index("%tai-tac%")]+"\""
                     elif(index[item] == "mcc-mnc-lac-rac"):
                         label = "mcc=\"" + schemadata[config[item].index("%mcc%")]+"\",mnc=\"" + schemadata[config[item].index("%mnc%")] + "\",lac=\"" + schemadata[config[item].index("%lac%")] + "\",rac=\"" + schemadata[config[item].index("%rac%")]+"\""
                     elif(index[item] == "ss7rd-number-asp"):
                         label = "ss7rd=\"" + schemadata[config[item].index("%ss7rd-number%")]+"\",ss7asp=\"" + schemadata[config[item].index("%ss7rd-asp_instance%")]+"\""
-                    elif(index[item] == "sgtpindex"):       
+                    elif(index[item] == "sgtpindex"):
                         label = ""
                         if(schemadata[config[item].index("%service-name%")] != ""):
                             label = "service_name=\"" + schemadata[config[item].index("%service-name%")]+"\""
@@ -135,9 +135,9 @@ for linedata in open(bulkstatdata).readlines():
                         if(schemadata[config[item].index("%iups-service%")] != "" and schemadata[config[item].index("%service-name%")] != ""):
                             label = "service_name=\"" + schemadata[config[item].index("%service-name%")]+"\"" + ",iups_service=\"" + schemadata[config[item].index("%iups-service%")]  +"\""
                         if(label == ""):
-                            label = "vpn_name=\"" + schemadata[config[item].index("%vpn-name%")]+"\""            
+                            label = "vpn_name=\"" + schemadata[config[item].index("%vpn-name%")]+"\""
                     else:
-                        label = index[item].replace("-","_") + "=\"" + schemadata[config[item].index(indexid)] +"\""       
+                        label = index[item].replace("-","_") + "=\"" + schemadata[config[item].index(indexid)] +"\""
                     for data in schemadata:
                         time = schemadata[config[item].index("%epochtime%")]
                         if(data.isdigit() and data != "0" and config2[item][schemadata.index(data)] != "epochtime" and config2[item][schemadata.index(data)] != "localtime" and config2[item][schemadata.index(data)] != "localdate" and config2[item][schemadata.index(data)] != "uptime" and config2[item][schemadata.index(data)] != "vpnid" and config2[item][schemadata.index(data)] != "vpnname" and  config2[item][schemadata.index(data)] != "lac" and config2[item][schemadata.index(data)] != "rac" and config2[item][schemadata.index(data)] != "mnc" and config2[item][schemadata.index(data)] != "mcc" and config2[item][schemadata.index(data)] != "tai-mcc" and config2[item][schemadata.index(data)] != "tai-mnc" and config2[item][schemadata.index(data)] != "tai-tac" and config2[item][schemadata.index(data)] != "vpn-id" and config2[item][schemadata.index(data)] != "ss7rd-number" and config2[item][schemadata.index(data)] != "ss7rd-asp_instance" and config2[item][schemadata.index(data)] != "endtime" and config2[item][schemadata.index(data)] != "localendtime"):
@@ -148,8 +148,8 @@ for linedata in open(bulkstatdata).readlines():
                             a = hash(str(hashtemp))
                             if(a not in hashlist):
                                 f.write(schema.lower().replace("-","_") + "_" + config2[item][schemadata.index(data)].lower().replace("-","_") + " {"+label+"} " +data+"\n")
-                                
+
                                 hashlist.append(a)
-f.close()                              
+f.close()
 cmd = 'cat tempfile.txt |  curl --data-binary @- http://' + pushgateway +'/metrics/job/bulkstat/node/' +node
 os.system(cmd)
