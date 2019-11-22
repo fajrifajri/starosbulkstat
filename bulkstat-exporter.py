@@ -143,17 +143,72 @@ for linedata in open(bulkstatdata).readlines():
                    
                     for data in schemadata:
                         time = schemadata[config[item].index("%epochtime%")]
-                        if(data.isdigit() and data != "0" and config2[item][schemadata.index(data)] != "epochtime" and config2[item][schemadata.index(data)] != "localtime" and config2[item][schemadata.index(data)] != "localdate" and config2[item][schemadata.index(data)] != "uptime" and config2[item][schemadata.index(data)] != "vpnid" and config2[item][schemadata.index(data)] != "vpnname" and  config2[item][schemadata.index(data)] != "lac" and config2[item][schemadata.index(data)] != "rac" and config2[item][schemadata.index(data)] != "mnc" and config2[item][schemadata.index(data)] != "mcc" and config2[item][schemadata.index(data)] != "tai-mcc" and config2[item][schemadata.index(data)] != "tai-mnc" and config2[item][schemadata.index(data)] != "tai-tac" and config2[item][schemadata.index(data)] != "vpn-id" and config2[item][schemadata.index(data)] != "ss7rd-number" and config2[item][schemadata.index(data)] != "ss7rd-asp_instance" and config2[item][schemadata.index(data)] != "endtime" and config2[item][schemadata.index(data)] != "localendtime"):
+                        if(data.isdigit() and data != "0" and config2[item][schemadata.index(data)] != "epochtime" and config2[item][schemadata.index(data)] != "localtime" and config2[item][schemadata.index(data)] != "localdate" and config2[item][schemadata.index(data)] != "uptime" and config2[item][schemadata.index(data)] != "vpnid" and config2[item][schemadata.index(data)] != "vpnname" and  config2[item][schemadata.index(data)] != "lac" and config2[item][schemadata.index(data)] != "rac" and config2[item][schemadata.index(data)] != "mnc" and config2[item][schemadata.index(data)] != "mcc" and config2[item][schemadata.index(data)] != "tai-mcc" and config2[item][schemadata.index(data)] != "tai-mnc" and config2[item][schemadata.index(data)] != "tai-tac" and config2[item][schemadata.index(data)] != "vpn-id" and config2[item][schemadata.index(data)] != "ss7rd-number" and config2[item][schemadata.index(data)] != "ss7rd-asp_instance" and config2[item][schemadata.index(data)] != "endtime"  and config2[item][schemadata.index(data)] != "enddate" and config2[item][schemadata.index(data)] != "localendtime"):
+                            #print(config2[item][schemadata.index(data)])
+                            metric = config2[item][schemadata.index(data)].lower().replace("-","_") + " "
+                            # convertng metric into label
+                            if(schema=="schema"):
+                                if(config2[item][schemadata.index(data)].startswith("disc-reason-")):
+                                    metric = "disc_reason "
+                                    label = "{disc_reason=\"" + config2[item][schemadata.index(data)].lower().replace("-","_") + "\"} "
+                                elif(config2[item][schemadata.index(data)].startswith("sess-bearerdur-")):
+                                    metric = "session_bearer_duration "
+                                    labs = config2[item][schemadata.index(data)].strip().split("-")
+                                    label = "{duration=\"" + labs[2] + "\",qci=\"" + labs[3]+"\"} "
+                                elif(config2[item][schemadata.index(data)].startswith("sess-setuptime")):
+                                    metric = "session_setuptime "
+                                    labs = config2[item][schemadata.index(data)].strip().split("-")
+                                    label = "{duration=\"" + labs[2]+"\"} "      
+                                elif(config2[item][schemadata.index(data)].startswith("sess-calldur")):
+                                    metric = "session_callduration "
+                                    labs = config2[item][schemadata.index(data)].strip().split("-")
+                                    label = "{duration=\"" + labs[2]+"\"} "  
+                                elif(config2[item][schemadata.index(data)].startswith("sess-rxpkt")):
+                                    metric = "session_rxpacket "
+                                    labs = config2[item][schemadata.index(data)].strip().split("-")
+                                    label = "{packets=\"" + labs[2]+"\"} "    
+                                elif(config2[item][schemadata.index(data)].startswith("sess-txpkt")):
+                                    metric = "session_txpacket "
+                                    labs = config2[item][schemadata.index(data)].strip().split("-")
+                                    label = "{packets=\"" + labs[2]+"\"} "                                                                         
+                                #elif(config2[item][schemadata.index(data)].startswith("cc-")):
+                                #    print(config2[item][schemadata.index(data)])
+                                #    metric = "credit_control "
+                                #    labs = config2[item][schemadata.index(data)].strip().split("cc-")
+                                #    label = "{cctype=\"" + labs[1].replace("-","_")+"\"} "     
+                            if(schema=="apn"):             
+                                if(config2[item][schemadata.index(data)].startswith("qci")):         
+                                    labs = config2[item][schemadata.index(data)].strip().split("-")
+                                    if(len(labs)==2):
+                                        metric = labs[1]
+                                        label = " {apn=\""+schemadata[config[item].index(indexid)]+"\",qci=\"" + labs[0].replace("-","_")+"\"} "
+                                    elif(len(labs)==3):
+                                        metric = labs[1]
+                                        label = " {apn=\""+schemadata[config[item].index(indexid)]+"\",type=\""+labs[2] +"\",qci=\"" + labs[0].replace("-","_")+"\"} "
+                                    elif(len(labs)==4):
+                                        metric = labs[1]
+                                        label = " {apn=\""+schemadata[config[item].index(indexid)]+"\",type=\""+labs[2] + "\",other=\""+labs[3]+"\",qci=\"" + labs[0].replace("-","_")+"\"} "       
+                            elif(schema=="card"):             
+                                if(config2[item][schemadata.index(data)].startswith("npuutil")):   
+                                    metric = "npuutil "   
+                                    labs = config2[item][schemadata.index(data)].strip().split("-")
+                                    label = "{card=\""+schemadata[config[item].index(indexid)]+"\",duration=\"" + labs[1]+"\"} "  
+                            elif(schema=="p2p"):  
+                                metric = "p2p"     
+                                #print(config2[item][schemadata.index(data)]) 
+                                if("p2p-duration-value" in config2[item][schemadata.index(data)]):
+                                    labs = config2[item][schemadata.index(data)].strip().split("-")
+                                    label = "{type=\""+labs[1]+"\",unit=\"s\",p2p_name=\""+schemadata[config[item].index("%p2p-duration-name%")]+"\"} "
+                                else:
+                                    labs = config2[item][schemadata.index(data)].strip().split("-")
+                                    label = "{type=\""+labs[1]+"\",unit=\"" + labs[2]+"\",p2p_name=\""+schemadata[config[item].index(indexid)]+"\"} "
+                                                              
                             hashtemp = []
                             hashtemp.append(schema)
                             hashtemp.append(config2[item][schemadata.index(data)])
                             hashtemp.append(label)
                             a = hash(str(hashtemp))
-                            #print(config2[item][schemadata.index(data)])
-                            metric = config2[item][schemadata.index(data)].lower().replace("-","_") + " "
-                            if(config2[item][schemadata.index(data)].startswith("disc-reason-")):
-                                metric = "disc_reason "
-                                label = "{disc_reason=\"" + config2[item][schemadata.index(data)].lower().replace("-","_") + "\"} "
+                            
                             if(a not in hashlist):
                                
                                 f.write(schema.lower().replace("-","_") + "_" + metric +label +data+"\n")
