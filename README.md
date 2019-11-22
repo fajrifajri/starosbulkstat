@@ -6,7 +6,7 @@ Cisco StarOS Bulkstat is formated in CSV. The bulkstat data is based on bulkstat
 
 Due to the uniq way of bulkstat implementation, there are custom handlings on this code (I wish I can simplify that):
 - identify the main label : sometime bulkstat schema name can be good candidate of label (e.g.: APN name), unfortunately this is not always the case
-- converting some metric into label
+- converting some metric into label.
 
 reference to Cisco StarOS Bulkstat: https://www.cisco.com/c/dam/en/us/td/docs/wireless/asr_5000/21-16_6-10/Bulkstats-Doc-Spreadsheet/21-16-Bulkstats-Docs-Spreadsheet.pdf
 
