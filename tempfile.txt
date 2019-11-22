@@ -1,0 +1,3010 @@
+gtpu_servid {vpnname="Gn"} 1
+gtpu_curr_sess {vpnname="Gn"} 924110
+gtpu_total_setup_sess {vpnname="Gn"} 845420538
+gtpu_curr_gtpu1_sess {vpnname="Gn"} 134389
+gtpu_total_uplink_pkts {vpnname="Gn"} 8540924754165
+gtpu_total_uplink_bytes {vpnname="Gn"} 1355569858594658
+gtpu_total_dwlink_pkts {vpnname="Gn"} 14086430857518
+gtpu_total_dwlink_bytes {vpnname="Gn"} 15566663152723733
+gtpu_total_pkts_discard {vpnname="Gn"} 139344523
+gtpu_total_bytes_discard {vpnname="Gn"} 24658373313
+gtpu_qci4_uplink_pkts {vpnname="Gn"} 873
+gtpu_qci4_uplink_bytes {vpnname="Gn"} 154383
+gtpu_qci4_dwlink_pkts {vpnname="Gn"} 1093
+gtpu_qci4_dwlink_byte {vpnname="Gn"} 619681
+gtpu_qci6_uplink_pkts {vpnname="Gn"} 4258593647731
+gtpu_qci6_uplink_bytes {vpnname="Gn"} 707652965861247
+gtpu_qci6_dwlink_pkts {vpnname="Gn"} 7046899498628
+gtpu_qci6_dwlink_byte {vpnname="Gn"} 8065017134945202
+gtpu_qci6_pkts_discard {vpnname="Gn"} 2556251
+gtpu_qci6_bytes_discard {vpnname="Gn"} 473558649
+gtpu_qci7_uplink_pkts {vpnname="Gn"} 1552812674645
+gtpu_qci7_uplink_bytes {vpnname="Gn"} 240665258014347
+gtpu_qci7_dwlink_pkts {vpnname="Gn"} 2596311978235
+gtpu_qci7_dwlink_byte {vpnname="Gn"} 2868321790983109
+gtpu_qci7_pkts_discard {vpnname="Gn"} 2592792
+gtpu_qci7_bytes_discard {vpnname="Gn"} 273630819
+gtpu_qci8_uplink_pkts {vpnname="Gn"} 2723873788312
+gtpu_qci8_uplink_bytes {vpnname="Gn"} 405597247133037
+gtpu_qci8_dwlink_pkts {vpnname="Gn"} 4434956097478
+gtpu_qci8_dwlink_byte {vpnname="Gn"} 4624373674903172
+gtpu_qci8_pkts_discard {vpnname="Gn"} 603021
+gtpu_qci8_bytes_discard {vpnname="Gn"} 98617532
+gtpu_qci9_uplink_pkts {vpnname="Gn"} 5644642604
+gtpu_qci9_uplink_bytes {vpnname="Gn"} 1654387431644
+gtpu_qci9_dwlink_pkts {vpnname="Gn"} 8263282084
+gtpu_qci9_dwlink_byte {vpnname="Gn"} 8950551272569
+gtpu_qci9_pkts_discard {vpnname="Gn"} 5754
+gtpu_qci9_bytes_discard {vpnname="Gn"} 737994
+gtpu_total_gbr_qcis_uplink_pkts {vpnname="Gn"} 873
+gtpu_total_gbr_qcis_uplink_bytes {vpnname="Gn"} 154383
+gtpu_total_gbr_qcis_dwlink_pkts {vpnname="Gn"} 1093
+gtpu_total_gbr_qcis_dwlink_bytes {vpnname="Gn"} 619681
+gtpu_total_non_gbr_qcis_uplink_pkts {vpnname="Gn"} 8540924753292
+gtpu_total_non_gbr_qcis_uplink_bytes {vpnname="Gn"} 1355569858440275
+gtpu_total_non_gbr_qcis_dwlink_pkts {vpnname="Gn"} 14086430856425
+gtpu_total_non_gbr_qcis_dwlink_bytes {vpnname="Gn"} 15566663152104052
+gtpu_echo_req_rx {vpnname="Gn"} 217714749
+gtpu_err_ind_rx {vpnname="Gn"} 13261349
+gtpu_err_ind_tx {vpnname="Gn"} 133442468
+gtpu_err_ind_rx_dis {vpnname="Gn"} 23758697
+gtpu_qci1_dwlink_pkts {vpnname="Gn"} 1286
+gtpu_qci1_dwlink_byte {vpnname="Gn"} 117843
+gtpu_qci5_uplink_pkts {vpnname="Gn"} 3029
+gtpu_qci5_uplink_bytes {vpnname="Gn"} 676212
+gtpu_qci5_dwlink_pkts {vpnname="Gn"} 6246
+gtpu_qci5_dwlink_byte {vpnname="Gn"} 2124017
+gtpu_qci5_pkts_discard {vpnname="Gn"} 11
+gtpu_qci5_bytes_discard {vpnname="Gn"} 1032
+gtpu_servid {vpnname="S1U"} 14
+gtpu_curr_sess {vpnname="S1U"} 683762
+gtpu_total_setup_sess {vpnname="S1U"} 1843191618
+gtpu_curr_gtpu1_sess {vpnname="S1U"} 107660
+gtpu_total_uplink_pkts {vpnname="S1U"} 7085124725882
+gtpu_total_uplink_bytes {vpnname="S1U"} 1127539286377052
+gtpu_total_dwlink_pkts {vpnname="S1U"} 11833747282266
+gtpu_total_dwlink_bytes {vpnname="S1U"} 13203589399196567
+gtpu_total_pkts_discard {vpnname="S1U"} 16834470
+gtpu_total_bytes_discard {vpnname="S1U"} 2428418891
+gtpu_qci1_uplink_pkts {vpnname="S1U"} 1478173
+gtpu_qci1_uplink_bytes {vpnname="S1U"} 136452014
+gtpu_qci4_uplink_pkts {vpnname="S1U"} 19002
+gtpu_qci4_uplink_bytes {vpnname="S1U"} 1638024
+gtpu_qci4_dwlink_pkts {vpnname="S1U"} 17291
+gtpu_qci4_dwlink_byte {vpnname="S1U"} 1894881
+gtpu_qci5_uplink_pkts {vpnname="S1U"} 3056
+gtpu_qci5_uplink_bytes {vpnname="S1U"} 675652
+gtpu_qci5_dwlink_pkts {vpnname="S1U"} 5362
+gtpu_qci5_dwlink_byte {vpnname="S1U"} 2045985
+gtpu_qci5_pkts_discard {vpnname="S1U"} 10
+gtpu_qci5_bytes_discard {vpnname="S1U"} 496
+gtpu_qci6_uplink_pkts {vpnname="S1U"} 3623567749186
+gtpu_qci6_uplink_bytes {vpnname="S1U"} 599600393370979
+gtpu_qci6_dwlink_pkts {vpnname="S1U"} 6108210826080
+gtpu_qci6_dwlink_byte {vpnname="S1U"} 7041601411851890
+gtpu_qci6_pkts_discard {vpnname="S1U"} 3536307
+gtpu_qci6_bytes_discard {vpnname="S1U"} 573861829
+gtpu_qci7_uplink_pkts {vpnname="S1U"} 1384931749797
+gtpu_qci7_uplink_bytes {vpnname="S1U"} 214926290079015
+gtpu_qci7_dwlink_pkts {vpnname="S1U"} 2330422791993
+gtpu_qci7_dwlink_byte {vpnname="S1U"} 2592788904801791
+gtpu_qci7_pkts_discard {vpnname="S1U"} 3391435
+gtpu_qci7_bytes_discard {vpnname="S1U"} 346155304
+gtpu_qci8_uplink_pkts {vpnname="S1U"} 2075809186068
+gtpu_qci8_uplink_bytes {vpnname="S1U"} 312823558226706
+gtpu_qci8_dwlink_pkts {vpnname="S1U"} 3394133543991
+gtpu_qci8_dwlink_byte {vpnname="S1U"} 3568221144490342
+gtpu_qci8_pkts_discard {vpnname="S1U"} 512154
+gtpu_qci8_bytes_discard {vpnname="S1U"} 76161808
+gtpu_qci9_uplink_pkts {vpnname="S1U"} 814540600
+gtpu_qci9_uplink_bytes {vpnname="S1U"} 188905934662
+gtpu_qci9_dwlink_pkts {vpnname="S1U"} 980097549
+gtpu_qci9_dwlink_byte {vpnname="S1U"} 977934111678
+gtpu_qci9_pkts_discard {vpnname="S1U"} 3295
+gtpu_qci9_bytes_discard {vpnname="S1U"} 503137
+gtpu_total_gbr_qcis_uplink_pkts {vpnname="S1U"} 1497175
+gtpu_total_gbr_qcis_uplink_bytes {vpnname="S1U"} 138090038
+gtpu_total_gbr_qcis_dwlink_pkts {vpnname="S1U"} 17291
+gtpu_total_gbr_qcis_dwlink_bytes {vpnname="S1U"} 1894881
+gtpu_total_non_gbr_qcis_uplink_pkts {vpnname="S1U"} 7085123228707
+gtpu_total_non_gbr_qcis_uplink_bytes {vpnname="S1U"} 1127539148287014
+gtpu_total_non_gbr_qcis_dwlink_pkts {vpnname="S1U"} 11833747264975
+gtpu_total_non_gbr_qcis_dwlink_bytes {vpnname="S1U"} 13203589397301686
+gtpu_echo_req_rx {vpnname="S1U"} 429061619
+gtpu_err_ind_rx {vpnname="S1U"} 17889643
+gtpu_err_ind_tx {vpnname="S1U"} 9093772
+gtpu_err_ind_rx_dis {vpnname="S1U"} 76369007
+card_card {card="1"} 1
+card_numproc {card="1"} 311
+card_memused {card="1"} 10792
+card_memtotal {card="1"} 114688
+card_npuutil_now {card="1"} 2
+card_npuutil_5minave {card="1"} 4
+card_card {card="2"} 2
+card_numproc {card="2"} 345
+card_memused {card="2"} 8138
+card_memtotal {card="2"} 114688
+card_numcpu {card="2"} 1
+card_npuutil_now {card="2"} 1
+card_card {card="3"} 3
+card_numproc {card="3"} 307
+card_memused {card="3"} 23466
+card_memtotal {card="3"} 114688
+card_numcpu {card="3"} 1
+card_npuutil_now {card="3"} 14
+card_card {card="4"} 4
+card_numproc {card="4"} 311
+card_memused {card="4"} 36612
+card_memtotal {card="4"} 114688
+card_numcpu {card="4"} 1
+card_npuutil_now {card="4"} 26
+card_task_sessmgr_num {card="4"} 12
+card_npuutil_15minave {card="4"} 27
+card_card {card="5"} 5
+card_numproc {card="5"} 310
+card_memused {card="5"} 36503
+card_memtotal {card="5"} 114688
+card_numcpu {card="5"} 1
+card_npuutil_now {card="5"} 26
+card_task_sessmgr_num {card="5"} 12
+card_npuutil_5minave {card="5"} 27
+card_card {card="6"} 6
+card_numproc {card="6"} 310
+card_memused {card="6"} 36684
+card_memtotal {card="6"} 114688
+card_numcpu {card="6"} 1
+card_npuutil_now {card="6"} 28
+card_task_sessmgr_num {card="6"} 12
+card_npuutil_5minave {card="6"} 27
+card_card {card="7"} 7
+card_numproc {card="7"} 310
+card_memused {card="7"} 36423
+card_memtotal {card="7"} 114688
+card_numcpu {card="7"} 1
+card_npuutil_now {card="7"} 26
+card_task_sessmgr_num {card="7"} 12
+card_npuutil_5minave {card="7"} 27
+card_card {card="8"} 8
+card_numproc {card="8"} 310
+card_memused {card="8"} 36324
+card_memtotal {card="8"} 114688
+card_numcpu {card="8"} 1
+card_npuutil_now {card="8"} 26
+card_task_sessmgr_num {card="8"} 12
+card_npuutil_5minave {card="8"} 25
+card_card {card="9"} 9
+card_numproc {card="9"} 310
+card_memused {card="9"} 36796
+card_memtotal {card="9"} 114688
+card_numcpu {card="9"} 1
+card_npuutil_now {card="9"} 26
+card_task_sessmgr_num {card="9"} 12
+card_card {card="10"} 10
+card_numproc {card="10"} 310
+card_memused {card="10"} 36538
+card_memtotal {card="10"} 114688
+card_numcpu {card="10"} 1
+card_npuutil_now {card="10"} 29
+card_task_sessmgr_num {card="10"} 12
+card_npuutil_5minave {card="10"} 28
+card_card {card="11"} 11
+card_numproc {card="11"} 310
+card_memused {card="11"} 36427
+card_memtotal {card="11"} 114688
+card_numcpu {card="11"} 1
+card_npuutil_now {card="11"} 25
+card_task_sessmgr_num {card="11"} 12
+card_card {card="12"} 12
+card_numproc {card="12"} 310
+card_memused {card="12"} 36117
+card_memtotal {card="12"} 114688
+card_numcpu {card="12"} 1
+card_npuutil_now {card="12"} 27
+card_npuutil_5minave {card="12"} 25
+card_npuutil_15minave {card="12"} 26
+card_card {card="13"} 13
+card_numproc {card="13"} 310
+card_memused {card="13"} 36505
+card_memtotal {card="13"} 114688
+card_numcpu {card="13"} 1
+card_npuutil_now {card="13"} 26
+card_task_sessmgr_num {card="13"} 12
+card_npuutil_5minave {card="13"} 24
+card_npuutil_15minave {card="13"} 25
+card_card {card="14"} 14
+card_numproc {card="14"} 310
+card_memused {card="14"} 36452
+card_memtotal {card="14"} 114688
+card_numcpu {card="14"} 1
+card_npuutil_now {card="14"} 26
+card_task_sessmgr_num {card="14"} 12
+card_npuutil_5minave {card="14"} 27
+card_card {card="15"} 15
+card_numproc {card="15"} 310
+card_memused {card="15"} 36548
+card_memtotal {card="15"} 114688
+card_numcpu {card="15"} 1
+card_npuutil_now {card="15"} 25
+card_task_sessmgr_num {card="15"} 12
+card_npuutil_5minave {card="15"} 26
+card_card {card="16"} 16
+card_numproc {card="16"} 310
+card_memused {card="16"} 36355
+card_memtotal {card="16"} 114688
+card_numcpu {card="16"} 1
+card_npuutil_now {card="16"} 30
+card_task_sessmgr_num {card="16"} 12
+card_npuutil_5minave {card="16"} 26
+card_card {card="17"} 17
+card_numproc {card="17"} 310
+card_memused {card="17"} 36560
+card_memtotal {card="17"} 114688
+card_numcpu {card="17"} 1
+card_npuutil_now {card="17"} 26
+card_task_sessmgr_num {card="17"} 12
+card_npuutil_15minave {card="17"} 27
+card_card {card="18"} 18
+card_numproc {card="18"} 310
+card_memused {card="18"} 36735
+card_memtotal {card="18"} 114688
+card_numcpu {card="18"} 1
+card_npuutil_now {card="18"} 31
+card_task_sessmgr_num {card="18"} 12
+card_npuutil_5minave {card="18"} 32
+card_npuutil_15minave {card="18"} 33
+card_card {card="19"} 19
+card_numproc {card="19"} 310
+card_memused {card="19"} 36627
+card_memtotal {card="19"} 114688
+card_numcpu {card="19"} 1
+card_npuutil_now {card="19"} 30
+card_task_sessmgr_num {card="19"} 12
+card_npuutil_5minave {card="19"} 29
+card_card {card="20"} 20
+card_numproc {card="20"} 311
+card_memused {card="20"} 36497
+card_memtotal {card="20"} 114688
+card_numcpu {card="20"} 1
+card_npuutil_now {card="20"} 30
+card_task_sessmgr_num {card="20"} 12
+card_npuutil_5minave {card="20"} 31
+card_npuutil_15minave {card="20"} 32
+card_card {card="21"} 21
+card_numproc {card="21"} 310
+card_memused {card="21"} 36303
+card_memtotal {card="21"} 114688
+card_numcpu {card="21"} 1
+card_npuutil_now {card="21"} 28
+card_task_sessmgr_num {card="21"} 12
+card_npuutil_5minave {card="21"} 29
+card_card {card="22"} 22
+card_numproc {card="22"} 310
+card_memused {card="22"} 36310
+card_memtotal {card="22"} 114688
+card_numcpu {card="22"} 1
+card_npuutil_now {card="22"} 29
+card_task_sessmgr_num {card="22"} 12
+card_npuutil_5minave {card="22"} 30
+card_card {card="23"} 23
+card_numproc {card="23"} 310
+card_memused {card="23"} 36568
+card_memtotal {card="23"} 114688
+card_numcpu {card="23"} 1
+card_npuutil_now {card="23"} 35
+card_task_sessmgr_num {card="23"} 12
+card_npuutil_5minave {card="23"} 32
+card_card {card="24"} 24
+card_numproc {card="24"} 311
+card_memused {card="24"} 36327
+card_memtotal {card="24"} 114688
+card_numcpu {card="24"} 1
+card_npuutil_now {card="24"} 30
+card_task_sessmgr_num {card="24"} 12
+card_card {card="25"} 25
+card_numproc {card="25"} 310
+card_memused {card="25"} 36435
+card_memtotal {card="25"} 114688
+card_numcpu {card="25"} 1
+card_npuutil_now {card="25"} 33
+card_task_sessmgr_num {card="25"} 12
+card_npuutil_5minave {card="25"} 31
+card_card {card="26"} 26
+card_numproc {card="26"} 310
+card_memused {card="26"} 36407
+card_memtotal {card="26"} 114688
+card_numcpu {card="26"} 1
+card_npuutil_now {card="26"} 31
+card_task_sessmgr_num {card="26"} 12
+card_card {card="27"} 27
+card_numproc {card="27"} 310
+card_memused {card="27"} 36521
+card_memtotal {card="27"} 114688
+card_numcpu {card="27"} 1
+card_npuutil_now {card="27"} 30
+card_task_sessmgr_num {card="27"} 12
+card_npuutil_5minave {card="27"} 31
+card_card {card="28"} 28
+card_numproc {card="28"} 310
+card_memused {card="28"} 36438
+card_memtotal {card="28"} 114688
+card_numcpu {card="28"} 1
+card_npuutil_now {card="28"} 30
+card_task_sessmgr_num {card="28"} 12
+card_npuutil_5minave {card="28"} 32
+card_card {card="29"} 29
+card_numproc {card="29"} 310
+card_memused {card="29"} 36664
+card_memtotal {card="29"} 114688
+card_numcpu {card="29"} 1
+card_npuutil_now {card="29"} 31
+card_task_sessmgr_num {card="29"} 12
+card_card {card="30"} 30
+card_numproc {card="30"} 310
+card_memused {card="30"} 36491
+card_memtotal {card="30"} 114688
+card_numcpu {card="30"} 1
+card_npuutil_now {card="30"} 28
+card_task_sessmgr_num {card="30"} 12
+card_npuutil_5minave {card="30"} 29
+card_card {card="31"} 31
+card_numproc {card="31"} 327
+card_memused {card="31"} 24327
+card_memtotal {card="31"} 114688
+card_numcpu {card="31"} 1
+card_npuutil_now {card="31"} 21
+card_task_vpnmgr_num {card="31"} 9
+card_npuutil_15minave {card="31"} 20
+card_card {card="32"} 32
+card_numproc {card="32"} 307
+card_memused {card="32"} 23471
+card_memtotal {card="32"} 114688
+card_numcpu {card="32"} 1
+card_npuutil_now {card="32"} 21
+card_npuutil_5minave {card="32"} 19
+card_npuutil_15minave {card="32"} 20
+port_card {port="1"} 1
+port_maxrate {port="1"} 1000000000
+port_rxbytes {port="1"} 26971177122
+port_txbytes {port="1"} 779789089123
+port_ucast_inpackets {port="1"} 263450917
+port_ucast_outpackets {port="1"} 659436937
+port_mcast_inpackets {port="1"} 17824678
+port_rxpackets {port="1"} 281275595
+port_rxdiscpackets {port="1"} 84
+port_port_5peak_tx_util {port="1"} 3
+port_port {port="1"} 1
+port_card {port="10"} 3
+port_port {port="10"} 10
+port_maxrate {port="10"} 1000000000
+port_rxbytes {port="10"} 712766627037235
+port_txbytes {port="10"} 279596828
+port_ucast_inpackets {port="10"} 685718361280
+port_ucast_outpackets {port="10"} 3045063
+port_mcast_inpackets {port="10"} 18446744073709551615
+port_rxpackets {port="10"} 685718361279
+port_frag_rcvd {port="10"} 154532565
+port_pkt_reassembled {port="10"} 76492459
+port_frag_tokernel {port="10"} 1546792
+port_util_rx_curr {port="10"} 581
+port_util_rx_5min {port="10"} 606
+port_util_rx_15min {port="10"} 624
+port_port_5peak_rx_util {port="10"} 636
+port_port_15peak_rx_util {port="10"} 700
+port_card {port="11"} 3
+port_port {port="11"} 11
+port_maxrate {port="11"} 1000000000
+port_rxbytes {port="11"} 21884896
+port_ucast_inpackets {port="11"} 338852
+port_mcast_inpackets {port="11"} 18446744073709551615
+port_rxpackets {port="11"} 338851
+port_util_tx_curr {port="10"} 702
+port_util_tx_5min {port="10"} 744
+port_util_tx_15min {port="10"} 732
+port_port_5peak_tx_util {port="10"} 791
+port_port_15peak_tx_util {port="10"} 787
+port_txbytes {port="11"} 828737707140732
+port_ucast_outpackets {port="11"} 1043832454709
+port_frag_rcvd {port="11"} 115440419
+port_pkt_reassembled {port="11"} 57659406
+port_frag_tokernel {port="11"} 107560
+port_util_rx_curr {port="11"} 592
+port_util_tx_curr {port="11"} 773
+port_util_rx_5min {port="11"} 664
+port_util_tx_5min {port="11"} 724
+port_util_rx_15min {port="11"} 689
+port_util_tx_15min {port="11"} 734
+port_port_5peak_rx_util {port="11"} 720
+port_port_5peak_tx_util {port="11"} 743
+port_port_15peak_rx_util {port="11"} 783
+port_port_15peak_tx_util {port="11"} 817
+ppp_num_sessions {vpnname="Gn"} 123592
+gtpc_setup_current {vpnname="Gn"} 123608
+gtpc_setup_total {vpnname="Gn"} 659049094
+gtpc_released_total {vpnname="Gn"} 658925486
+gtpc_dyn_ipv4_attempt {vpnname="Gn"} 169705862
+gtpc_dyn_ipv4_success {vpnname="Gn"} 169658493
+gtpc_echo_req_rx {vpnname="Gn"} 41472078
+gtpc_echo_req_tx {vpnname="Gn"} 20204348
+gtpc_disc_lpfallbacktimeout {vpnname="Gn"} 75220373594963968
+gtpc_msgs_inc_rate_limited {vpnname="Gn"} 2298490771
+gtpc_num_ggsn_active_ue {vpnname="Gn"} 123511
+gtpc_num_ggsn_active_2g_ue {vpnname="Gn"} 11027
+gtpc_num_ggsn_active_3g_ue {vpnname="Gn"} 112478
+gtpc_current_3g_pdp {vpnname="Gn"} 112558
+gtpc_current_2g_pdp {vpnname="Gn"} 11044
+gtpc_setup_3g_pdp {vpnname="Gn"} 586615661
+gtpc_setup_2g_pdp {vpnname="Gn"} 72394244
+gtpc_total_path_fail {vpnname="Gn"} 609938
+gtpc_echo_rsp_tx {vpnname="Gn"} 41472078
+gtpc_echo_rsp_rx {vpnname="Gn"} 20200316
+gtpc_cpc_total {vpnname="Gn"} 170832681
+gtpc_cpc_v0 {vpnname="Gn"} 367
+gtpc_cpc_v1 {vpnname="Gn"} 170832314
+gtpc_cpc_sec {vpnname="Gn"} 53
+gtpc_cpc_retrans {vpnname="Gn"} 50892
+gtpc_cpc_accept {vpnname="Gn"} 169658493
+gtpc_cpc_deny {vpnname="Gn"} 1123166
+gtpc_upc_rx {vpnname="Gn"} 3990123054
+gtpc_upc_rx_accept {vpnname="Gn"} 3967255456
+gtpc_upc_rx_deny {vpnname="Gn"} 18539051
+gtpc_upc_rx_discard {vpnname="Gn"} 2415
+gtpc_upc_tx {vpnname="Gn"} 12245044
+gtpc_upc_tx_accept {vpnname="Gn"} 10531723
+gtpc_upc_tx_deny {vpnname="Gn"} 689997
+gtpc_upc_tx_dt_upd {vpnname="Gn"} 5484670
+gtpc_dpc_rx {vpnname="Gn"} 179067581
+gtpc_dpc_rx_accept {vpnname="Gn"} 178208178
+gtpc_dpc_rx_deny {vpnname="Gn"} 842298
+gtpc_dpc_rx_discard {vpnname="Gn"} 638
+gtpc_dpc_tx {vpnname="Gn"} 21656699
+gtpc_dpc_tx_accept {vpnname="Gn"} 25395720
+gtpc_dpc_tx_deny {vpnname="Gn"} 234288
+gtpc_cpc_noresource {vpnname="Gn"} 1012632
+gtpc_cpc_addr_occupied {vpnname="Gn"} 56
+gtpc_cpc_unknown_pdp {vpnname="Gn"} 1435
+gtpc_cpc_no_apn_subscription {vpnname="Gn"} 61733
+gtpc_cpc_auth_fail {vpnname="Gn"} 47310
+gtpc_disc_sgsn {vpnname="Gn"} 178209061
+gtpc_disc_path_fail {vpnname="Gn"} 609938
+gtpc_disc_admin {vpnname="Gn"} 90808
+gtpc_disc_other {vpnname="Gn"} 3938747
+gtpc_disc_idle {vpnname="Gn"} 17513608
+gtpc_disc_absolute {vpnname="Gn"} 186840
+gtpc_num_dt_established {vpnname="Gn"} 1744141491
+gtpc_num_dt_torn_by_sgsn {vpnname="Gn"} 1607410177
+gtpc_num_dt_recv_err_ind {vpnname="Gn"} 5654555
+gtpc_ctrl_num_bytes_in {vpnname="Gn"} 370053431947
+gtpc_ctrl_num_pkts_in {vpnname="Gn"} 4438543032
+gtpc_ctrl_num_bytes_out {vpnname="Gn"} 249509796400
+gtpc_ctrl_num_pkts_out {vpnname="Gn"} 4431659408
+gtpc_num_bytes_in {vpnname="Gn"} 239031320737369
+gtpc_num_pkts_in {vpnname="Gn"} 1452303598865
+gtpc_num_bytes_out {vpnname="Gn"} 2357353631758230
+gtpc_num_pkts_out {vpnname="Gn"} 2246568248812
+gtpc_no_auth {vpnname="Gn"} 169707294
+gtpc_err_ind {vpnname="Gn"} 284320
+gtpc_ctxt_replace {vpnname="Gn"} 44453
+gtpc_update_handoff_rej {vpnname="Gn"} 9670112
+gtpc_sgsn_restart_echo_rsp {vpnname="Gn"} 16
+gtpc_gtpc_echo_timeout {vpnname="Gn"} 252853
+gtpc_ggsn_req_timeout {vpnname="Gn"} 357069
+gtpp_normal_close {vpnname="Ga"} 76288762
+gtpp_abnormal_close {vpnname="Ga"} 171811
+gtpp_vol_limit_close {vpnname="Ga"} 132757
+gtpp_open_req {vpnname="Ga"} 78119896
+gtpp_mgmt_int_close {vpnname="Ga"} 1648955
+gtpp_sgsn_chng_close {vpnname="Ga"} 24344
+gtpp_max_chng_close {vpnname="Ga"} 12904636
+gtpp_ms_tz_chng_close {vpnname="Ga"} 34
+gtpp_cc_char_hot {vpnname="Ga"} 32004
+gtpp_cc_char_normal {vpnname="Ga"} 86738692
+gtpp_cc_char_prepaid {vpnname="Ga"} 345101
+gtpp_cc_char_flat {vpnname="Ga"} 10197
+gtpp_cc_char_unknown {vpnname="Ga"} 4045305
+ippool_free {vpnname="Gi-LBTS"} 4094
+ippool_groupname_ipv4free {vpnname="Gi-LBTS"} 8188
+ippool_used {vpnname="Gi-LBTS"} 80186
+ippool_groupname_ipv4used {vpnname="Gi-LBTS"} 924092
+ippool_groupname_ipv6free {vpnname="Gi-LBTS"} 8192
+ippool_free {vpnname="Gi-Internet3"} 8190
+ippool_groupname_ipv4free {vpnname="Gi-Internet3"} 262136
+apn_uplnk_bytes {apn="axis"} 362636631166579
+apn_dnlnk_bytes {apn="axis"} 3860200004238290
+apn_uplnk_pkts {apn="axis"} 2282734267591
+apn_dnlnk_pkts {apn="axis"} 3800789462915
+apn_uplnk_bytes_drop {apn="axis"} 749444971200
+apn_dnlnk_bytes_drop {apn="axis"} 25559380267726
+apn_uplnk_drop {apn="axis"} 2364796349
+apn_dnlnk_drop {apn="axis"} 1983481824
+apn_bad_hdr {apn="axis"} 628745577
+apn_ttl_excd {apn="axis"} 4739400
+apn_inacl_drop {apn="axis"} 425372189
+apn_inexcd_mbr_pkt_drop {apn="axis"} 1464379457
+apn_outexcd_mbr_pkt_drop {apn="axis"} 1960401270
+apn_qci8_uplinkpkt_drop {apn="axis"} 1486798282
+apn_qci8_dwlinkpkt_drop {apn="axis"} 3996596206
+apn_qci8_uplinkbyte_drop {apn="axis"} 4137374474599
+apn_qci8_dwlinkbyte_drop {apn="axis"} 5154952944161
+apn_qci9_actbear {apn="axis"} 7
+apn_qci9_setupbear {apn="axis"} 21629
+apn_qci9_relbear {apn="axis"} 21626
+apn_qci9_uplinkpkt_fwd {apn="axis"} 44815410
+apn_qci9_dwlinkpkt_fwd {apn="axis"} 58046734
+apn_qci9_uplinkbyte_fwd {apn="axis"} 13113710906
+apn_qci9_dwlinkbyte_fwd {apn="axis"} 55371431392
+apn_qci9_uplinkpkt_drop {apn="axis"} 3349526
+apn_qci9_dwlinkpkt_drop {apn="axis"} 4160268
+apn_qci9_uplinkbyte_drop {apn="axis"} 585531502
+apn_qci9_dwlinkbyte_drop {apn="axis"} 4095197373
+apn_nonstdqci_gbr_relbear {apn="axis"} 28
+apn_qci4_rejbearer {apn="axis"} 5
+apn_qci6_uplinkpkt_drop_mbrexcd {apn="axis"} 1063357427
+apn_qci6_dwlinkpkt_drop_mbrexcd {apn="axis"} 1310619823
+apn_qci6_uplinkbyte_drop_mbrexcd {apn="axis"} 1121752835282
+apn_qci6_dwlinkbyte_drop_mbrexcd {apn="axis"} 14329018367436
+apn_qci6_rejbearer {apn="axis"} 2637
+apn_qci7_uplinkpkt_drop_mbrexcd {apn="axis"} 117348550
+apn_qci7_dwlinkpkt_drop_mbrexcd {apn="axis"} 1834590490
+apn_qci7_uplinkbyte_drop_mbrexcd {apn="axis"} 118569126969
+apn_qci7_dwlinkbyte_drop_mbrexcd {apn="axis"} 2008033175661
+apn_qci7_rejbearer {apn="axis"} 377
+apn_qci8_uplinkpkt_drop_mbrexcd {apn="axis"} 283668961
+apn_qci8_dwlinkpkt_drop_mbrexcd {apn="axis"} 3109189197
+apn_qci8_uplinkbyte_drop_mbrexcd {apn="axis"} 281043624959
+apn_qci8_dwlinkbyte_drop_mbrexcd {apn="axis"} 3246253690482
+apn_qci9_uplinkpkt_drop_mbrexcd {apn="axis"} 4519
+apn_qci9_dwlinkpkt_drop_mbrexcd {apn="axis"} 969056
+apn_qci9_uplinkbyte_drop_mbrexcd {apn="axis"} 5706884
+apn_qci9_dwlinkbyte_drop_mbrexcd {apn="axis"} 1057321849
+apn_qci9_rejbearer {apn="axis"} 3
+apn_active_eutran_sessions {apn="axis"} 215322
+apn_active_utran_sessions {apn="axis"} 44638
+apn_active_geran_sessions {apn="axis"} 4278
+apn_initiated_eutran_sessions {apn="axis"} 201272588
+apn_initiated_utran_sessions {apn="axis"} 50223517
+apn_initiated_geran_sessions {apn="axis"} 18208517
+apn_apn_handoverstat_gngptolteatt {apn="axis"} 136790348
+apn_apn_handoverstat_gngptoltesucc {apn="axis"} 136775229
+apn_apn_handoverstat_gngptoltefail {apn="axis"} 5937
+apn_apn_handoverstat_ltetogngpatt {apn="axis"} 154271525
+apn_apn_handoverstat_ltetogngpsucc {apn="axis"} 146905549
+apn_apn_handoverstat_ltetogngpfail {apn="axis"} 7358962
+apn_apn_handoverstat_s4sgsntogngpatt {apn="axis"} 1
+apn_apn_handoverstat_s4sgsntolteatt {apn="axis"} 836
+apn_apn_handoverstat_s4sgsntoltesucc {apn="axis"} 829
+apn_inexcd_ambr_pkt_drop {apn="axis"} 100389341
+apn_outexcd_ambr_pkt_drop {apn="axis"} 1202562696
+apn_inexcd_mbr_byte_drop {apn="axis"} 952871310
+apn_outexcd_mbr_byte_drop {apn="axis"} 3606652964
+apn_inexcd_ambr_byte_drop {apn="axis"} 2814563883
+apn_outexcd_ambr_byte_drop {apn="axis"} 3693286828
+apn_addr_lpool {apn="axis"} 264270
+apn_sess_curr {apn="axis"} 264264
+apn_sess_curr_all {apn="axis"} 923930
+apn_apn_handoverstat_ltetos4sgsnatt {apn="axis"} 872
+apn_sess_tot {apn="axis"} 269796370
+apn_sess_tot_all {apn="axis"} 845640504
+apn_att_pdp_ctxt {apn="axis"} 68449777
+apn_att_deact_pdp_ggsn {apn="axis"} 7591791
+apn_succ_deact_pdp_ggsn {apn="axis"} 7367383
+apn_att_deact_pdp_ms {apn="axis"} 70462510
+apn_succ_deact_pdp_ms {apn="axis"} 70454835
+apn_dyn_ipv4_attempt {apn="axis"} 269690648
+apn_data_fromuseravg_bps {apn="axis"} 322269107
+apn_data_touseravg_bps {apn="axis"} 3543059219
+apn_data_fromusersust_bps {apn="axis"} 320471828
+apn_data_tousersust_bps {apn="axis"} 3533891268
+apn_data_fromuseravg_pps {apn="axis"} 219550
+apn_data_touseravg_pps {apn="axis"} 394976
+apn_data_fromusersust_pps {apn="axis"} 224370
+apn_data_tousersust_pps {apn="axis"} 397927
+apn_qosback_pkts_uplnk {apn="axis"} 3128491290
+apn_qosback_pkts_dnlnk {apn="axis"} 2215240086
+apn_acc_req_sent {apn="axis"} 658451310
+apn_acc_rsp_rcvd {apn="axis"} 658450377
+apn_acc_req_timeout {apn="axis"} 312720
+apn_act_defbear {apn="axis"} 264264
+apn_setup_defbear {apn="axis"} 269690648
+apn_rel_defbear {apn="axis"} 269532078
+apn_rej_defbear {apn="axis"} 2994
+apn_rej_dedbear {apn="axis"} 28
+apn_mod_uebear {apn="axis"} 1415787252
+apn_mod_nwbear {apn="axis"} 149057097
+apn_ue_init_modfail {apn="axis"} 12977161
+apn_nw_init_modfail {apn="axis"} 13597939
+apn_pdn_ipv4_actsess {apn="axis"} 264281
+apn_pdn_ipv4_setupsess {apn="axis"} 269690648
+apn_qci6_actbear {apn="axis"} 11391
+apn_qci6_setupbear {apn="axis"} 129714274
+apn_qci6_relbear {apn="axis"} 130201138
+apn_qci6_uplinkpkt_fwd {apn="axis"} 313546587824
+apn_qci6_dwlinkpkt_fwd {apn="axis"} 453354669398
+apn_qci6_uplinkbyte_fwd {apn="axis"} 46464088450224
+apn_qci6_dwlinkbyte_fwd {apn="axis"} 448050503143312
+apn_qci6_uplinkpkt_drop {apn="axis"} 2420688296
+apn_qci6_dwlinkpkt_drop {apn="axis"} 2516389992
+apn_qci6_uplinkbyte_drop {apn="axis"} 23035694841622
+apn_qci6_dwlinkbyte_drop {apn="axis"} 18273460223705
+apn_qci7_actbear {apn="axis"} 2647
+apn_qci7_setupbear {apn="axis"} 11629177
+apn_qci7_relbear {apn="axis"} 11659119
+apn_qci7_uplinkpkt_fwd {apn="axis"} 33072368606
+apn_qci7_dwlinkpkt_fwd {apn="axis"} 51075802545
+apn_qci7_uplinkbyte_fwd {apn="axis"} 4474423887931
+apn_qci7_dwlinkbyte_fwd {apn="axis"} 52802951274079
+apn_qci7_uplinkpkt_drop {apn="axis"} 2747390761
+apn_qci7_dwlinkpkt_drop {apn="axis"} 4055969275
+apn_qci7_uplinkbyte_drop {apn="axis"} 767225148778
+apn_qci7_dwlinkbyte_drop {apn="axis"} 2126823457004
+apn_qci8_actbear {apn="axis"} 156278
+apn_qci8_setupbear {apn="axis"} 131368640
+apn_qci8_relbear {apn="axis"} 131277522
+apn_qci8_uplinkpkt_fwd {apn="axis"} 1936072032531
+apn_qci8_dwlinkpkt_fwd {apn="axis"} 3182647086933
+apn_qci8_uplinkbyte_fwd {apn="axis"} 284493570092217
+apn_qci8_dwlinkbyte_fwd {apn="axis"} 3333731729477821
+apn_uplnk_bytes {apn="axismms"} 153115
+apn_dnlnk_bytes {apn="axismms"} 192708
+apn_uplnk_pkts {apn="axismms"} 1917
+apn_dnlnk_pkts {apn="axismms"} 1312
+apn_uplnk_bytes_drop {apn="axismms"} 46403
+apn_uplnk_drop {apn="axismms"} 550
+apn_initiated_utran_sessions {apn="axismms"} 13
+apn_sess_curr_all {apn="axismms"} 923930
+apn_sess_tot {apn="axismms"} 13
+apn_sess_tot_all {apn="axismms"} 845640504
+apn_acc_req_sent {apn="axismms"} 32
+apn_setup_defbear {apn="axismms"} 13
+apn_rel_defbear {apn="axismms"} 13
+apn_mod_uebear {apn="axismms"} 2
+apn_mod_nwbear {apn="axismms"} 6
+apn_qci7_setupbear {apn="axismms"} 19
+apn_qci7_uplinkpkt_fwd {apn="axismms"} 1917
+apn_qci7_dwlinkpkt_fwd {apn="axismms"} 1312
+apn_qci7_uplinkbyte_fwd {apn="axismms"} 153115
+apn_qci7_dwlinkbyte_fwd {apn="axismms"} 192708
+apn_qci7_uplinkpkt_drop {apn="axismms"} 550
+apn_qci7_uplinkbyte_drop {apn="axismms"} 46403
+apn_uplnk_bytes {apn="blackberry.net"} 143008
+apn_dnlnk_bytes {apn="blackberry.net"} 340365
+apn_uplnk_pkts {apn="blackberry.net"} 948
+apn_dnlnk_pkts {apn="blackberry.net"} 1035
+apn_uplnk_bytes_drop {apn="blackberry.net"} 1007103
+apn_uplnk_drop {apn="blackberry.net"} 2933
+apn_initiated_utran_sessions {apn="blackberry.net"} 4945
+apn_initiated_geran_sessions {apn="blackberry.net"} 56681
+apn_sess_curr_all {apn="blackberry.net"} 923930
+apn_sess_tot {apn="blackberry.net"} 28
+apn_sess_tot_all {apn="blackberry.net"} 845640504
+apn_att_deact_pdp_ggsn {apn="blackberry.net"} 5
+apn_succ_deact_pdp_ggsn {apn="blackberry.net"} 2
+apn_att_deact_pdp_ms {apn="blackberry.net"} 18
+apn_acc_req_sent {apn="blackberry.net"} 74
+apn_setup_defbear {apn="blackberry.net"} 28
+apn_rel_defbear {apn="blackberry.net"} 28
+apn_mod_uebear {apn="blackberry.net"} 5
+apn_mod_nwbear {apn="blackberry.net"} 26
+apn_qci7_setupbear {apn="blackberry.net"} 52
+apn_qci7_uplinkpkt_fwd {apn="blackberry.net"} 832
+apn_qci7_dwlinkpkt_fwd {apn="blackberry.net"} 890
+apn_qci7_uplinkbyte_fwd {apn="blackberry.net"} 135491
+apn_qci7_dwlinkbyte_fwd {apn="blackberry.net"} 216919
+apn_qci7_uplinkpkt_drop {apn="blackberry.net"} 2933
+apn_qci7_uplinkbyte_drop {apn="blackberry.net"} 1007103
+apn_qci8_setupbear {apn="blackberry.net"} 2
+apn_qci8_uplinkpkt_fwd {apn="blackberry.net"} 116
+apn_qci8_dwlinkpkt_fwd {apn="blackberry.net"} 145
+apn_qci8_uplinkbyte_fwd {apn="blackberry.net"} 7517
+apn_qci8_dwlinkbyte_fwd {apn="blackberry.net"} 123446
+apn_sess_curr_all {apn="broadband"} 923930
+apn_sess_tot_all {apn="broadband"} 845640504
+apn_qci6_rejbearer {apn="dnstest1"} 73
+apn_initiated_eutran_sessions {apn="dnstest1"} 17
+apn_sess_curr_all {apn="dnstest1"} 923930
+apn_sess_tot_all {apn="dnstest1"} 845640504
+apn_att_pdp_ctxt {apn="dnstest1"} 56
+apn_dyn_ipv4_attempt {apn="dnstest1"} 73
+apn_rej_defbear {apn="dnstest1"} 73
+apn_sess_curr_all {apn="dnstest2"} 923930
+apn_sess_tot_all {apn="dnstest2"} 845640504
+apn_sess_curr_all {apn="ggcbt11"} 923930
+apn_sess_tot_all {apn="ggcbt11"} 845640504
+apn_sess_curr_all {apn="ims"} 923930
+apn_sess_tot_all {apn="ims"} 845640504
+apn_uplnk_bytes {apn="internet"} 970474297265730
+apn_dnlnk_bytes {apn="internet"} 11525927921357592
+apn_uplnk_pkts {apn="internet"} 5889509525958
+apn_dnlnk_pkts {apn="internet"} 10312529625927
+apn_uplnk_bytes_drop {apn="internet"} 695510153075
+apn_dnlnk_bytes_drop {apn="internet"} 26191329002377
+apn_uplnk_drop {apn="internet"} 1202862639
+apn_dnlnk_drop {apn="internet"} 3946417452
+apn_bad_hdr {apn="internet"} 428121738
+apn_ttl_excd {apn="internet"} 10122700
+apn_inacl_drop {apn="internet"} 1119926130
+apn_inexcd_mbr_pkt_drop {apn="internet"} 788961937
+apn_outexcd_mbr_pkt_drop {apn="internet"} 3466127982
+apn_qci8_uplinkpkt_drop {apn="internet"} 2593135612
+apn_qci8_dwlinkpkt_drop {apn="internet"} 3470777312
+apn_qci8_uplinkbyte_drop {apn="internet"} 2192128469862
+apn_qci8_dwlinkbyte_drop {apn="internet"} 7469388820368
+apn_qci9_actbear {apn="internet"} 712
+apn_qci9_setupbear {apn="internet"} 811806
+apn_qci9_relbear {apn="internet"} 811515
+apn_qci9_uplinkpkt_fwd {apn="internet"} 5362821354
+apn_qci9_dwlinkpkt_fwd {apn="internet"} 8039651339
+apn_qci9_uplinkbyte_fwd {apn="internet"} 1596185171782
+apn_qci9_dwlinkbyte_fwd {apn="internet"} 8728480474168
+apn_qci9_uplinkpkt_drop {apn="internet"} 109698634
+apn_qci9_dwlinkpkt_drop {apn="internet"} 210584679
+apn_qci9_uplinkbyte_drop {apn="internet"} 19003320103
+apn_qci9_dwlinkbyte_drop {apn="internet"} 263906172422
+apn_nonstdqci_gbr_relbear {apn="internet"} 16
+apn_qci4_dwlinkpkt_drop_mbrexcd {apn="internet"} 151
+apn_qci4_dwlinkbyte_drop_mbrexcd {apn="internet"} 213259
+apn_qci4_rejbearer {apn="internet"} 4690
+apn_qci6_uplinkpkt_drop_mbrexcd {apn="internet"} 607260527
+apn_qci6_dwlinkpkt_drop_mbrexcd {apn="internet"} 1146465647
+apn_qci6_uplinkbyte_drop_mbrexcd {apn="internet"} 639631895995
+apn_qci6_dwlinkbyte_drop_mbrexcd {apn="internet"} 10860728651978
+apn_qci6_rejbearer {apn="internet"} 135730
+apn_qci7_uplinkpkt_drop_mbrexcd {apn="internet"} 56600938
+apn_qci7_dwlinkpkt_drop_mbrexcd {apn="internet"} 1147774072
+apn_qci7_uplinkbyte_drop_mbrexcd {apn="internet"} 59561535529
+apn_qci7_dwlinkbyte_drop_mbrexcd {apn="internet"} 1477652238369
+apn_qci7_rejbearer {apn="internet"} 100
+apn_qci8_uplinkpkt_drop_mbrexcd {apn="internet"} 124353651
+apn_qci8_dwlinkpkt_drop_mbrexcd {apn="internet"} 1158350157
+apn_qci8_uplinkbyte_drop_mbrexcd {apn="internet"} 121949863667
+apn_qci8_dwlinkbyte_drop_mbrexcd {apn="internet"} 1189632736368
+apn_qci8_rejbearer {apn="internet"} 1
+apn_qci9_uplinkpkt_drop_mbrexcd {apn="internet"} 746821
+apn_qci9_dwlinkpkt_drop_mbrexcd {apn="internet"} 13537955
+apn_qci9_uplinkbyte_drop_mbrexcd {apn="internet"} 800052212
+apn_qci9_dwlinkbyte_drop_mbrexcd {apn="internet"} 17028901916
+apn_qci9_rejbearer {apn="internet"} 10
+apn_active_eutran_sessions {apn="internet"} 584085
+apn_active_utran_sessions {apn="internet"} 55417
+apn_active_geran_sessions {apn="internet"} 3220
+apn_active_other_sessions {apn="internet"} 6
+apn_initiated_eutran_sessions {apn="internet"} 474467829
+apn_initiated_utran_sessions {apn="internet"} 39086563
+apn_initiated_geran_sessions {apn="internet"} 22527054
+apn_apn_handoverstat_gngptolteatt {apn="internet"} 308256428
+apn_apn_handoverstat_gngptoltesucc {apn="internet"} 308228335
+apn_apn_handoverstat_gngptoltefail {apn="internet"} 11957
+apn_apn_handoverstat_ltetogngpatt {apn="internet"} 331946763
+apn_apn_handoverstat_ltetogngpsucc {apn="internet"} 329792784
+apn_apn_handoverstat_ltetogngpfail {apn="internet"} 2116621
+apn_apn_handoverstat_s4sgsntogngpatt {apn="internet"} 20
+apn_apn_handoverstat_s4sgsntolteatt {apn="internet"} 70483
+apn_apn_handoverstat_s4sgsntoltesucc {apn="internet"} 69352
+apn_inexcd_ambr_pkt_drop {apn="internet"} 405661536
+apn_outexcd_ambr_pkt_drop {apn="internet"} 1200546402
+apn_inexcd_mbr_byte_drop {apn="internet"} 1604593867
+apn_outexcd_mbr_byte_drop {apn="internet"} 3010857602
+apn_inexcd_ambr_byte_drop {apn="internet"} 1753874016
+apn_outexcd_ambr_byte_drop {apn="internet"} 3451972223
+apn_addr_lpool {apn="internet"} 642811
+apn_sess_curr {apn="internet"} 642808
+apn_sess_curr_all {apn="internet"} 923930
+apn_apn_handoverstat_s4sgsntoltefail {apn="internet"} 2
+apn_apn_handoverstat_ltetos4sgsnatt {apn="internet"} 76359
+apn_sess_tot {apn="internet"} 536182509
+apn_sess_tot_all {apn="internet"} 845640504
+apn_att_pdp_ctxt {apn="internet"} 61629277
+apn_att_deact_pdp_ggsn {apn="internet"} 12399042
+apn_succ_deact_pdp_ggsn {apn="internet"} 12187690
+apn_att_deact_pdp_ms {apn="internet"} 70172748
+apn_succ_deact_pdp_ms {apn="internet"} 70165206
+apn_dyn_ipv4_attempt {apn="internet"} 535924100
+apn_data_fromuseravg_bps {apn="internet"} 1133894646
+apn_data_touseravg_bps {apn="internet"} 12213727409
+apn_data_fromusersust_bps {apn="internet"} 1131623442
+apn_data_tousersust_bps {apn="internet"} 12201116708
+apn_data_fromuseravg_pps {apn="internet"} 596952
+apn_data_touseravg_pps {apn="internet"} 1270331
+apn_data_fromusersust_pps {apn="internet"} 608739
+apn_data_tousersust_pps {apn="internet"} 1279810
+apn_qosback_pkts_uplnk {apn="internet"} 719342485
+apn_qosback_pkts_dnlnk {apn="internet"} 471657982
+apn_acc_req_sent {apn="internet"} 1319633170
+apn_acc_rsp_rcvd {apn="internet"} 1319631933
+apn_acc_req_timeout {apn="internet"} 383278
+apn_act_defbear {apn="internet"} 642809
+apn_setup_defbear {apn="internet"} 535924100
+apn_setup_dedbear {apn="internet"} 2
+apn_rel_defbear {apn="internet"} 535539682
+apn_rej_defbear {apn="internet"} 135825
+apn_rej_dedbear {apn="internet"} 4706
+apn_mod_uebear {apn="internet"} 2361307209
+apn_mod_nwbear {apn="internet"} 331888545
+apn_ue_init_modfail {apn="internet"} 4393710
+apn_nw_init_modfail {apn="internet"} 23588882
+apn_pdn_ipv4_actsess {apn="internet"} 642827
+apn_pdn_ipv4_setupsess {apn="internet"} 535924100
+apn_qci4_setupbear {apn="internet"} 2
+apn_qci4_uplinkpkt_fwd {apn="internet"} 873
+apn_qci4_dwlinkpkt_fwd {apn="internet"} 1093
+apn_qci4_uplinkbyte_fwd {apn="internet"} 154383
+apn_qci4_dwlinkbyte_fwd {apn="internet"} 619681
+apn_qci4_dwlinkpkt_drop {apn="internet"} 151
+apn_qci4_dwlinkbyte_drop {apn="internet"} 213259
+apn_qci5_setupbear {apn="internet"} 1
+apn_qci6_actbear {apn="internet"} 30329
+apn_qci6_setupbear {apn="internet"} 376560283
+apn_qci6_relbear {apn="internet"} 377497758
+apn_qci6_uplinkpkt_fwd {apn="internet"} 3681791118888
+apn_qci6_dwlinkpkt_fwd {apn="internet"} 6475031635847
+apn_qci6_uplinkbyte_fwd {apn="internet"} 597884788971452
+apn_qci6_dwlinkbyte_fwd {apn="internet"} 7486360632457994
+apn_qci6_uplinkpkt_drop {apn="internet"} 1319787204
+apn_qci6_dwlinkpkt_drop {apn="internet"} 3680349878
+apn_qci6_uplinkbyte_drop {apn="internet"} 28136047213731
+apn_qci6_dwlinkbyte_drop {apn="internet"} 16060965557881
+apn_qci7_actbear {apn="internet"} 11495
+apn_qci7_setupbear {apn="internet"} 110602706
+apn_qci7_relbear {apn="internet"} 110975266
+apn_qci7_uplinkpkt_fwd {apn="internet"} 1470055198613
+apn_qci7_dwlinkpkt_fwd {apn="internet"} 2500490691557
+apn_qci7_uplinkbyte_fwd {apn="internet"} 225708422619498
+apn_qci7_dwlinkbyte_fwd {apn="internet"} 2766981441264615
+apn_qci7_uplinkpkt_drop {apn="internet"} 1471373996
+apn_qci7_dwlinkpkt_drop {apn="internet"} 879187712
+apn_qci7_uplinkbyte_drop {apn="internet"} 5627186970593
+apn_qci7_dwlinkbyte_drop {apn="internet"} 2396975438915
+apn_qci8_actbear {apn="internet"} 53272
+apn_qci8_setupbear {apn="internet"} 50929004
+apn_qci8_relbear {apn="internet"} 50902690
+apn_qci8_uplinkpkt_fwd {apn="internet"} 732304220719
+apn_qci8_dwlinkpkt_fwd {apn="internet"} 1200465922605
+apn_qci8_uplinkbyte_fwd {apn="internet"} 110006044527401
+apn_qci8_dwlinkbyte_fwd {apn="internet"} 1237665967289557
+apn_sess_curr_all {apn="upcc01"} 923930
+apn_sess_tot_all {apn="upcc01"} 845640504
+apn_sess_curr_all {apn="upcc02"} 923930
+apn_sess_tot_all {apn="upcc02"} 845640504
+apn_uplnk_bytes {apn="upccdryrun"} 113427261
+apn_dnlnk_bytes {apn="upccdryrun"} 369318145
+apn_uplnk_pkts {apn="upccdryrun"} 207204
+apn_dnlnk_pkts {apn="upccdryrun"} 353579
+apn_uplnk_bytes_drop {apn="upccdryrun"} 43447
+apn_uplnk_drop {apn="upccdryrun"} 243
+apn_bad_hdr {apn="upccdryrun"} 2
+apn_inacl_drop {apn="upccdryrun"} 241
+apn_qci8_uplinkpkt_drop {apn="upccdryrun"} 229
+apn_qci8_uplinkbyte_drop {apn="upccdryrun"} 40595
+apn_active_eutran_sessions {apn="upccdryrun"} 1
+apn_initiated_eutran_sessions {apn="upccdryrun"} 21
+apn_initiated_utran_sessions {apn="upccdryrun"} 49
+apn_apn_handoverstat_gngptolteatt {apn="upccdryrun"} 25
+apn_apn_handoverstat_ltetogngpatt {apn="upccdryrun"} 24
+apn_addr_lpool {apn="upccdryrun"} 1
+apn_sess_curr_all {apn="upccdryrun"} 923930
+apn_sess_tot {apn="upccdryrun"} 70
+apn_sess_tot_all {apn="upccdryrun"} 845640504
+apn_att_pdp_ctxt {apn="upccdryrun"} 49
+apn_att_deact_pdp_ms {apn="upccdryrun"} 48
+apn_qosback_pkts_uplnk {apn="upccdryrun"} 148
+apn_qosback_pkts_dnlnk {apn="upccdryrun"} 121
+apn_acc_req_sent {apn="upccdryrun"} 185
+apn_act_defbear {apn="upccdryrun"} 1
+apn_setup_defbear {apn="upccdryrun"} 70
+apn_rel_defbear {apn="upccdryrun"} 69
+apn_mod_uebear {apn="upccdryrun"} 126
+apn_mod_nwbear {apn="upccdryrun"} 27
+apn_nw_init_modfail {apn="upccdryrun"} 1
+apn_pdn_ipv4_setupsess {apn="upccdryrun"} 70
+apn_qci6_setupbear {apn="upccdryrun"} 9
+apn_qci6_uplinkpkt_fwd {apn="upccdryrun"} 148
+apn_qci6_dwlinkpkt_fwd {apn="upccdryrun"} 121
+apn_qci6_uplinkbyte_fwd {apn="upccdryrun"} 34833
+apn_qci6_dwlinkbyte_fwd {apn="upccdryrun"} 20217
+apn_qci6_uplinkpkt_drop {apn="upccdryrun"} 14
+apn_qci6_uplinkbyte_drop {apn="upccdryrun"} 2852
+apn_qci8_actbear {apn="upccdryrun"} 1
+apn_qci8_setupbear {apn="upccdryrun"} 63
+apn_qci8_relbear {apn="upccdryrun"} 62
+apn_qci8_uplinkpkt_fwd {apn="upccdryrun"} 207056
+apn_qci8_dwlinkpkt_fwd {apn="upccdryrun"} 353458
+apn_qci8_uplinkbyte_fwd {apn="upccdryrun"} 113392428
+apn_qci8_dwlinkbyte_fwd {apn="upccdryrun"} 369297928
+apn_uplnk_bytes {apn="www.xlgprs.net"} 20377452062237
+apn_dnlnk_bytes {apn="www.xlgprs.net"} 233144418668657
+apn_uplnk_pkts {apn="www.xlgprs.net"} 130615713169
+apn_dnlnk_pkts {apn="www.xlgprs.net"} 224589877642
+apn_uplnk_bytes_drop {apn="www.xlgprs.net"} 588072606442
+apn_dnlnk_bytes_drop {apn="www.xlgprs.net"} 1116091710290
+apn_uplnk_drop {apn="www.xlgprs.net"} 2354310505
+apn_dnlnk_drop {apn="www.xlgprs.net"} 997707433
+apn_bad_hdr {apn="www.xlgprs.net"} 137676938
+apn_ttl_excd {apn="www.xlgprs.net"} 477651
+apn_inacl_drop {apn="www.xlgprs.net"} 84080680
+apn_inexcd_mbr_pkt_drop {apn="www.xlgprs.net"} 29741244
+apn_outexcd_mbr_pkt_drop {apn="www.xlgprs.net"} 579830793
+apn_qci8_uplinkpkt_drop {apn="www.xlgprs.net"} 495522198
+apn_qci8_dwlinkpkt_drop {apn="www.xlgprs.net"} 451453754
+apn_qci8_uplinkbyte_drop {apn="www.xlgprs.net"} 125174227543
+apn_qci8_dwlinkbyte_drop {apn="www.xlgprs.net"} 82442486441
+apn_qci9_actbear {apn="www.xlgprs.net"} 21
+apn_qci9_setupbear {apn="www.xlgprs.net"} 15963
+apn_qci9_relbear {apn="www.xlgprs.net"} 15950
+apn_qci9_uplinkpkt_fwd {apn="www.xlgprs.net"} 96689239
+apn_qci9_dwlinkpkt_fwd {apn="www.xlgprs.net"} 136170712
+apn_qci9_uplinkbyte_fwd {apn="www.xlgprs.net"} 21868699251
+apn_qci9_dwlinkbyte_fwd {apn="www.xlgprs.net"} 132443493438
+apn_qci9_uplinkpkt_drop {apn="www.xlgprs.net"} 9831016
+apn_qci9_dwlinkpkt_drop {apn="www.xlgprs.net"} 9564953
+apn_qci9_uplinkbyte_drop {apn="www.xlgprs.net"} 1454859228
+apn_qci9_dwlinkbyte_drop {apn="www.xlgprs.net"} 8943248480
+apn_nonstdqci_gbr_relbear {apn="www.xlgprs.net"} 9
+apn_qci4_rejbearer {apn="www.xlgprs.net"} 2
+apn_qci6_uplinkpkt_drop_mbrexcd {apn="www.xlgprs.net"} 24308061
+apn_qci6_dwlinkpkt_drop_mbrexcd {apn="www.xlgprs.net"} 476541665
+apn_qci6_uplinkbyte_drop_mbrexcd {apn="www.xlgprs.net"} 31993097702
+apn_qci6_dwlinkbyte_drop_mbrexcd {apn="www.xlgprs.net"} 507934498976
+apn_qci6_rejbearer {apn="www.xlgprs.net"} 10260
+apn_qci7_uplinkpkt_drop_mbrexcd {apn="www.xlgprs.net"} 2324201
+apn_qci7_dwlinkpkt_drop_mbrexcd {apn="www.xlgprs.net"} 49721905
+apn_qci7_uplinkbyte_drop_mbrexcd {apn="www.xlgprs.net"} 2637709080
+apn_qci7_dwlinkbyte_drop_mbrexcd {apn="www.xlgprs.net"} 59554186809
+apn_qci7_rejbearer {apn="www.xlgprs.net"} 1435
+apn_qci8_uplinkpkt_drop_mbrexcd {apn="www.xlgprs.net"} 3108982
+apn_qci8_dwlinkpkt_drop_mbrexcd {apn="www.xlgprs.net"} 49470634
+apn_qci8_uplinkbyte_drop_mbrexcd {apn="www.xlgprs.net"} 4183505133
+apn_qci8_dwlinkbyte_drop_mbrexcd {apn="www.xlgprs.net"} 51425309326
+apn_qci9_dwlinkpkt_drop_mbrexcd {apn="www.xlgprs.net"} 4096589
+apn_qci9_dwlinkbyte_drop_mbrexcd {apn="www.xlgprs.net"} 3817437155
+apn_qci9_rejbearer {apn="www.xlgprs.net"} 2
+apn_active_eutran_sessions {apn="www.xlgprs.net"} 907
+apn_active_utran_sessions {apn="www.xlgprs.net"} 12366
+apn_active_geran_sessions {apn="www.xlgprs.net"} 3446
+apn_initiated_eutran_sessions {apn="www.xlgprs.net"} 2
+apn_initiated_utran_sessions {apn="www.xlgprs.net"} 10859355
+apn_initiated_geran_sessions {apn="www.xlgprs.net"} 17597824
+apn_apn_handoverstat_gngptolteatt {apn="www.xlgprs.net"} 3385697
+apn_apn_handoverstat_gngptoltesucc {apn="www.xlgprs.net"} 3385528
+apn_apn_handoverstat_gngptoltefail {apn="www.xlgprs.net"} 139
+apn_apn_handoverstat_ltetogngpatt {apn="www.xlgprs.net"} 3148726
+apn_apn_handoverstat_ltetogngpsucc {apn="www.xlgprs.net"} 3062986
+apn_apn_handoverstat_ltetogngpfail {apn="www.xlgprs.net"} 85638
+apn_inexcd_ambr_pkt_drop {apn="www.xlgprs.net"} 2207610
+apn_outexcd_ambr_pkt_drop {apn="www.xlgprs.net"} 21407661
+apn_inexcd_mbr_byte_drop {apn="www.xlgprs.net"} 159606251
+apn_outexcd_mbr_byte_drop {apn="www.xlgprs.net"} 4256141642
+apn_inexcd_ambr_byte_drop {apn="www.xlgprs.net"} 2473293208
+apn_outexcd_ambr_byte_drop {apn="www.xlgprs.net"} 2298410483
+apn_addr_lpool {apn="www.xlgprs.net"} 16721
+apn_sess_curr_all {apn="www.xlgprs.net"} 923930
+apn_sess_tot {apn="www.xlgprs.net"} 28457506
+apn_sess_tot_all {apn="www.xlgprs.net"} 845640504
+apn_att_pdp_ctxt {apn="www.xlgprs.net"} 28465101
+apn_att_deact_pdp_ggsn {apn="www.xlgprs.net"} 1578384
+apn_succ_deact_pdp_ggsn {apn="www.xlgprs.net"} 1542131
+apn_att_deact_pdp_ms {apn="www.xlgprs.net"} 26484423
+apn_succ_deact_pdp_ms {apn="www.xlgprs.net"} 26481039
+apn_dyn_ipv4_attempt {apn="www.xlgprs.net"} 28449047
+apn_data_fromuseravg_bps {apn="www.xlgprs.net"} 24403074
+apn_data_touseravg_bps {apn="www.xlgprs.net"} 261619923
+apn_data_fromusersust_bps {apn="www.xlgprs.net"} 24189865
+apn_data_tousersust_bps {apn="www.xlgprs.net"} 261116926
+apn_data_fromuseravg_pps {apn="www.xlgprs.net"} 16147
+apn_data_touseravg_pps {apn="www.xlgprs.net"} 27345
+apn_data_fromusersust_pps {apn="www.xlgprs.net"} 16651
+apn_data_tousersust_pps {apn="www.xlgprs.net"} 27623
+apn_qosback_pkts_uplnk {apn="www.xlgprs.net"} 2949304281
+apn_qosback_pkts_dnlnk {apn="www.xlgprs.net"} 3391423700
+apn_acc_req_sent {apn="www.xlgprs.net"} 70486998
+apn_acc_rsp_rcvd {apn="www.xlgprs.net"} 70486997
+apn_acc_req_timeout {apn="www.xlgprs.net"} 389
+apn_act_defbear {apn="www.xlgprs.net"} 16721
+apn_setup_defbear {apn="www.xlgprs.net"} 28449047
+apn_rel_defbear {apn="www.xlgprs.net"} 28440776
+apn_rej_defbear {apn="www.xlgprs.net"} 13125
+apn_rej_dedbear {apn="www.xlgprs.net"} 9
+apn_mod_uebear {apn="www.xlgprs.net"} 200046857
+apn_mod_nwbear {apn="www.xlgprs.net"} 4717691
+apn_ue_init_modfail {apn="www.xlgprs.net"} 486922
+apn_nw_init_modfail {apn="www.xlgprs.net"} 142487
+apn_pdn_ipv4_actsess {apn="www.xlgprs.net"} 16721
+apn_pdn_ipv4_setupsess {apn="www.xlgprs.net"} 28449047
+apn_qci6_actbear {apn="www.xlgprs.net"} 10814
+apn_qci6_setupbear {apn="www.xlgprs.net"} 22576811
+apn_qci6_relbear {apn="www.xlgprs.net"} 22571127
+apn_qci6_uplinkpkt_fwd {apn="www.xlgprs.net"} 65870277269
+apn_qci6_dwlinkpkt_fwd {apn="www.xlgprs.net"} 109598992391
+apn_qci6_uplinkbyte_fwd {apn="www.xlgprs.net"} 9414408558892
+apn_qci6_dwlinkbyte_fwd {apn="www.xlgprs.net"} 120489683658137
+apn_qci6_uplinkpkt_drop {apn="www.xlgprs.net"} 847697217
+apn_qci6_dwlinkpkt_drop {apn="www.xlgprs.net"} 3932377410
+apn_qci6_uplinkbyte_drop {apn="www.xlgprs.net"} 2322584913994
+apn_qci6_dwlinkbyte_drop {apn="www.xlgprs.net"} 919167492517
+apn_qci7_actbear {apn="www.xlgprs.net"} 3319
+apn_qci7_setupbear {apn="www.xlgprs.net"} 3903812
+apn_qci7_relbear {apn="www.xlgprs.net"} 3902210
+apn_qci7_uplinkpkt_fwd {apn="www.xlgprs.net"} 27209771344
+apn_qci7_dwlinkpkt_fwd {apn="www.xlgprs.net"} 44744331918
+apn_qci7_uplinkbyte_fwd {apn="www.xlgprs.net"} 3792081302310
+apn_qci7_dwlinkbyte_fwd {apn="www.xlgprs.net"} 48447201070796
+apn_qci7_uplinkpkt_drop {apn="www.xlgprs.net"} 1001245847
+apn_qci7_dwlinkpkt_drop {apn="www.xlgprs.net"} 899276071
+apn_qci7_uplinkbyte_drop {apn="www.xlgprs.net"} 273457326103
+apn_qci7_dwlinkbyte_drop {apn="www.xlgprs.net"} 105538132622
+apn_qci8_actbear {apn="www.xlgprs.net"} 2472
+apn_qci8_setupbear {apn="www.xlgprs.net"} 3212860
+apn_qci8_relbear {apn="www.xlgprs.net"} 3212542
+apn_qci8_uplinkpkt_fwd {apn="www.xlgprs.net"} 37438989544
+apn_qci8_dwlinkpkt_fwd {apn="www.xlgprs.net"} 60522293587
+apn_qci8_uplinkbyte_fwd {apn="www.xlgprs.net"} 5014494781358
+apn_qci8_dwlinkbyte_fwd {apn="www.xlgprs.net"} 62958973703492
+apn_uplnk_bytes {apn="www.xlmms.net"} 10124932772
+apn_dnlnk_bytes {apn="www.xlmms.net"} 2156694744
+apn_uplnk_pkts {apn="www.xlmms.net"} 25971032
+apn_dnlnk_pkts {apn="www.xlmms.net"} 12720160
+apn_uplnk_bytes_drop {apn="www.xlmms.net"} 1453390713
+apn_dnlnk_bytes_drop {apn="www.xlmms.net"} 22307780
+apn_uplnk_drop {apn="www.xlmms.net"} 17397488
+apn_dnlnk_drop {apn="www.xlmms.net"} 44102
+apn_bad_hdr {apn="www.xlmms.net"} 13272955
+apn_ttl_excd {apn="www.xlmms.net"} 7
+apn_inacl_drop {apn="www.xlmms.net"} 58700
+apn_inexcd_mbr_pkt_drop {apn="www.xlmms.net"} 23
+apn_outexcd_mbr_pkt_drop {apn="www.xlmms.net"} 63
+apn_qci8_uplinkpkt_drop {apn="www.xlmms.net"} 1344852
+apn_qci8_dwlinkpkt_drop {apn="www.xlmms.net"} 1076
+apn_qci8_uplinkbyte_drop {apn="www.xlmms.net"} 94335020
+apn_qci8_dwlinkbyte_drop {apn="www.xlmms.net"} 399964
+apn_qci9_setupbear {apn="www.xlmms.net"} 155
+apn_qci9_uplinkpkt_fwd {apn="www.xlmms.net"} 6107
+apn_qci9_dwlinkpkt_fwd {apn="www.xlmms.net"} 3501
+apn_qci9_uplinkbyte_fwd {apn="www.xlmms.net"} 5376496
+apn_qci9_dwlinkbyte_fwd {apn="www.xlmms.net"} 287407
+apn_qci9_uplinkpkt_drop {apn="www.xlmms.net"} 545
+apn_qci9_dwlinkpkt_drop {apn="www.xlmms.net"} 35
+apn_qci9_uplinkbyte_drop {apn="www.xlmms.net"} 562407
+apn_qci9_dwlinkbyte_drop {apn="www.xlmms.net"} 23830
+apn_qci6_dwlinkpkt_drop_mbrexcd {apn="www.xlmms.net"} 32
+apn_qci6_dwlinkbyte_drop_mbrexcd {apn="www.xlmms.net"} 41918
+apn_qci6_rejbearer {apn="www.xlmms.net"} 27
+apn_qci7_uplinkpkt_drop_mbrexcd {apn="www.xlmms.net"} 23
+apn_qci7_uplinkbyte_drop_mbrexcd {apn="www.xlmms.net"} 23699
+apn_qci7_dwlinkbyte_drop_mbrexcd {apn="www.xlmms.net"} 2998
+apn_qci7_rejbearer {apn="www.xlmms.net"} 1
+apn_qci8_dwlinkbyte_drop_mbrexcd {apn="www.xlmms.net"} 36180
+apn_active_utran_sessions {apn="www.xlmms.net"} 25
+apn_active_geran_sessions {apn="www.xlmms.net"} 94
+apn_initiated_utran_sessions {apn="www.xlmms.net"} 7579165
+apn_initiated_geran_sessions {apn="www.xlmms.net"} 3593759
+apn_apn_handoverstat_gngptolteatt {apn="www.xlmms.net"} 8562
+apn_apn_handoverstat_gngptoltesucc {apn="www.xlmms.net"} 8561
+apn_apn_handoverstat_ltetogngpatt {apn="www.xlmms.net"} 4895
+apn_apn_handoverstat_ltetogngpsucc {apn="www.xlmms.net"} 4122
+apn_apn_handoverstat_ltetogngpfail {apn="www.xlmms.net"} 773
+apn_inexcd_ambr_pkt_drop {apn="www.xlmms.net"} 3021
+apn_outexcd_ambr_pkt_drop {apn="www.xlmms.net"} 118
+apn_inexcd_mbr_byte_drop {apn="www.xlmms.net"} 23699
+apn_outexcd_mbr_byte_drop {apn="www.xlmms.net"} 81096
+apn_inexcd_ambr_byte_drop {apn="www.xlmms.net"} 670446
+apn_outexcd_ambr_byte_drop {apn="www.xlmms.net"} 164260
+apn_addr_lpool {apn="www.xlmms.net"} 119
+apn_sess_curr_all {apn="www.xlmms.net"} 923930
+apn_sess_tot {apn="www.xlmms.net"} 11172909
+apn_sess_tot_all {apn="www.xlmms.net"} 845640504
+apn_att_pdp_ctxt {apn="www.xlmms.net"} 11182921
+apn_att_deact_pdp_ggsn {apn="www.xlmms.net"} 86688
+apn_succ_deact_pdp_ggsn {apn="www.xlmms.net"} 76497
+apn_att_deact_pdp_ms {apn="www.xlmms.net"} 11079875
+apn_succ_deact_pdp_ms {apn="www.xlmms.net"} 11079030
+apn_dyn_ipv4_attempt {apn="www.xlmms.net"} 11172865
+apn_data_fromuseravg_bps {apn="www.xlmms.net"} 2145
+apn_data_touseravg_bps {apn="www.xlmms.net"} 164
+apn_data_fromusersust_bps {apn="www.xlmms.net"} 1855
+apn_data_tousersust_bps {apn="www.xlmms.net"} 66
+apn_data_fromuseravg_pps {apn="www.xlmms.net"} 1
+apn_data_fromusersust_pps {apn="www.xlmms.net"} 2
+apn_qosback_pkts_uplnk {apn="www.xlmms.net"} 16963722
+apn_qosback_pkts_dnlnk {apn="www.xlmms.net"} 10039861
+apn_acc_req_sent {apn="www.xlmms.net"} 27422983
+apn_acc_req_timeout {apn="www.xlmms.net"} 43
+apn_act_defbear {apn="www.xlmms.net"} 119
+apn_setup_defbear {apn="www.xlmms.net"} 11172865
+apn_rel_defbear {apn="www.xlmms.net"} 11172790
+apn_rej_defbear {apn="www.xlmms.net"} 28
+apn_mod_uebear {apn="www.xlmms.net"} 7917431
+apn_mod_nwbear {apn="www.xlmms.net"} 9700
+apn_ue_init_modfail {apn="www.xlmms.net"} 859
+apn_nw_init_modfail {apn="www.xlmms.net"} 1815
+apn_pdn_ipv4_actsess {apn="www.xlmms.net"} 119
+apn_pdn_ipv4_setupsess {apn="www.xlmms.net"} 11172865
+apn_qci6_actbear {apn="www.xlmms.net"} 109
+apn_qci6_setupbear {apn="www.xlmms.net"} 7641604
+apn_qci6_relbear {apn="www.xlmms.net"} 7641532
+apn_qci6_uplinkpkt_fwd {apn="www.xlmms.net"} 19251926
+apn_qci6_dwlinkpkt_fwd {apn="www.xlmms.net"} 10122438
+apn_qci6_uplinkbyte_fwd {apn="www.xlmms.net"} 7649431490
+apn_qci6_dwlinkbyte_fwd {apn="www.xlmms.net"} 1750765277
+apn_qci6_uplinkpkt_drop {apn="www.xlmms.net"} 11009833
+apn_qci6_dwlinkpkt_drop {apn="www.xlmms.net"} 38744
+apn_qci6_uplinkbyte_drop {apn="www.xlmms.net"} 966798990
+apn_qci6_dwlinkbyte_drop {apn="www.xlmms.net"} 19437645
+apn_qci7_actbear {apn="www.xlmms.net"} 7
+apn_qci7_setupbear {apn="www.xlmms.net"} 2731741
+apn_qci7_uplinkpkt_fwd {apn="www.xlmms.net"} 5607465
+apn_qci7_dwlinkpkt_fwd {apn="www.xlmms.net"} 2060936
+apn_qci7_uplinkbyte_fwd {apn="www.xlmms.net"} 2014265971
+apn_qci7_dwlinkbyte_fwd {apn="www.xlmms.net"} 311590347
+apn_qci7_uplinkpkt_drop {apn="www.xlmms.net"} 5042258
+apn_qci7_dwlinkpkt_drop {apn="www.xlmms.net"} 4247
+apn_qci7_uplinkbyte_drop {apn="www.xlmms.net"} 391694296
+apn_qci7_dwlinkbyte_drop {apn="www.xlmms.net"} 2446341
+apn_qci8_actbear {apn="www.xlmms.net"} 2
+apn_qci8_setupbear {apn="www.xlmms.net"} 799511
+apn_qci8_relbear {apn="www.xlmms.net"} 799509
+apn_qci8_uplinkpkt_fwd {apn="www.xlmms.net"} 1105534
+apn_qci8_dwlinkpkt_fwd {apn="www.xlmms.net"} 489176
+apn_qci8_uplinkbyte_fwd {apn="www.xlmms.net"} 455858815
+apn_qci8_dwlinkbyte_fwd {apn="www.xlmms.net"} 71743541
+apn_uplnk_bytes {apn="xlunlimited"} 37873467931
+apn_dnlnk_bytes {apn="xlunlimited"} 283779962540
+apn_uplnk_pkts {apn="xlunlimited"} 176370618
+apn_dnlnk_pkts {apn="xlunlimited"} 264147756
+apn_uplnk_bytes_drop {apn="xlunlimited"} 1195329055
+apn_dnlnk_bytes_drop {apn="xlunlimited"} 4541051882
+apn_uplnk_drop {apn="xlunlimited"} 6549233
+apn_dnlnk_drop {apn="xlunlimited"} 4648982
+apn_bad_hdr {apn="xlunlimited"} 31636
+apn_ttl_excd {apn="xlunlimited"} 163
+apn_inacl_drop {apn="xlunlimited"} 79690
+apn_inexcd_mbr_pkt_drop {apn="xlunlimited"} 101644
+apn_outexcd_mbr_pkt_drop {apn="xlunlimited"} 1434935
+apn_qci8_uplinkpkt_drop {apn="xlunlimited"} 207875
+apn_qci8_dwlinkpkt_drop {apn="xlunlimited"} 217434
+apn_qci8_uplinkbyte_drop {apn="xlunlimited"} 29700687
+apn_qci8_dwlinkbyte_drop {apn="xlunlimited"} 255575635
+apn_qci9_setupbear {apn="xlunlimited"} 6598
+apn_qci9_relbear {apn="xlunlimited"} 6595
+apn_qci9_uplinkpkt_fwd {apn="xlunlimited"} 28011266
+apn_qci9_dwlinkpkt_fwd {apn="xlunlimited"} 47103416
+apn_qci9_uplinkbyte_fwd {apn="xlunlimited"} 5789103830
+apn_qci9_dwlinkbyte_fwd {apn="xlunlimited"} 53129112464
+apn_qci9_uplinkpkt_drop {apn="xlunlimited"} 1795075
+apn_qci9_dwlinkpkt_drop {apn="xlunlimited"} 1854866
+apn_qci9_uplinkbyte_drop {apn="xlunlimited"} 267192899
+apn_qci9_dwlinkbyte_drop {apn="xlunlimited"} 2182362020
+apn_qci6_uplinkpkt_drop_mbrexcd {apn="xlunlimited"} 73554
+apn_qci6_dwlinkpkt_drop_mbrexcd {apn="xlunlimited"} 893908
+apn_qci6_uplinkbyte_drop_mbrexcd {apn="xlunlimited"} 69015208
+apn_qci6_dwlinkbyte_drop_mbrexcd {apn="xlunlimited"} 1167614146
+apn_qci7_uplinkpkt_drop_mbrexcd {apn="xlunlimited"} 6745
+apn_qci7_dwlinkpkt_drop_mbrexcd {apn="xlunlimited"} 23681
+apn_qci7_uplinkbyte_drop_mbrexcd {apn="xlunlimited"} 3163650
+apn_qci7_dwlinkbyte_drop_mbrexcd {apn="xlunlimited"} 26242329
+apn_qci8_uplinkpkt_drop_mbrexcd {apn="xlunlimited"} 14
+apn_qci8_dwlinkpkt_drop_mbrexcd {apn="xlunlimited"} 6347
+apn_qci8_uplinkbyte_drop_mbrexcd {apn="xlunlimited"} 18129
+apn_qci8_dwlinkbyte_drop_mbrexcd {apn="xlunlimited"} 8489040
+apn_qci9_uplinkpkt_drop_mbrexcd {apn="xlunlimited"} 21331
+apn_qci9_dwlinkpkt_drop_mbrexcd {apn="xlunlimited"} 510999
+apn_qci9_uplinkbyte_drop_mbrexcd {apn="xlunlimited"} 28996329
+apn_qci9_dwlinkbyte_drop_mbrexcd {apn="xlunlimited"} 676543264
+apn_active_eutran_sessions {apn="xlunlimited"} 1
+apn_active_utran_sessions {apn="xlunlimited"} 15
+apn_active_geran_sessions {apn="xlunlimited"} 2
+apn_initiated_utran_sessions {apn="xlunlimited"} 23833
+apn_initiated_geran_sessions {apn="xlunlimited"} 6522
+apn_apn_handoverstat_gngptolteatt {apn="xlunlimited"} 9465
+apn_apn_handoverstat_ltetogngpatt {apn="xlunlimited"} 7835
+apn_apn_handoverstat_ltetogngpsucc {apn="xlunlimited"} 7767
+apn_apn_handoverstat_ltetogngpfail {apn="xlunlimited"} 67
+apn_inexcd_ambr_pkt_drop {apn="xlunlimited"} 86042
+apn_outexcd_ambr_pkt_drop {apn="xlunlimited"} 1934298
+apn_inexcd_mbr_byte_drop {apn="xlunlimited"} 101193316
+apn_outexcd_mbr_byte_drop {apn="xlunlimited"} 1878888779
+apn_inexcd_ambr_byte_drop {apn="xlunlimited"} 82093201
+apn_outexcd_ambr_byte_drop {apn="xlunlimited"} 2593095360
+apn_addr_lpool {apn="xlunlimited"} 18
+apn_sess_curr_all {apn="xlunlimited"} 923930
+apn_sess_tot {apn="xlunlimited"} 31099
+apn_sess_tot_all {apn="xlunlimited"} 845640504
+apn_att_pdp_ctxt {apn="xlunlimited"} 31321
+apn_att_deact_pdp_ggsn {apn="xlunlimited"} 826
+apn_succ_deact_pdp_ggsn {apn="xlunlimited"} 685
+apn_att_deact_pdp_ms {apn="xlunlimited"} 28171
+apn_succ_deact_pdp_ms {apn="xlunlimited"} 28159
+apn_dyn_ipv4_attempt {apn="xlunlimited"} 31093
+apn_data_fromuseravg_bps {apn="xlunlimited"} 38651
+apn_data_touseravg_bps {apn="xlunlimited"} 1245124
+apn_data_fromusersust_bps {apn="xlunlimited"} 38420
+apn_data_tousersust_bps {apn="xlunlimited"} 1244242
+apn_data_fromuseravg_pps {apn="xlunlimited"} 42
+apn_data_touseravg_pps {apn="xlunlimited"} 118
+apn_data_fromusersust_pps {apn="xlunlimited"} 43
+apn_data_tousersust_pps {apn="xlunlimited"} 119
+apn_qosback_pkts_uplnk {apn="xlunlimited"} 82152982
+apn_qosback_pkts_dnlnk {apn="xlunlimited"} 114326935
+apn_acc_req_sent {apn="xlunlimited"} 77925
+apn_acc_req_timeout {apn="xlunlimited"} 1
+apn_act_defbear {apn="xlunlimited"} 18
+apn_setup_defbear {apn="xlunlimited"} 31093
+apn_rel_defbear {apn="xlunlimited"} 31081
+apn_mod_uebear {apn="xlunlimited"} 58673
+apn_mod_nwbear {apn="xlunlimited"} 9692
+apn_ue_init_modfail {apn="xlunlimited"} 71
+apn_nw_init_modfail {apn="xlunlimited"} 1027
+apn_pdn_ipv4_actsess {apn="xlunlimited"} 18
+apn_pdn_ipv4_setupsess {apn="xlunlimited"} 31093
+apn_qci6_actbear {apn="xlunlimited"} 13
+apn_qci6_setupbear {apn="xlunlimited"} 16485
+apn_qci6_relbear {apn="xlunlimited"} 16476
+apn_qci6_uplinkpkt_fwd {apn="xlunlimited"} 114069564
+apn_qci6_dwlinkpkt_fwd {apn="xlunlimited"} 162523425
+apn_qci6_uplinkbyte_fwd {apn="xlunlimited"} 26337574057
+apn_qci6_dwlinkbyte_fwd {apn="xlunlimited"} 172828782169
+apn_qci6_uplinkpkt_drop {apn="xlunlimited"} 4295680
+apn_qci6_dwlinkpkt_drop {apn="xlunlimited"} 2420459
+apn_qci6_uplinkbyte_drop {apn="xlunlimited"} 835524044
+apn_qci6_dwlinkbyte_drop {apn="xlunlimited"} 2067470845
+apn_qci7_actbear {apn="xlunlimited"} 1
+apn_qci7_setupbear {apn="xlunlimited"} 3020
+apn_qci7_uplinkpkt_fwd {apn="xlunlimited"} 17675838
+apn_qci7_dwlinkpkt_fwd {apn="xlunlimited"} 26293228
+apn_qci7_uplinkbyte_fwd {apn="xlunlimited"} 3354594263
+apn_qci7_dwlinkbyte_fwd {apn="xlunlimited"} 27496043017
+apn_qci7_uplinkpkt_drop {apn="xlunlimited"} 250603
+apn_qci7_dwlinkpkt_drop {apn="xlunlimited"} 156223
+apn_qci7_uplinkbyte_drop {apn="xlunlimited"} 62911425
+apn_qci7_dwlinkbyte_drop {apn="xlunlimited"} 35643382
+apn_qci8_setupbear {apn="xlunlimited"} 5687
+apn_qci8_relbear {apn="xlunlimited"} 5837
+apn_qci8_uplinkpkt_fwd {apn="xlunlimited"} 16613950
+apn_qci8_dwlinkpkt_fwd {apn="xlunlimited"} 23578575
+apn_qci8_uplinkbyte_fwd {apn="xlunlimited"} 2392195781
+apn_qci8_dwlinkbyte_fwd {apn="xlunlimited"} 25784965728
+radius_port {vpnname="Gi-LBTS"} 1813
+radius_acc_req_sent {vpnname="Gi-LBTS"} 328909931
+radius_acc_req_retried {vpnname="Gi-LBTS"} 3494
+radius_acc_rsp_rcvd {vpnname="Gi-LBTS"} 328753403
+radius_acc_req_timeout {vpnname="Gi-LBTS"} 156528
+radius_acc_rsp_roundtripusec {vpnname="Gi-LBTS"} 1978
+radius_acc_start_sent {vpnname="Gi-LBTS"} 164534482
+radius_acc_stop_sent {vpnname="Gi-LBTS"} 164375448
+radius_acc_on_sent {vpnname="Gi-LBTS"} 1
+radius_acc_start_retries {vpnname="Gi-LBTS"} 1509
+radius_acc_stop_retries {vpnname="Gi-LBTS"} 1982
+radius_acc_on_retries {vpnname="Gi-LBTS"} 3
+radius_port {vpnname="Gi-Internet3"} 1813
+radius_acc_req_sent {vpnname="Gi-Internet3"} 1
+radius_acc_req_retried {vpnname="Gi-Internet3"} 2
+radius_acc_req_timeout {vpnname="Gi-Internet3"} 1
+radius_acc_rsp_rcvd {vpnname="Gi-Internet3"} 74
+radius_acc_rsp_roundtripusec {vpnname="Gi-Internet3"} 3558
+radius_acc_start_sent {vpnname="Gi-Internet3"} 37
+radius_group_port {vpnname="Gi-LBTS"} 1813
+radius_group_acc_on_retries {vpnname="Gi-LBTS"} 3
+radius_group_acc_on_sent {vpnname="Gi-LBTS"} 1
+radius_group_acc_req_retried {vpnname="Gi-LBTS"} 847
+radius_group_acc_req_sent {vpnname="Gi-LBTS"} 49193108
+radius_group_acc_req_timeout {vpnname="Gi-LBTS"} 242
+radius_group_acc_rsp_rcvd {vpnname="Gi-LBTS"} 49192866
+radius_group_acc_rsp_roundtripusec {vpnname="Gi-LBTS"} 1932
+radius_group_acc_start_retries {vpnname="Gi-LBTS"} 313
+radius_group_acc_start_sent {vpnname="Gi-LBTS"} 24600773
+radius_group_acc_stop_retries {vpnname="Gi-LBTS"} 531
+radius_group_acc_stop_sent {vpnname="Gi-LBTS"} 24592334
+radius_group_port {vpnname="Gi-Internet3"} 1813
+radius_group_acc_on_retries {vpnname="Gi-Internet3"} 2
+radius_group_acc_on_sent {vpnname="Gi-Internet3"} 1
+radius_group_acc_req_sent {vpnname="Gi-Internet3"} 75
+radius_group_acc_rsp_rcvd {vpnname="Gi-Internet3"} 74
+radius_group_acc_rsp_roundtripusec {vpnname="Gi-Internet3"} 3558
+radius_group_acc_start_sent {vpnname="Gi-Internet3"} 37
+dpca_port {vpnname="Charging"} 3868
+dpca_ccr_inisent {vpnname="Charging"} 298483371
+dpca_cca_inirec {vpnname="Charging"} 298477060
+dpca_ccr_initimeout {vpnname="Charging"} 6311
+dpca_ccr_updsent {vpnname="Charging"} 1146647917
+dpca_cca_updrec {vpnname="Charging"} 1146646202
+dpca_ccr_updtimeout {vpnname="Charging"} 1715
+dpca_ccr_tersent {vpnname="Charging"} 298662600
+dpca_cca_terrec {vpnname="Charging"} 298659039
+dpca_ccr_tertimeout {vpnname="Charging"} 3561
+dpca_reauth_anssent {vpnname="Charging"} 24238621
+ecs_ecs_subscribers  845641857
+ecs_ecs_subscribers_cur  923942
+ecs_gcdrs_generated  1971826261
+ecs_ip_flows  308938396181
+ecs_ip_flows_cur  7700489
+ecs_ip_uplk_bytes  1354754892619325
+ecs_ip_dwnlk_bytes  15619235581677233
+ecs_ip_uplk_pkts  8538694242468
+ecs_ip_dwnlk_pkts  14335989135431
+ecs_ip_uplk_pkts_frag  1030897124
+ecs_ip_dwnlk_pkts_frag  522233946
+ecs_ip_uplk_bytes_frag  2130746567
+ecs_ip_dwnlk_bytes_frag  4116110995
+ecs_ip_charge_uplk_bytes  611589151760421
+ecs_ip_charge_dwnlk_bytes  6785560262652824
+ecs_ip_charge_uplk_pkts  3706498594281
+ecs_ip_charge_dwnlk_pkts  6287982441108
+ecs_udp_flows  80939346704
+ecs_udp_flows_cur  3407402
+ecs_rtsp_flows  418476
+ecs_rtsp_flows_cur  11
+ecs_rtsp_sess  23179
+ecs_rtsp_uplk_bytes  6515465188
+ecs_rtsp_dwnlk_bytes  78928733340
+ecs_rtsp_uplk_pkts  70589722
+ecs_rtsp_dwnlk_pkts  78413629
+ecs_rtsp_uplk_bytes_retr  1198294262
+ecs_rtsp_dwnlk_bytes_retr  1842269713
+ecs_rtsp_uplk_pkts_retr  1650777
+ecs_rtsp_dwnlk_pkts_retr  2311087
+ecs_rtsp_play  29310
+ecs_rtsp_setup  45289
+ecs_rtsp_pause  17874
+ecs_rtsp_record  350
+ecs_rtsp_option  52587
+ecs_rtsp_desc  26459
+ecs_rtsp_trdwn  17866
+ecs_rtsp_get_param  1194
+ecs_rtsp_set_param  159
+ecs_udp_uplk_bytes  422683516241996
+ecs_udp_dwnlk_bytes  4709144398289855
+ecs_udp_uplk_pkts  2107789155704
+ecs_udp_dwnlk_pkts  4882804750625
+ecs_udp_inv_pkts  4456818
+ecs_tcp_flows  227281690728
+ecs_tcp_flows_cur  4290409
+ecs_tcp_uplk_bytes  758060011040781
+ecs_tcp_dwnlk_bytes  10621398679542863
+ecs_tcp_uplk_pkts  6408156464590
+ecs_tcp_dwnlk_pkts  9447313764825
+ecs_tcp_uplk_bytes_retr  951955367
+ecs_tcp_dwnlk_bytes_retr  3659448902
+ecs_tcp_uplk_pkts_retr  3268201566
+ecs_tcp_dwnlk_pkts_retr  730872819
+ecs_tcp_uplk_pkts_ooo_analyzd  635529185
+ecs_tcp_dwnlk_pkts_ooo_analyzd  2265345010
+ecs_tcp_uplk_pkts_ooo_fail  839519330
+ecs_tcp_dwnlk_pkts_ooo_fail  472259780
+ecs_tcp_uplk_pkts_ooo_retr  3648794283
+ecs_tcp_dwnlk_pkts_ooo_retr  353124136
+ecs_p2p_flows  2256708958
+ecs_p2p_flows_cur  1853018
+ecs_p2p_subscribers  187589242
+ecs_p2p_subscribers_cur  477492
+ecs_icmp_flows  717358749
+ecs_icmp_flows_cur  2678
+ecs_icmp_uplk_bytes  3059108610368
+ecs_icmp_dwnlk_bytes  276264475679
+ecs_icmp_uplk_pkts  20898512333
+ecs_icmp_dwnlk_pkts  4051635174
+ecs_icmp_ech_req  4067211922
+ecs_icmp_ech_rep  3213937578
+ecs_icmp_dst_unrch  385600462
+ecs_icmp_redir  272347
+ecs_icmp_tm_excd  103167526
+ecs_icmp_trace_route  5
+ecs_icmp_oth  88483
+ecs_http_flows  25464579241
+ecs_http_flows_cur  379008
+ecs_http_uplk_bytes  39752118501508
+ecs_http_dwnlk_bytes  891295193934016
+ecs_http_uplk_pkts  517089825294
+ecs_http_dwnlk_pkts  734589212911
+ecs_http_uplk_bytes_retr  551269189
+ecs_http_dwnlk_bytes_retr  2650691365
+ecs_http_uplk_pkts_retr  2977266320
+ecs_http_dwnlk_pkts_retr  4182031437
+ecs_http_req_succ  2939628974
+ecs_http_req_fail  2143240458
+ecs_http_get_req  2884559819
+ecs_http_post_req  3642639069
+ecs_http_connect_req  1878649462
+ecs_http_inv_pkts  813080475
+ecs_https_flows  155287829401
+ecs_https_flows_cur  2177398
+ecs_https_uplk_bytes  473473399634477
+ecs_https_dwnlk_bytes  9098935578323648
+ecs_https_uplk_pkts  5020760561481
+ecs_https_dwnlk_pkts  7778326235322
+ecs_https_uplk_bytes_retr  3999226447
+ecs_https_dwnlk_bytes_retr  1427934190
+ecs_https_uplk_pkts_retr  2397538360
+ecs_https_dwnlk_pkts_retr  1334436594
+ecs_wtp_trans  75195
+ecs_wtp_cls_zero  15238
+ecs_wtp_cls_one  2
+ecs_wtp_cls_two  59955
+ecs_wtp_uplk_bytes  556173841
+ecs_wtp_dwnlk_bytes  6116846858
+ecs_wtp_uplk_pkts  3835574
+ecs_wtp_dwnlk_pkts  5018165
+ecs_wtp_uplk_bytes_retr  94476981
+ecs_wtp_dwnlk_bytes_retr  943213513
+ecs_wtp_uplk_pkts_retr  596478
+ecs_wtp_dwnlk_pkts_retr  809586
+ecs_wtp_invk_pkts  195385
+ecs_wtp_invk_tcl_zero  15238
+ecs_wtp_invk_tcl_one  9516
+ecs_wtp_invk_tcl_two  161009
+ecs_wtp_rslt_pkts  53674
+ecs_wtp_ack_to_resp  90755
+ecs_wtp_ack_to_init  9566
+ecs_wtp_abrt_to_resp  9705
+ecs_wtp_abrt_to_init  1360
+ecs_wtp_seg_invk  4172
+ecs_dns_flows  79551192
+ecs_dns_flows_cur  2861173
+ecs_dns_uplk_bytes  3161975938050
+ecs_dns_dwnlk_bytes  17615421783280
+ecs_dns_uplk_pkts  80623389987
+ecs_dns_dwnlk_pkts  67242401947
+ecs_dns_unk_opcode  396658749
+ecs_dns_over_tcp_uplk_bytes  23922734787
+ecs_dns_over_tcp_dwnlk_bytes  396428116706
+ecs_dns_over_tcp_uplk_pkts  627236023
+ecs_dns_over_tcp_dwnlk_pkts  747788346
+ecs_dns_req_a_query  78583074571
+ecs_dns_req_cname_query  171611
+ecs_dns_req_ns_query  459183
+ecs_dns_req_ptr_query  101694000
+ecs_dns_req_aaaa_query  1279531861
+ecs_dns_req_unknown_query  63972928
+ecs_dns_rsp_a_query  177047778556
+ecs_dns_rsp_cname_query  48897241966
+ecs_dns_rsp_ns_query  191367590461
+ecs_dns_rsp_ptr_query  25166668
+ecs_dns_rsp_aaaa_query  773069390
+ecs_dns_rsp_unknown_query  1953068177
+ecs_ecs_ttlsuccess  845269261
+ecs_ecs_ttlfail  2
+ecs_ecs_curactive  923942
+ecs_ecs_15peak_curactive  924161
+ecs_ecs_ruleshit  915453864148
+ecs_ecs_ppruleshit  10847078248
+ecs_ecs_ttldlinkbytes  15619241416403043
+ecs_ecs_ttlulinkbytes  1354755434395244
+ecs_ecs_ttldlinkpackets  14335994403971
+ecs_ecs_ttlulinkpackets  8538696982574
+ecs_ecs_ttlflowconn  313241138356
+ecs_ecs_ttlflowdisc  313233437441
+ecs_ecs_curflow  7698205
+ecs_ecs_15peak_curflow  7783983
+ecs_ecs_15min_usage_flowall  116072790
+ecs_ecs_dns_learnt_ipv4_entries  743163
+ecs_ecs_dns_flushed_ipv4_entries  10764502
+ecs_ecs_dns_replaced_ipv4_entries  10548336
+ecs_ecs_dns_overflown_ipv4_entries  2658726993
+ecs_ecs_dns_learnt_ipv6_entries  13553
+ecs_ecs_dns_flushed_ipv6_entries  10507238
+ecs_ecs_dns_replaced_ipv6_entries  10252317
+ecs_ecs_dns_overflown_ipv6_entries  1366801
+ecs_trm_rule_match_bypassed  9018443675809
+ecs_trm_rule_match_bypass_triggered  184339603292
+ecs_fp_eligible_flows  102492006550
+ecs_fp_packets  196420548240
+ecs_fp_failures  2391551736
+ecs_ip_accel_pkts  12337532338380
+ecs_udp_accel_pkts  2575337998808
+ecs_tcp_accel_pkts  9762194339572
+ecs_http_accel_pkts  909156469635
+ecs_https_accel_pkts  8348259932123
+ecs_wtp_seg_rslt  106059
+ecs_wtp_neg_ack  853
+ecs_wtp_tid_vrf  8065
+ecs_wtp_noninit_invk  2449255
+ecs_wtp_unk_pdu  5933108
+ecs_wsp_flows  53555
+ecs_wsp_flows_cur  1
+ecs_wsp_co_conn  16241
+ecs_wsp_cl_conn  37314
+ecs_wsp_uplk_bytes  40583085
+ecs_wsp_dwnlk_bytes  4471598459
+ecs_wsp_uplk_pkts  298489
+ecs_wsp_dwnlk_pkts  179705
+ecs_wsp_uplk_bytes_retr  10554951
+ecs_wsp_dwnlk_bytes_retr  7563648
+ecs_wsp_uplk_pkts_retr  76777
+ecs_wsp_dwnlk_pkts_retr  11074
+ecs_wsp_co_req_succ  32793
+ecs_wsp_co_req_fail  9244
+ecs_egcdrs_generated_qht  213108
+ecs_egcdrs_generated_final  849722324
+ecs_dyn_rule_install_received  4699
+ecs_dyn_rule_install_succeeded  2
+ecs_dyn_rule_install_failed  4691
+ecs_dyn_rule_remove_received  96272016
+ecs_dyn_rule_remove_failed  93441
+ecs_dyn_rule_remove_fail_unknown_rule_name  93441
+ecs_wsp_conn_pdu  15222
+ecs_wsp_conn_rep  8055
+ecs_wsp_disc  364
+ecs_wsp_susp  3710
+ecs_wsp_resm  65
+ecs_wsp_opt  1
+ecs_wsp_reply  42052
+ecs_wsp_get  47811
+ecs_wsp_push  2
+ecs_wsp_post  5586
+ecs_wsp_inv_pkts  79762
+ecs_ipv4_flows  308938396181
+ecs_ipv4_flows_cur  7700489
+ecs_ipv4_uplk_bytes  1354754892619325
+ecs_ipv4_dwnlk_bytes  15619235581677233
+ecs_ipv4_uplk_pkts  8538694242468
+ecs_ipv4_dwnlk_pkts  14335989135431
+ecs_ipv4_accel_pkts  12337532338380
+ecs_ipv4_uplk_pkts_frag  1030897124
+ecs_ipv4_dwnlk_pkts_frag  522233946
+ecs_ipv4_uplk_bytes_frag  2130746567
+ecs_ipv4_dwnlk_bytes_frag  4116110995
+ecs_ipv4_charge_uplk_bytes  611589151760421
+ecs_ipv4_charge_dwnlk_bytes  6785560262652824
+ecs_ipv4_charge_uplk_pkts  3706498594281
+ecs_ipv4_charge_dwnlk_pkts  6287982441108
+ecs_udp_over_ipv4_flows  80939346704
+ecs_udp_over_ipv4_flows_cur  3407402
+ecs_udp_over_ipv4_uplk_bytes  422683516241996
+ecs_udp_over_ipv4_dwnlk_bytes  4709144398289855
+ecs_udp_over_ipv4_uplk_pkts  2107789155704
+ecs_udp_over_ipv4_dwnlk_pkts  4882804750625
+ecs_udp_over_ipv4_accel_pkts  2575337998808
+ecs_udp_over_ipv4_inv_pkts  4456818
+ecs_tcp_over_ipv4_flows  227281690728
+ecs_tcp_over_ipv4_flows_cur  4290409
+ecs_tcp_over_ipv4_uplk_bytes  758060011040781
+ecs_tcp_over_ipv4_dwnlk_bytes  10621398679542863
+ecs_tcp_over_ipv4_uplk_pkts  6408156464590
+ecs_tcp_over_ipv4_dwnlk_pkts  9447313764825
+ecs_tcp_over_ipv4_accel_pkts  9762194339572
+ecs_tcp_over_ipv4_uplk_bytes_retr  951955367
+ecs_tcp_over_ipv4_dwnlk_bytes_retr  3659448902
+ecs_tcp_over_ipv4_uplk_pkts_retr  3268201566
+ecs_tcp_over_ipv4_dwnlk_pkts_retr  730872819
+ecs_tcp_over_ipv4_uplk_pkts_ooo_analyzd  635529185
+ecs_tcp_over_ipv4_dwnlk_pkts_ooo_analyzd  2265345010
+ecs_tcp_over_ipv4_uplk_pkts_ooo_fail  839519330
+ecs_tcp_over_ipv4_dwnlk_pkts_ooo_fail  472259780
+ecs_tcp_over_ipv4_uplk_pkts_ooo_retr  3648794283
+ecs_tcp_over_ipv4_dwnlk_pkts_ooo_retr  353124136
+ecs_icmp_over_ipv4_flows  717358749
+ecs_icmp_over_ipv4_flows_cur  2678
+ecs_icmp_over_ipv4_uplk_bytes  3059108610368
+ecs_icmp_over_ipv4_dwnlk_bytes  276264475679
+ecs_icmp_over_ipv4_uplk_pkts  20898512333
+ecs_icmp_over_ipv4_dwnlk_pkts  4051635174
+ecs_icmp_over_ipv4_ech_req  4067211922
+ecs_icmp_over_ipv4_ech_rep  3213937578
+ecs_icmp_over_ipv4_dst_unrch  385600462
+ecs_icmp_over_ipv4_redir  272347
+ecs_icmp_over_ipv4_tm_excd  103167526
+ecs_icmp_over_ipv4_trace_route  5
+ecs_icmp_over_ipv4_oth  88483
+ecs_mms_uplk_bytes  11931819240
+ecs_mms_dwnlk_bytes  1310605434
+ecs_mms_uplk_pkts  9428650
+ecs_mms_dwnlk_pkts  1253128
+ecs_mms_snd_req  179851
+ecs_mms_snd_conf  97857
+ecs_mms_ntf_ind_imm  3
+ecs_mms_ntf_ind_del  104920
+ecs_mms_ntf_rsp  27774
+ecs_mms_retrv_conf  17155
+ecs_mms_ack_ind  902
+ecs_mms_unk_pdu  191
+ecs_mms_inv_pkts  135967
+rulebase_ecs_rbase_subscribers_cur {ecs_rbase_name="default"} 4294967288
+rulebase_ecs_rbase_upl_pkts {ecs_rbase_name="RULEBASE02"} 304472410
+rulebase_ecs_rbase_upl_bytes {ecs_rbase_name="RULEBASE02"} 2942330461
+rulebase_ecs_rbase_dnl_pkts {ecs_rbase_name="RULEBASE02"} 3693462862
+rulebase_ecs_rbase_dnl_bytes {ecs_rbase_name="RULEBASE02"} 1289066506
+rulebase_ecs_rbase_sess_cur {ecs_rbase_name="RULEBASE02"} 924026
+p2p_p2p_uplnk_bytes_value {p2p_protocol="skype"} 216874341439
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="skype"} 443316525572
+p2p_p2p_uplnk_pkts_value {p2p_protocol="skype"} 798316933
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="skype"} 940582140
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-skype-duration"} 216874341439
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-skype-duration"} 443316525572
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-skype-duration"} 798316933
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-skype-duration"} 940582140
+p2p_p2p_uplnk_bytes_value {p2p_protocol="skype-unclassified"} 40078856791
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="skype-unclassified"} 232752180047
+p2p_p2p_uplnk_pkts_value {p2p_protocol="skype-unclassified"} 311600667
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="skype-unclassified"} 340037545
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-skype-unclassified-duration"} 40078856791
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-skype-unclassified-duration"} 232752180047
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-skype-unclassified-duration"} 311600667
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-skype-unclassified-duration"} 340037545
+p2p_p2p_duration_value {p2p_protocol="skype-audio"} 3829419
+p2p_p2p_uplnk_bytes_value {p2p_protocol="skype-audio"} 112495372718
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="skype-audio"} 126280743086
+p2p_p2p_uplnk_pkts_value {p2p_protocol="skype-audio"} 266518101
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="skype-audio"} 296539895
+p2p_p2p_duration_value {p2p_duration_name="p2p-skype-audio-duration"} 3829419
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-skype-audio-duration"} 112495372718
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-skype-audio-duration"} 126280743086
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-skype-audio-duration"} 266518101
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-skype-audio-duration"} 296539895
+p2p_p2p_duration_value {p2p_protocol="skype-video"} 6312005
+p2p_p2p_uplnk_bytes_value {p2p_protocol="skype-video"} 64299901453
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="skype-video"} 84283543080
+p2p_p2p_uplnk_pkts_value {p2p_protocol="skype-video"} 220181186
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="skype-video"} 303987794
+p2p_p2p_duration_value {p2p_duration_name="p2p-skype-video-duration"} 6312005
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-skype-video-duration"} 64299901453
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-skype-video-duration"} 84283543080
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-skype-video-duration"} 220181186
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-skype-video-duration"} 303987794
+p2p_p2p_duration_value {p2p_protocol="skype-voipout"} 5445
+p2p_p2p_uplnk_bytes_value {p2p_protocol="skype-voipout"} 210477
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="skype-voipout"} 59359
+p2p_p2p_uplnk_pkts_value {p2p_protocol="skype-voipout"} 16979
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="skype-voipout"} 16906
+p2p_p2p_duration_value {p2p_duration_name="p2p-skype-voipout-duration"} 5445
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-skype-voipout-duration"} 210477
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-skype-voipout-duration"} 59359
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-skype-voipout-duration"} 16979
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-skype-voipout-duration"} 16906
+p2p_p2p_uplnk_bytes_value {p2p_protocol="bittorrent"} 531459133725
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="bittorrent"} 2638594399494
+p2p_p2p_uplnk_pkts_value {p2p_protocol="bittorrent"} 1429383107
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="bittorrent"} 1612878740
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-bittorrent-duration"} 531459133725
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-bittorrent-duration"} 2638594399494
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-bittorrent-duration"} 1429383107
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-bittorrent-duration"} 1612878740
+p2p_p2p_uplnk_bytes_value {p2p_protocol="edonkey"} 178807960
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="edonkey"} 288137930
+p2p_p2p_uplnk_pkts_value {p2p_protocol="edonkey"} 647991
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="edonkey"} 527662
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-edonkey-duration"} 178807960
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-edonkey-duration"} 288137930
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-edonkey-duration"} 647991
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-edonkey-duration"} 527662
+p2p_p2p_uplnk_bytes_value {p2p_protocol="gnutella"} 48331
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="gnutella"} 886426
+p2p_p2p_uplnk_pkts_value {p2p_protocol="gnutella"} 1402
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="gnutella"} 2217
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-gnutella-duration"} 48331
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-gnutella-duration"} 886426
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-gnutella-duration"} 1402
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-gnutella-duration"} 2217
+p2p_p2p_uplnk_bytes_value {p2p_protocol="qq"} 132779042234
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="qq"} 423928837823
+p2p_p2p_uplnk_pkts_value {p2p_protocol="qq"} 1424430121
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="qq"} 2797511894
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-qq-duration"} 132779042234
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-qq-duration"} 423928837823
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-qq-duration"} 1424430121
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-qq-duration"} 2797511894
+p2p_p2p_uplnk_bytes_value {p2p_protocol="qq-unclassified"} 132087320013
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="qq-unclassified"} 423926438539
+p2p_p2p_uplnk_pkts_value {p2p_protocol="qq-unclassified"} 1423879407
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="qq-unclassified"} 2797181405
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-qq-unclassified-duration"} 132087320013
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-qq-unclassified-duration"} 423926438539
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-qq-unclassified-duration"} 1423879407
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-qq-unclassified-duration"} 2797181405
+p2p_p2p_uplnk_bytes_value {p2p_protocol="qq-file-transfer"} 691722221
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="qq-file-transfer"} 2399284
+p2p_p2p_uplnk_pkts_value {p2p_protocol="qq-file-transfer"} 550714
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="qq-file-transfer"} 330489
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-qq-file-transfer-duration"} 691722221
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-qq-file-transfer-duration"} 2399284
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-qq-file-transfer-duration"} 550714
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-qq-file-transfer-duration"} 330489
+p2p_p2p_uplnk_bytes_value {p2p_protocol="nimbuzz"} 1143
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="nimbuzz"} 260
+p2p_p2p_uplnk_pkts_value {p2p_protocol="nimbuzz"} 11
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="nimbuzz"} 10
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-nimbuzz-duration"} 1143
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-nimbuzz-duration"} 260
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-nimbuzz-duration"} 11
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-nimbuzz-duration"} 10
+p2p_p2p_uplnk_bytes_value {p2p_protocol="facebook"} 136075739935523
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="facebook"} 2045261305342510
+p2p_p2p_uplnk_pkts_value {p2p_protocol="facebook"} 1318293498744
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="facebook"} 2026725652366
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-facebook-duration"} 136075739935523
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-facebook-duration"} 2045261305342510
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-facebook-duration"} 1318293498744
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-facebook-duration"} 2026725652366
+p2p_p2p_uplnk_bytes_value {p2p_protocol="facebook-unclassified"} 54857479428853
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="facebook-unclassified"} 453879042640358
+p2p_p2p_uplnk_pkts_value {p2p_protocol="facebook-unclassified"} 495986245298
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="facebook-unclassified"} 601163804624
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-facebook-unclassified-duration"} 54857479428853
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-facebook-unclassified-duration"} 453879042640358
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-facebook-unclassified-duration"} 495986245298
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-facebook-unclassified-duration"} 601163804624
+p2p_p2p_duration_value {p2p_protocol="facebook-audio"} 6054237236
+p2p_p2p_uplnk_bytes_value {p2p_protocol="facebook-audio"} 69147515376328
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="facebook-audio"} 68399444307137
+p2p_p2p_uplnk_pkts_value {p2p_protocol="facebook-audio"} 151269288799
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="facebook-audio"} 203022548334
+p2p_p2p_duration_value {p2p_duration_name="p2p-facebook-audio-duration"} 6054237236
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-facebook-audio-duration"} 69147515376328
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-facebook-audio-duration"} 68399444307137
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-facebook-audio-duration"} 151269288799
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-facebook-audio-duration"} 203022548334
+p2p_p2p_uplnk_bytes_value {p2p_protocol="facebook-streaming-video"} 12070745130342
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="facebook-streaming-video"} 1522982818395015
+p2p_p2p_uplnk_pkts_value {p2p_protocol="facebook-streaming-video"} 671037964647
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="facebook-streaming-video"} 1222539299408
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-facebook-streaming-video-duration"} 12070745130342
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-facebook-streaming-video-duration"} 1522982818395015
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-facebook-streaming-video-duration"} 671037964647
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-facebook-streaming-video-duration"} 1222539299408
+p2p_p2p_uplnk_bytes_value {p2p_protocol="gmail"} 2053198133673
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="gmail"} 6842403248519
+p2p_p2p_uplnk_pkts_value {p2p_protocol="gmail"} 11656353793
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="gmail"} 13936457911
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-gmail-duration"} 2053198133673
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-gmail-duration"} 6842403248519
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-gmail-duration"} 11656353793
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-gmail-duration"} 13936457911
+p2p_p2p_uplnk_bytes_value {p2p_protocol="twitter"} 2165514897405
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="twitter"} 63521788996071
+p2p_p2p_uplnk_pkts_value {p2p_protocol="twitter"} 31659389220
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="twitter"} 51172572950
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-twitter-duration"} 2165514897405
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-twitter-duration"} 63521788996071
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-twitter-duration"} 31659389220
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-twitter-duration"} 51172572950
+p2p_p2p_uplnk_bytes_value {p2p_protocol="twitter-unclassified"} 2026179544352
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="twitter-unclassified"} 21077950184888
+p2p_p2p_uplnk_pkts_value {p2p_protocol="twitter-unclassified"} 15485736901
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="twitter-unclassified"} 20009654009
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-twitter-unclassified-duration"} 2026179544352
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-twitter-unclassified-duration"} 21077950184888
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-twitter-unclassified-duration"} 15485736901
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-twitter-unclassified-duration"} 20009654009
+p2p_p2p_uplnk_bytes_value {p2p_protocol="twitter-streaming-video"} 139335353053
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="twitter-streaming-video"} 42443838811183
+p2p_p2p_uplnk_pkts_value {p2p_protocol="twitter-streaming-video"} 16173652319
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="twitter-streaming-video"} 31162918941
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-twitter-streaming-video-duration"} 139335353053
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-twitter-streaming-video-duration"} 42443838811183
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-twitter-streaming-video-duration"} 16173652319
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-twitter-streaming-video-duration"} 31162918941
+p2p_p2p_uplnk_bytes_value {p2p_protocol="whatsapp"} 278458593619256
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="whatsapp"} 2086994381824834
+p2p_p2p_uplnk_pkts_value {p2p_protocol="whatsapp"} 1292750447895
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="whatsapp"} 1996453453681
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-whatsapp-duration"} 278458593619256
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-whatsapp-duration"} 2086994381824834
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-whatsapp-duration"} 1292750447895
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-whatsapp-duration"} 1996453453681
+p2p_p2p_uplnk_bytes_value {p2p_protocol="whatsapp-unclassified"} 119591556998101
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="whatsapp-unclassified"} 1932236519465620
+p2p_p2p_uplnk_pkts_value {p2p_protocol="whatsapp-unclassified"} 1005916468502
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="whatsapp-unclassified"} 1700117972319
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-whatsapp-unclassified-duration"} 119591556998101
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-whatsapp-unclassified-duration"} 1932236519465620
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-whatsapp-unclassified-duration"} 1005916468502
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-whatsapp-unclassified-duration"} 1700117972319
+p2p_p2p_duration_value {p2p_protocol="whatsapp-audio"} 7720901871
+p2p_p2p_uplnk_bytes_value {p2p_protocol="whatsapp-audio"} 46350906926640
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="whatsapp-audio"} 44599916498597
+p2p_p2p_uplnk_pkts_value {p2p_protocol="whatsapp-audio"} 142759516451
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="whatsapp-audio"} 144920034221
+p2p_p2p_duration_value {p2p_duration_name="p2p-whatsapp-audio-duration"} 7720901871
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-whatsapp-audio-duration"} 46350906926640
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-whatsapp-audio-duration"} 44599916498597
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-whatsapp-audio-duration"} 142759516451
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-whatsapp-audio-duration"} 144920034221
+p2p_p2p_duration_value {p2p_protocol="whatsapp-video"} 4229693435
+p2p_p2p_uplnk_bytes_value {p2p_protocol="whatsapp-video"} 112516129694515
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="whatsapp-video"} 110157945860617
+p2p_p2p_uplnk_pkts_value {p2p_protocol="whatsapp-video"} 144074462942
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="whatsapp-video"} 151415447141
+p2p_p2p_duration_value {p2p_duration_name="p2p-whatsapp-video-duration"} 4229693435
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-whatsapp-video-duration"} 112516129694515
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-whatsapp-video-duration"} 110157945860617
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-whatsapp-video-duration"} 144074462942
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-whatsapp-video-duration"} 151415447141
+p2p_p2p_uplnk_bytes_value {p2p_protocol="mig33"} 96620
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="mig33"} 2670815
+p2p_p2p_uplnk_pkts_value {p2p_protocol="mig33"} 1794
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="mig33"} 2471
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-mig33-duration"} 96620
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-mig33-duration"} 2670815
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-mig33-duration"} 1794
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-mig33-duration"} 2471
+p2p_p2p_uplnk_bytes_value {p2p_protocol="kakaotalk"} 64825735877
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="kakaotalk"} 88841626342
+p2p_p2p_uplnk_pkts_value {p2p_protocol="kakaotalk"} 193678127
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="kakaotalk"} 192948105
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-kakaotalk-duration"} 64825735877
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-kakaotalk-duration"} 88841626342
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-kakaotalk-duration"} 193678127
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-kakaotalk-duration"} 192948105
+p2p_p2p_uplnk_bytes_value {p2p_protocol="kakaotalk-unclassified"} 5957679917
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="kakaotalk-unclassified"} 30758760325
+p2p_p2p_uplnk_pkts_value {p2p_protocol="kakaotalk-unclassified"} 39351002
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="kakaotalk-unclassified"} 38325380
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-kakaotalk-unclassified-duration"} 5957679917
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-kakaotalk-unclassified-duration"} 30758760325
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-kakaotalk-unclassified-duration"} 39351002
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-kakaotalk-unclassified-duration"} 38325380
+p2p_p2p_duration_value {p2p_protocol="kakaotalk-audio"} 6145373
+p2p_p2p_uplnk_bytes_value {p2p_protocol="kakaotalk-audio"} 58868055960
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="kakaotalk-audio"} 58082866017
+p2p_p2p_uplnk_pkts_value {p2p_protocol="kakaotalk-audio"} 154327125
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="kakaotalk-audio"} 154622725
+p2p_p2p_duration_value {p2p_duration_name="p2p-kakaotalk-audio-duration"} 6145373
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-kakaotalk-audio-duration"} 58868055960
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-kakaotalk-audio-duration"} 58082866017
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-kakaotalk-audio-duration"} 154327125
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-kakaotalk-audio-duration"} 154622725
+p2p_p2p_uplnk_bytes_value {p2p_protocol="naverline"} 2369209546459
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="naverline"} 38321566278602
+p2p_p2p_uplnk_pkts_value {p2p_protocol="naverline"} 25542880551
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="naverline"} 35397536292
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-naverline-duration"} 2369209546459
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-naverline-duration"} 38321566278602
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-naverline-duration"} 25542880551
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-naverline-duration"} 35397536292
+p2p_p2p_uplnk_bytes_value {p2p_protocol="naverline-unclassified"} 1476743962650
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="naverline-unclassified"} 5312150783340
+p2p_p2p_uplnk_pkts_value {p2p_protocol="naverline-unclassified"} 7836832365
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="naverline-unclassified"} 8206287740
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-naverline-unclassified-duration"} 1476743962650
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-naverline-unclassified-duration"} 5312150783340
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-naverline-unclassified-duration"} 7836832365
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-naverline-unclassified-duration"} 8206287740
+p2p_p2p_duration_value {p2p_protocol="naverline-audio"} 11972872
+p2p_p2p_uplnk_bytes_value {p2p_protocol="naverline-audio"} 179583340300
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="naverline-audio"} 169773826355
+p2p_p2p_uplnk_pkts_value {p2p_protocol="naverline-audio"} 490694691
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="naverline-audio"} 482632609
+p2p_p2p_duration_value {p2p_duration_name="p2p-naverline-audio-duration"} 11972872
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-naverline-audio-duration"} 179583340300
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-naverline-audio-duration"} 169773826355
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-naverline-audio-duration"} 490694691
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-naverline-audio-duration"} 482632609
+p2p_p2p_uplnk_bytes_value {p2p_protocol="naverline-im"} 712882243509
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="naverline-im"} 32839641668907
+p2p_p2p_uplnk_pkts_value {p2p_protocol="naverline-im"} 17215353495
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="naverline-im"} 26708615943
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-naverline-im-duration"} 712882243509
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-naverline-im-duration"} 32839641668907
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-naverline-im-duration"} 17215353495
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-naverline-im-duration"} 26708615943
+p2p_p2p_uplnk_bytes_value {p2p_protocol="wechat"} 509744650584
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="wechat"} 772733657064
+p2p_p2p_uplnk_pkts_value {p2p_protocol="wechat"} 1631666728
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="wechat"} 1538448304
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-wechat-duration"} 509744650584
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-wechat-duration"} 772733657064
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-wechat-duration"} 1631666728
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-wechat-duration"} 1538448304
+p2p_p2p_uplnk_bytes_value {p2p_protocol="googleplay"} 4696006217474
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="googleplay"} 538106900500317
+p2p_p2p_uplnk_pkts_value {p2p_protocol="googleplay"} 211159845714
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="googleplay"} 397842193998
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-googleplay-duration"} 4696006217474
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-googleplay-duration"} 538106900500317
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-googleplay-duration"} 211159845714
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-googleplay-duration"} 397842193998
+p2p_p2p_uplnk_bytes_value {p2p_protocol="instagram"} 45724175243146
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="instagram"} 2033070837101736
+p2p_p2p_uplnk_pkts_value {p2p_protocol="instagram"} 1030173739463
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="instagram"} 1582873855831
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-instagram-duration"} 45724175243146
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-instagram-duration"} 2033070837101736
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-instagram-duration"} 1030173739463
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-instagram-duration"} 1582873855831
+p2p_p2p_uplnk_bytes_value {p2p_protocol="instagram-unclassified"} 34027675925767
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="instagram-unclassified"} 186558593592936
+p2p_p2p_uplnk_pkts_value {p2p_protocol="instagram-unclassified"} 182293454548
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="instagram-unclassified"} 207182545455
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-instagram-unclassified-duration"} 34027675925767
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-instagram-unclassified-duration"} 186558593592936
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-instagram-unclassified-duration"} 182293454548
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-instagram-unclassified-duration"} 207182545455
+p2p_p2p_duration_value {p2p_protocol="instagram-video"} 19679574
+p2p_p2p_uplnk_bytes_value {p2p_protocol="instagram-video"} 1128613091745
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="instagram-video"} 950903195614
+p2p_p2p_uplnk_pkts_value {p2p_protocol="instagram-video"} 2151547633
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="instagram-video"} 1832581611
+p2p_p2p_duration_value {p2p_duration_name="p2p-instagram-video-duration"} 19679574
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-instagram-video-duration"} 1128613091745
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-instagram-video-duration"} 950903195614
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-instagram-video-duration"} 2151547633
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-instagram-video-duration"} 1832581611
+p2p_p2p_uplnk_bytes_value {p2p_protocol="instagram-streaming-video"} 10567886225634
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="instagram-streaming-video"} 1845561340311798
+p2p_p2p_uplnk_pkts_value {p2p_protocol="instagram-streaming-video"} 845728737282
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="instagram-streaming-video"} 1373858728764
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-instagram-streaming-video-duration"} 10567886225634
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-instagram-streaming-video-duration"} 1845561340311798
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-instagram-streaming-video-duration"} 845728737282
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-instagram-streaming-video-duration"} 1373858728764
+p2p_p2p_uplnk_bytes_value {p2p_protocol="pinterest"} 350997340751
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="pinterest"} 9477602403219
+p2p_p2p_uplnk_pkts_value {p2p_protocol="pinterest"} 4673752602
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="pinterest"} 7720571492
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-pinterest-duration"} 350997340751
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-pinterest-duration"} 9477602403219
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-pinterest-duration"} 4673752602
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-pinterest-duration"} 7720571492
+p2p_p2p_uplnk_bytes_value {p2p_protocol="spdy"} 622302899879
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="spdy"} 16217922804052
+p2p_p2p_uplnk_pkts_value {p2p_protocol="spdy"} 9239415078
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="spdy"} 13446575392
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-spdy-duration"} 622302899879
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-spdy-duration"} 16217922804052
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-spdy-duration"} 9239415078
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-spdy-duration"} 13446575392
+p2p_p2p_uplnk_bytes_value {p2p_protocol="imessage"} 11282148960
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="imessage"} 14791412942
+p2p_p2p_uplnk_pkts_value {p2p_protocol="imessage"} 21627938
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="imessage"} 18754791
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-imessage-duration"} 11282148960
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-imessage-duration"} 14791412942
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-imessage-duration"} 21627938
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-imessage-duration"} 18754791
+p2p_p2p_uplnk_bytes_value {p2p_protocol="linkedin"} 194157053790
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="linkedin"} 2776519189871
+p2p_p2p_uplnk_pkts_value {p2p_protocol="linkedin"} 1719495550
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="linkedin"} 2529646664
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-linkedin-duration"} 194157053790
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-linkedin-duration"} 2776519189871
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-linkedin-duration"} 1719495550
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-linkedin-duration"} 2529646664
+p2p_p2p_uplnk_bytes_value {p2p_protocol="google"} 106946563799546
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="google"} 246989389714891
+p2p_p2p_uplnk_pkts_value {p2p_protocol="google"} 375163051438
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="google"} 411715069528
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-google-duration"} 106946563799546
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-google-duration"} 246989389714891
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-google-duration"} 375163051438
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-google-duration"} 411715069528
+p2p_p2p_uplnk_bytes_value {p2p_protocol="snapchat"} 996770877850
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="snapchat"} 1672755192095
+p2p_p2p_uplnk_pkts_value {p2p_protocol="snapchat"} 2024355428
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="snapchat"} 2207617062
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-snapchat-duration"} 996770877850
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-snapchat-duration"} 1672755192095
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-snapchat-duration"} 2024355428
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-snapchat-duration"} 2207617062
+p2p_p2p_uplnk_bytes_value {p2p_protocol="snapchat-unclassified"} 996770877850
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="snapchat-unclassified"} 1672755192095
+p2p_p2p_uplnk_pkts_value {p2p_protocol="snapchat-unclassified"} 2024355428
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="snapchat-unclassified"} 2207617062
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-snapchat-unclassified-duration"} 996770877850
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-snapchat-unclassified-duration"} 1672755192095
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-snapchat-unclassified-duration"} 2024355428
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-snapchat-unclassified-duration"} 2207617062
+p2p_p2p_uplnk_bytes_value {p2p_protocol="googleplus"} 142101724
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="googleplus"} 4672635092
+p2p_p2p_uplnk_pkts_value {p2p_protocol="googleplus"} 3439533
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="googleplus"} 4748702
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-googleplus-duration"} 142101724
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-googleplus-duration"} 4672635092
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-googleplus-duration"} 3439533
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-googleplus-duration"} 4748702
+p2p_p2p_uplnk_bytes_value {p2p_protocol="tumblr"} 7968382498
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="tumblr"} 556407562821
+p2p_p2p_uplnk_pkts_value {p2p_protocol="tumblr"} 234915586
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="tumblr"} 415695768
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-tumblr-duration"} 7968382498
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-tumblr-duration"} 556407562821
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-tumblr-duration"} 234915586
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-tumblr-duration"} 415695768
+p2p_p2p_uplnk_bytes_value {p2p_protocol="youtube"} 23570023356333
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="youtube"} 976942287881265
+p2p_p2p_uplnk_pkts_value {p2p_protocol="youtube"} 456818172863
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="youtube"} 778917860932
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-youtube-duration"} 23570023356333
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-youtube-duration"} 976942287881265
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-youtube-duration"} 456818172863
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-youtube-duration"} 778917860932
+p2p_p2p_uplnk_bytes_value {p2p_protocol="youtube-unclassified"} 8810235208413
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="youtube-unclassified"} 58531354587459
+p2p_p2p_uplnk_pkts_value {p2p_protocol="youtube-unclassified"} 63236009435
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="youtube-unclassified"} 77411485645
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-youtube-unclassified-duration"} 8810235208413
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-youtube-unclassified-duration"} 58531354587459
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-youtube-unclassified-duration"} 63236009435
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-youtube-unclassified-duration"} 77411485645
+p2p_p2p_uplnk_bytes_value {p2p_protocol="youtube-file-transfer"} 5337754965521
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="youtube-file-transfer"} 57535506419
+p2p_p2p_uplnk_pkts_value {p2p_protocol="youtube-file-transfer"} 3941678788
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="youtube-file-transfer"} 2098836518
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-youtube-file-transfer-duration"} 5337754965521
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-youtube-file-transfer-duration"} 57535506419
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-youtube-file-transfer-duration"} 3941678788
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-youtube-file-transfer-duration"} 2098836518
+p2p_p2p_uplnk_bytes_value {p2p_protocol="youtube-ads"} 206122322
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="youtube-ads"} 3681072037
+p2p_p2p_uplnk_pkts_value {p2p_protocol="youtube-ads"} 1750625
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="youtube-ads"} 3068098
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-youtube-ads-duration"} 206122322
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-youtube-ads-duration"} 3681072037
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-youtube-ads-duration"} 1750625
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-youtube-ads-duration"} 3068098
+p2p_p2p_uplnk_bytes_value {p2p_protocol="youtube-streaming-video"} 9421827060077
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="youtube-streaming-video"} 918349716715350
+p2p_p2p_uplnk_pkts_value {p2p_protocol="youtube-streaming-video"} 389638734015
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="youtube-streaming-video"} 699404470671
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-youtube-streaming-video-duration"} 9421827060077
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-youtube-streaming-video-duration"} 918349716715350
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-youtube-streaming-video-duration"} 389638734015
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-youtube-streaming-video-duration"} 699404470671
+p2p_p2p_uplnk_bytes_value {p2p_protocol="vine"} 5921224
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="vine"} 1512962246
+p2p_p2p_uplnk_pkts_value {p2p_protocol="vine"} 747899
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="vine"} 1145596
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-vine-duration"} 5921224
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-vine-duration"} 1512962246
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-vine-duration"} 747899
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-vine-duration"} 1145596
+p2p_p2p_uplnk_bytes_value {p2p_protocol="bbm"} 631726191
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="bbm"} 109182074
+p2p_p2p_uplnk_pkts_value {p2p_protocol="bbm"} 1533473
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="bbm"} 1165337
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-bbm-duration"} 631726191
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-bbm-duration"} 109182074
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-bbm-duration"} 1533473
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-bbm-duration"} 1165337
+p2p_p2p_uplnk_bytes_value {p2p_protocol="bbm-unclassified"} 631726191
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="bbm-unclassified"} 109182074
+p2p_p2p_uplnk_pkts_value {p2p_protocol="bbm-unclassified"} 1533473
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="bbm-unclassified"} 1165337
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-bbm-unclassified-duration"} 631726191
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-bbm-unclassified-duration"} 109182074
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-bbm-unclassified-duration"} 1533473
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-bbm-unclassified-duration"} 1165337
+p2p_p2p_uplnk_bytes_value {p2p_protocol="path"} 212786364
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="path"} 1748617517
+p2p_p2p_uplnk_pkts_value {p2p_protocol="path"} 1598067
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="path"} 1880037
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-path-duration"} 212786364
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-path-duration"} 1748617517
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-path-duration"} 1598067
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-path-duration"} 1880037
+p2p_p2p_uplnk_bytes_value {p2p_protocol="windows-azure"} 50396970286
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="windows-azure"} 149904287546
+p2p_p2p_uplnk_pkts_value {p2p_protocol="windows-azure"} 118922409
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="windows-azure"} 137455063
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-windows-azure-duration"} 50396970286
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-windows-azure-duration"} 149904287546
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-windows-azure-duration"} 118922409
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-windows-azure-duration"} 137455063
+p2p_p2p_uplnk_bytes_value {p2p_protocol="windows-store"} 436349672
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="windows-store"} 19134924280
+p2p_p2p_uplnk_pkts_value {p2p_protocol="windows-store"} 9614154
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="windows-store"} 15672465
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-windows-store-duration"} 436349672
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-windows-store-duration"} 19134924280
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-windows-store-duration"} 9614154
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-windows-store-duration"} 15672465
+p2p_p2p_uplnk_bytes_value {p2p_protocol="google-music"} 702768848
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="google-music"} 20676606362
+p2p_p2p_uplnk_pkts_value {p2p_protocol="google-music"} 15035083
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="google-music"} 22381759
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-google-music-duration"} 702768848
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-google-music-duration"} 20676606362
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-google-music-duration"} 15035083
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-google-music-duration"} 22381759
+p2p_p2p_uplnk_bytes_value {p2p_protocol="google-push"} 2141077908714
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="google-push"} 4804941598184
+p2p_p2p_uplnk_pkts_value {p2p_protocol="google-push"} 26430447413
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="google-push"} 25786820112
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-google-push-duration"} 2141077908714
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-google-push-duration"} 4804941598184
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-google-push-duration"} 26430447413
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-google-push-duration"} 25786820112
+p2p_p2p_uplnk_bytes_value {p2p_protocol="speedtest"} 154939366221
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="speedtest"} 231406104349
+p2p_p2p_uplnk_pkts_value {p2p_protocol="speedtest"} 381114029
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="speedtest"} 353811083
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-speedtest-duration"} 154939366221
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-speedtest-duration"} 231406104349
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-speedtest-duration"} 381114029
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-speedtest-duration"} 353811083
+p2p_p2p_uplnk_bytes_value {p2p_protocol="ssl"} 124421615665263
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="ssl"} 1431151875151757
+p2p_p2p_uplnk_pkts_value {p2p_protocol="ssl"} 986044303550
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="ssl"} 1358244375524
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-ssl-duration"} 124421615665263
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-ssl-duration"} 1431151875151757
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-ssl-duration"} 986044303550
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-ssl-duration"} 1358244375524
+p2p_p2p_uplnk_bytes_value {p2p_protocol="periscope"} 7275090398
+p2p_p2p_dwlnk_bytes_value {p2p_protocol="periscope"} 524570664124
+p2p_p2p_uplnk_pkts_value {p2p_protocol="periscope"} 235645287
+p2p_p2p_dwlnk_pkts_value {p2p_protocol="periscope"} 414378998
+p2p_p2p_uplnk_bytes_value {p2p_duration_name="p2p-periscope-duration"} 7275090398
+p2p_p2p_dwlnk_bytes_value {p2p_duration_name="p2p-periscope-duration"} 524570664124
+p2p_p2p_uplnk_pkts_value {p2p_duration_name="p2p-periscope-duration"} 235645287
+p2p_p2p_dwlnk_pkts_value {p2p_duration_name="p2p-periscope-duration"} 414378998
+context_bgp_maxroute {vpnname="Gn"} 64000
+context_bgp_totroute {vpnname="Gn"} 2138
+context_bgp_maxroute {vpnname="S1U"} 64000
+context_bgp_totroute {vpnname="S1U"} 31
+context_bgp_maxroute {vpnname="Gi-LBTS"} 64000
+context_bgp_totroute {vpnname="Gi-LBTS"} 87
+context_bgp_maxroute {vpnname="Charging"} 64000
+context_bgp_totroute {vpnname="Charging"} 1744
+context_bgp_maxroute {vpnname="Li"} 64000
+context_bgp_totroute {vpnname="Li"} 31
+context_bgp_maxroute {vpnname="Ga"} 64000
+context_bgp_totroute {vpnname="Ga"} 31
+context_bgp_maxroute {vpnname="Gi-Internet3"} 64000
+context_bgp_totroute {vpnname="Gi-Internet3"} 31
+context_bgp_maxroute {vpnname="Gi-IOG-CBT"} 64000
+context_bgp_totroute {vpnname="Gi-IOG-CBT"} 30
+context_bgp_maxroute {vpnname="Gi-Ims"} 64000
+dcca_group_cc_cursess {cc_group="gy01-812"} 52469
+dcca_group_cc_ttlecsadd {cc_group="gy01-812"} 575579001
+dcca_group_cc_ttlstart {cc_group="gy01-812"} 61729089
+dcca_group_cc_ttlsessupd {cc_group="gy01-812"} 182084986
+dcca_group_cc_ttlterm {cc_group="gy01-812"} 575186127
+dcca_group_cc_sessfailover {cc_group="gy01-812"} 77662
+dcca_group_cc_msg_recv {cc_group="gy01-812"} 416449576
+dcca_group_cc_msg_sent {cc_group="gy01-812"} 416568919
+dcca_group_cc_msg_request {cc_group="gy01-812"} 416292134
+dcca_group_cc_msg_answer {cc_group="gy01-812"} 416172768
+dcca_group_cc_msg_ccainit {cc_group="gy01-812"} 61676343
+dcca_group_cc_msg_ccainitaccept {cc_group="gy01-812"} 53903112
+dcca_group_cc_msg_ccainitreject {cc_group="gy01-812"} 118
+dcca_group_cc_msg_ccainittimeout {cc_group="gy01-812"} 52544
+dcca_group_cc_msg_ccrupdate {cc_group="gy01-812"} 295367051
+dcca_group_cc_msg_ccaupdate {cc_group="gy01-812"} 295355277
+dcca_group_cc_msg_ccaupdatetimeout {cc_group="gy01-812"} 10213
+dcca_group_cc_msg_ccrfinal {cc_group="gy01-812"} 59195994
+dcca_group_cc_msg_ccafinal {cc_group="gy01-812"} 59141030
+dcca_group_cc_msg_ccafinaltimeout {cc_group="gy01-812"} 54872
+dcca_group_cc_msg_rar {cc_group="gy01-812"} 276808
+dcca_group_cc_msg_raa {cc_group="gy01-812"} 276785
+dcca_group_cc_msgerr_proto {cc_group="gy01-812"} 679
+dcca_group_cc_msgerr_badanswer {cc_group="gy01-812"} 38
+dcca_group_cc_msgerr_reqtimeout {cc_group="gy01-812"} 117629
+dcca_group_cc_msgerr_transfailure {cc_group="gy01-812"} 15493127
+dcca_group_cc_msgerr_permfailure {cc_group="gy01-812"} 2512805
+dcca_group_cc_upd_threshold {cc_group="gy01-812"} 112194852
+dcca_group_cc_upd_qht {cc_group="gy01-812"} 8024888
+dcca_group_cc_upd_final {cc_group="gy01-812"} 71596956
+dcca_group_cc_upd_quotaexhaust {cc_group="gy01-812"} 61153
+dcca_group_cc_upd_validitytime {cc_group="gy01-812"} 40973488
+dcca_group_cc_upd_otherquota {cc_group="gy01-812"} 112254404
+dcca_group_cc_upd_ratingchange {cc_group="gy01-812"} 15846914
+dcca_group_cc_upd_forcedreauth {cc_group="gy01-812"} 1068174
+dcca_group_cc_term_diamlogout {cc_group="gy01-812"} 36107408
+dcca_group_cc_term_servnotprov {cc_group="gy01-812"} 28682
+dcca_group_cc_term_badanswer {cc_group="gy01-812"} 38
+dcca_group_cc_term_admin {cc_group="gy01-812"} 7816488
+dcca_group_cc_term_sesstimeout {cc_group="gy01-812"} 15215636
+dcca_group_cc_badans_parsemscc_err {cc_group="gy01-812"} 16
+dcca_group_cc_badans_misc_err {cc_group="gy01-812"} 22
+dcca_group_cc_traf_catcreate {cc_group="gy01-812"} 134748108
+dcca_group_cc_traf_catlookup {cc_group="gy01-812"} 286217887660
+dcca_group_cc_traf_hits {cc_group="gy01-812"} 285584546967
+dcca_group_cc_traf_misses {cc_group="gy01-812"} 633340693
+dcca_group_cc_traf_triggerevent {cc_group="gy01-812"} 15886402
+dcca_group_cc_traf_finalunit {cc_group="gy01-812"} 141211683
+dcca_group_cc_traf_catsuccess {cc_group="gy01-812"} 228204628
+dcca_group_cc_traf_servdenied {cc_group="gy01-812"} 21869704
+dcca_group_cc_traf_limitreached {cc_group="gy01-812"} 124356646
+dcca_group_cc_traf_authreject {cc_group="gy01-812"} 7680
+dcca_group_cc_traf_othererror {cc_group="gy01-812"} 29
+dcca_group_cca_init_2001_rc {cc_group="gy01-812"} 53929849
+dcca_group_cca_updt_2001_rc {cc_group="gy01-812"} 292842701
+dcca_group_fail_action_term {cc_group="gy01-812"} 10313278
+dcca_group_mscc_gsu_null_grant {cc_group="gy01-812"} 1
+dcca_group_mscc_fui_redirect {cc_group="gy01-812"} 69614689
+dcca_group_cca_2xxx_rc {cc_group="gy01-812"} 398166157
+dcca_group_cca_5002_rc {cc_group="gy01-812"} 2512541
+dcca_group_cca_other_rc {cc_group="gy01-812"} 15494070
+dcca_group_ccru_bp_stats {cc_group="gy01-812"} 1
+dcca_group_cc_cursess {cc_group="gy02-812"} 27600
+dcca_group_cc_ttlecsadd {cc_group="gy02-812"} 269691416
+dcca_group_cc_ttlstart {cc_group="gy02-812"} 34992651
+dcca_group_cc_ttlsessupd {cc_group="gy02-812"} 111432650
+dcca_group_cc_ttlterm {cc_group="gy02-812"} 269532844
+dcca_group_cc_sessfailover {cc_group="gy02-812"} 30281
+dcca_group_cc_msg_recv {cc_group="gy02-812"} 173959258
+dcca_group_cc_msg_sent {cc_group="gy02-812"} 174004076
+dcca_group_cc_msg_request {cc_group="gy02-812"} 173847170
+dcca_group_cc_msg_answer {cc_group="gy02-812"} 173802350
+dcca_group_cc_msg_ccainit {cc_group="gy02-812"} 34972635
+dcca_group_cc_msg_ccainitaccept {cc_group="gy02-812"} 33694144
+dcca_group_cc_msg_ccainitreject {cc_group="gy02-812"} 54
+dcca_group_cc_msg_ccainittimeout {cc_group="gy02-812"} 19901
+dcca_group_cc_msg_ccrupdate {cc_group="gy02-812"} 104356525
+dcca_group_cc_msg_ccaupdate {cc_group="gy02-812"} 104353311
+dcca_group_cc_msg_ccaupdatetimeout {cc_group="gy02-812"} 3072
+dcca_group_cc_msg_ccrfinal {cc_group="gy02-812"} 34497994
+dcca_group_cc_msg_ccafinal {cc_group="gy02-812"} 34476350
+dcca_group_cc_msg_ccafinaltimeout {cc_group="gy02-812"} 21584
+dcca_group_cc_msg_rar {cc_group="gy02-812"} 156908
+dcca_group_cc_msg_raa {cc_group="gy02-812"} 156906
+dcca_group_cc_msgerr_proto {cc_group="gy02-812"} 264
+dcca_group_cc_msgerr_reqtimeout {cc_group="gy02-812"} 44557
+dcca_group_cc_msgerr_transfailure {cc_group="gy02-812"} 2507086
+dcca_group_cc_msgerr_permfailure {cc_group="gy02-812"} 484268
+dcca_group_cc_upd_threshold {cc_group="gy02-812"} 58306143
+dcca_group_cc_upd_qht {cc_group="gy02-812"} 1251682
+dcca_group_cc_upd_final {cc_group="gy02-812"} 20742526
+dcca_group_cc_upd_quotaexhaust {cc_group="gy02-812"} 24724
+dcca_group_cc_upd_validitytime {cc_group="gy02-812"} 14143888
+dcca_group_cc_upd_otherquota {cc_group="gy02-812"} 58330803
+dcca_group_cc_upd_forcedreauth {cc_group="gy02-812"} 256271
+dcca_group_cc_term_diamlogout {cc_group="gy02-812"} 25335558
+dcca_group_cc_term_servnotprov {cc_group="gy02-812"} 10638
+dcca_group_cc_term_admin {cc_group="gy02-812"} 1284826
+dcca_group_cc_term_sesstimeout {cc_group="gy02-812"} 7856029
+dcca_group_cc_traf_catcreate {cc_group="gy02-812"} 45200376
+dcca_group_cc_traf_catlookup {cc_group="gy02-812"} 207288849983
+dcca_group_cc_traf_hits {cc_group="gy02-812"} 206909943672
+dcca_group_cc_traf_misses {cc_group="gy02-812"} 378906311
+dcca_group_cc_traf_finalunit {cc_group="gy02-812"} 51848944
+dcca_group_cc_traf_catsuccess {cc_group="gy02-812"} 86402070
+dcca_group_cc_traf_servdenied {cc_group="gy02-812"} 7026642
+dcca_group_cc_traf_limitreached {cc_group="gy02-812"} 46604403
+dcca_group_cc_traf_authreject {cc_group="gy02-812"} 4008
+dcca_group_cca_init_2001_rc {cc_group="gy02-812"} 33719112
+dcca_group_cca_updt_2001_rc {cc_group="gy02-812"} 103869210
+dcca_group_fail_action_term {cc_group="gy02-812"} 1758979
+dcca_group_mscc_fui_redirect {cc_group="gy02-812"} 31106399
+dcca_group_cca_2xxx_rc {cc_group="gy02-812"} 170810732
+dcca_group_cca_5002_rc {cc_group="gy02-812"} 484225
+dcca_group_cca_other_rc {cc_group="gy02-812"} 2507393
+dcca_group_cc_msg_sent {cc_group="Nil - (Uncorrelated)"} 66
+dcca_group_cc_msg_rar {cc_group="Nil - (Uncorrelated)"} 41
+dcca_group_cc_msg_raa {cc_group="Nil - (Uncorrelated)"} 66
+diameter_diam_last_rtt {endpoint_name="gx.upcc.01"} 50
+diameter_diam_avg_rtt {endpoint_name="gx.upcc.01"} 63
+diameter_conn_closes {endpoint_name="gx.upcc.01 (Proxy)"} 614
+diameter_conn_dhost_requests {endpoint_name="gx.upcc.01 (Proxy)"} 16356
+diameter_conn_timeouts {endpoint_name="gx.upcc.01 (Proxy)"} 15242
+diameter_cea_received {endpoint_name="gx.upcc.01 (Proxy)"} 1086
+diameter_dwa_attempts {endpoint_name="gx.upcc.01 (Proxy)"} 77167990
+diameter_cer_sent {endpoint_name="gx.upcc.01 (Proxy)"} 1114
+diameter_diam_last_rtt {endpoint_name="gx.upcc.02"} 100
+diameter_diam_avg_rtt {endpoint_name="gx.upcc.02"} 62
+diameter_conn_closes {endpoint_name="gx.upcc.02 (Proxy)"} 520
+diameter_conn_dhost_requests {endpoint_name="gx.upcc.02 (Proxy)"} 15266
+diameter_conn_timeouts {endpoint_name="gx.upcc.02 (Proxy)"} 14166
+diameter_cea_received {endpoint_name="gx.upcc.02 (Proxy)"} 1092
+diameter_dwa_attempts {endpoint_name="gx.upcc.02 (Proxy)"} 122903338
+diameter_cer_sent {endpoint_name="gx.upcc.02 (Proxy)"} 1100
+diameter_diam_last_rtt {endpoint_name="gy01-812"} 50
+diameter_diam_avg_rtt {endpoint_name="gy01-812"} 52
+diameter_conn_closes {endpoint_name="gy01-812 (Proxy)"} 711
+diameter_conn_dhost_requests {endpoint_name="gy01-812 (Proxy)"} 29877
+diameter_conn_timeouts {endpoint_name="gy01-812 (Proxy)"} 28336
+diameter_cea_received {endpoint_name="gy01-812 (Proxy)"} 943
+diameter_cer_sent {endpoint_name="gy01-812 (Proxy)"} 1541
+diameter_diam_last_rtt {endpoint_name="gy02-812"} 50
+diameter_diam_avg_rtt {endpoint_name="gy02-812"} 52
+diameter_conn_closes {endpoint_name="gy02-812 (Proxy)"} 801
+diameter_conn_dhost_requests {endpoint_name="gy02-812 (Proxy)"} 35583
+diameter_conn_timeouts {endpoint_name="gy02-812 (Proxy)"} 33899
+diameter_cea_received {endpoint_name="gy02-812 (Proxy)"} 1051
+diameter_cer_sent {endpoint_name="gy02-812 (Proxy)"} 1684
+egtpc_servid {vpnname="Gn"} 6
+egtpc_tun_recv_cresess {vpnname="Gn"} 676190235
+egtpc_tun_recv_retranscresess {vpnname="Gn"} 144168
+egtpc_tun_sent_cresessresp {vpnname="Gn"} 676181154
+egtpc_tun_sent_cresessrespaccept {vpnname="Gn"} 675611500
+egtpc_tun_sent_cresessrespdenied {vpnname="Gn"} 569654
+egtpc_tun_sent_retranscresessresp {vpnname="Gn"} 104766
+egtpc_tun_sent_crebear {vpnname="Gn"} 4699
+egtpc_tun_sent_retranscrebear {vpnname="Gn"} 22
+egtpc_gtpv1path_sent_echoreq {vpnname="Gn"} 36780030
+egtpc_gtpv1path_recv_echoreq {vpnname="Gn"} 44906148
+egtpc_gtpv1path_recv_echoresp {vpnname="Gn"} 36150162
+egtpc_total_sent_req {vpnname="Gn"} 971375296
+egtpc_total_sent_retransreq {vpnname="Gn"} 70949936
+egtpc_total_recv_req {vpnname="Gn"} 2162481937
+egtpc_total_recv_retransreq {vpnname="Gn"} 915287
+egtpc_total_recv_reqdiscarded {vpnname="Gn"} 708208
+egtpc_total_recv_norspreq {vpnname="Gn"} 7812130
+egtpc_total_sent_rsp {vpnname="Gn"} 1693816139
+egtpc_total_sent_rspaccept {vpnname="Gn"} 1682452075
+egtpc_total_sent_rspdenied {vpnname="Gn"} 10847507
+egtpc_total_sent_rspretrans {vpnname="Gn"} 667094
+egtpc_total_recv_resp {vpnname="Gn"} 970258377
+egtpc_total_recv_rspaccept {vpnname="Gn"} 933272028
+egtpc_total_recv_rspdenied {vpnname="Gn"} 36986349
+egtpc_total_recv_rspdiscarded {vpnname="Gn"} 8013583
+egtpc_tun_sent_cresessrespdeniedctxtnotfound {vpnname="Gn"} 855
+egtpc_tun_sent_cresessrespdeniednoresourcesavl {vpnname="Gn"} 568096
+egtpc_tun_sent_cresessrespdeniedapnaccessdenied {vpnname="Gn"} 21
+egtpc_tun_sent_cresessrespdeniedothercause {vpnname="Gn"} 682
+egtpc_tun_sent_delsessrespdeniedctxtnotfound {vpnname="Gn"} 10553173
+egtpc_tun_sent_delsessrespdeniedinvalidmsgformat {vpnname="Gn"} 107
+egtpc_tun_sent_delsessrespdeniedmandieincorrect {vpnname="Gn"} 11297
+egtpc_tun_recv_crebearrespdeniedrequestrejected {vpnname="Gn"} 4688
+egtpc_tun_recv_updbearrespdeniedctxtnotfound {vpnname="Gn"} 3347
+egtpc_tun_recv_updbearrespdeniednoresourcesavl {vpnname="Gn"} 186113
+egtpc_tun_recv_updbearrespdenieduenotresponding {vpnname="Gn"} 3491433
+egtpc_tun_recv_updbearrespdenieduerefuses {vpnname="Gn"} 2511
+egtpc_tun_recv_updbearrespdeniedunabletopageue {vpnname="Gn"} 345
+egtpc_tun_recv_updbearrespdeniedrequestrejected {vpnname="Gn"} 75572
+egtpc_tun_recv_updbearrespdeniedunabletopageuesuspend {vpnname="Gn"} 69
+egtpc_tun_recv_updbearrespdeniedpeernotresponding {vpnname="Gn"} 85667
+egtpc_tun_recv_updbearrespdeniedtemprejduetohoprogress {vpnname="Gn"} 31792622
+egtpc_tun_recv_updbearrespdeniedothercause {vpnname="Gn"} 438597642
+egtpc_tun_recv_delbearrespdeniedctxtnotfound {vpnname="Gn"} 177071
+egtpc_tun_recv_delbearrespdeniedmandieincorrect {vpnname="Gn"} 2548
+egtpc_tun_recv_delbearrespdeniedrequestrejected {vpnname="Gn"} 164
+egtpc_tun_recv_delbearrespdeniedpeernotresponding {vpnname="Gn"} 4587
+egtpc_tun_recv_delbearrespdeniedtemprejduetohoprogress {vpnname="Gn"} 210
+egtpc_tun_recv_delbearrespdeniedothercause {vpnname="Gn"} 495833782
+egtpc_tun_recv_crebearresp {vpnname="Gn"} 4692
+egtpc_tun_recv_crebearrespdenied {vpnname="Gn"} 4690
+egtpc_tun_recv_modbearreq {vpnname="Gn"} 869850890
+egtpc_tun_recv_retransmodbearreq {vpnname="Gn"} 576475
+egtpc_tun_sent_modbearresp {vpnname="Gn"} 869846319
+egtpc_tun_sent_modbearrespaccept {vpnname="Gn"} 869749203
+egtpc_tun_sent_modbearrespdenied {vpnname="Gn"} 97116
+egtpc_tun_sent_retransmodbearresp {vpnname="Gn"} 562328
+egtpc_tun_recv_cresessdiscard {vpnname="Gn"} 48461
+egtpc_tun_recv_crebearnorsp {vpnname="Gn"} 1
+egtpc_tun_recv_modbearreqdiscard {vpnname="Gn"} 14153
+egtpc_tun_recv_delbearreqnorsp {vpnname="Gn"} 7706425
+egtpc_tun_recv_delbearrespdiscard {vpnname="Gn"} 7822756
+egtpc_tun_recv_modbearcmddiscard {vpnname="Gn"} 659746
+egtpc_tun_recv_updbearreqnorsp {vpnname="Gn"} 105704
+egtpc_tun_recv_updbearrespdiscard {vpnname="Gn"} 190827
+egtpc_csfb_recv_suspendnotfdiscard {vpnname="Gn"} 1
+egtpc_msgs_inc_rate_limited {vpnname="Gn"} 2298498682
+egtpc_tun_sent_delsessrespdeniedothercause {vpnname="Gn"} 82644
+egtpc_tun_recv_delsessreq {vpnname="Gn"} 147689646
+egtpc_tun_sent_delsessresp {vpnname="Gn"} 147689645
+egtpc_tun_sent_delsessrespaccept {vpnname="Gn"} 137042424
+egtpc_tun_sent_delsessrespdenied {vpnname="Gn"} 10647221
+egtpc_tun_sent_delbearreq {vpnname="Gn"} 496065266
+egtpc_tun_sent_retransdelbearreq {vpnname="Gn"} 68120703
+egtpc_tun_recv_delbearresp {vpnname="Gn"} 496018364
+egtpc_tun_recv_delbearrespaccept {vpnname="Gn"} 495831600
+egtpc_tun_recv_delbearrespdenied {vpnname="Gn"} 186764
+egtpc_tun_recv_modbearcmd {vpnname="Gn"} 469168701
+egtpc_tun_recv_retransmodbearcmd {vpnname="Gn"} 194568
+egtpc_tun_sent_modbearfail {vpnname="Gn"} 516557
+egtpc_tun_sent_updbearreq {vpnname="Gn"} 475305331
+egtpc_tun_sent_retransupdbearreq {vpnname="Gn"} 2829211
+egtpc_tun_recv_updbearresp {vpnname="Gn"} 474235321
+egtpc_tun_recv_updbearrespaccept {vpnname="Gn"} 437440426
+egtpc_tun_recv_updbearrespdenied {vpnname="Gn"} 36794895
+egtpc_tun_recv_changenotfreq {vpnname="Gn"} 19
+egtpc_csfb_recv_suspendnotf {vpnname="Gn"} 33795
+egtpc_csfb_recv_retranssuspendnotf {vpnname="Gn"} 54
+egtpc_csfb_sent_suspendack {vpnname="Gn"} 33794
+egtpc_csfb_sent_suspendackaccept {vpnname="Gn"} 33497
+egtpc_csfb_sent_suspendackdenied {vpnname="Gn"} 297
+egtpc_csfb_recv_resumenotf {vpnname="Gn"} 15685
+egtpc_csfb_recv_retransresumenotf {vpnname="Gn"} 22
+egtpc_csfb_sent_resumeackaccept {vpnname="Gn"} 15432
+egtpc_csfb_sent_resumeackdenied {vpnname="Gn"} 253
+egtpc_outsigpkts5s8pgw {vpnname="Gn"} 2818961741
+egtpc_incsigpkts5s8pgw {vpnname="Gn"} 3215681704
+egtpc_outsigocts5s8pgw {vpnname="Gn"} 3321079942
+egtpc_incsigocts5s8pgw {vpnname="Gn"} 3297922902
+egtpc_path_sent_echoreq {vpnname="Gn"} 36159450
+egtpc_path_sent_retransechoreq {vpnname="Gn"} 620580
+egtpc_path_recv_echoreq {vpnname="Gn"} 44906148
+egtpc_path_recv_echoresp {vpnname="Gn"} 36150162
+egtpc_tun_sent_cresessrespdeniedinvalidlength {vpnname="Gn"} 11
+egtpc_tun_sent_cresessrespdeniedmandieincorrect {vpnname="Gn"} 3050
+egtpc_tun_sent_cresessrespdeniedmandiemissing {vpnname="Gn"} 21571
+egtpc_tun_sent_cresessrespdeniedmissingunknownapn {vpnname="Gn"} 2465
+egtpc_tun_sent_cresessrespdeniedprefpdntypeunsupported {vpnname="Gn"} 6143
+egtpc_tun_sent_cresessrespdeniedalldynamicaddroccupied {vpnname="Gn"} 134
+egtpc_tun_sent_cresessrespdeniedservicedenied {vpnname="Gn"} 14737
+egtpc_tun_sent_cresessrespdenieduserauthfailed {vpnname="Gn"} 253842
+egtpc_tun_sent_cresessrespdeniedrequestrejected {vpnname="Gn"} 2648
+egtpc_tun_sent_cresessrespdeniedcondiemissing {vpnname="Gn"} 483
+egtpc_tun_sent_delsessrespdeniednoresourcesavl {vpnname="Gn"} 54
+egtpc_tun_recv_crebearrespdenieduenotresponding {vpnname="Gn"} 10
+egtpc_tun_recv_crebearrespdeniedothercause {vpnname="Gn"} 16
+egtpc_tun_recv_updbearrespdeniedinvalidmsgformat {vpnname="Gn"} 3
+egtpc_tun_recv_delbearrespdeniednoresourcesavl {vpnname="Gn"} 112
+egtpc_tun_recv_crebearrespaccept {vpnname="Gn"} 16
+egtpc_tun_recv_delsessreqdiscard {vpnname="Gn"} 70934
+egtpc_tun_recv_dlinknotifnorsp {vpnname="Gn"} 234518
+egtpc_tun_recv_dlinknotifackdiscard {vpnname="Gn"} 261990625
+egtpc_tun_recv_dlinkdatafaildiscard {vpnname="Gn"} 40982480
+egtpc_tun_recv_relaccbearreqdiscard {vpnname="Gn"} 241
+egtpc_tun_recv_creinddatafwdngreqdiscard {vpnname="Gn"} 29
+egtpc_tun_recv_delinddatafwdngreqdiscard {vpnname="Gn"} 25
+egtpc_tun_recv_changenotfreqdiscard {vpnname="Gn"} 1512
+egtpc_tun_recv_retransdelsessreq {vpnname="Gn"} 70014
+egtpc_tun_sent_dlinknotif {vpnname="Gn"} 3538636641
+egtpc_tun_sent_retransdlinknotif {vpnname="Gn"} 1854742
+egtpc_tun_recv_dlinknotifack {vpnname="Gn"} 3357438553
+egtpc_tun_recv_dlinknotifackaccept {vpnname="Gn"} 3333265789
+egtpc_tun_recv_dlinknotifackdenied {vpnname="Gn"} 24172764
+egtpc_tun_recv_dlinkdatafail {vpnname="Gn"} 182433586
+egtpc_tun_recv_relaccbearreq {vpnname="Gn"} 2146109577
+egtpc_tun_recv_retransrelaccbearreq {vpnname="Gn"} 277200
+egtpc_tun_sent_relaccbearresp {vpnname="Gn"} 2146109336
+egtpc_tun_sent_relaccbearrespaccept {vpnname="Gn"} 2145727882
+egtpc_tun_sent_relaccbearrespdenied {vpnname="Gn"} 381454
+egtpc_tun_recv_creinddatafwdngreq {vpnname="Gn"} 353358505
+egtpc_tun_recv_retranscreinddatafwdngreq {vpnname="Gn"} 18310
+egtpc_tun_sent_creinddatafwdngrsp {vpnname="Gn"} 353358476
+egtpc_tun_sent_creinddatafwdngrspaccept {vpnname="Gn"} 353332019
+egtpc_tun_sent_creinddatafwdngrspdenied {vpnname="Gn"} 26457
+egtpc_tun_recv_delinddatafwdngreq {vpnname="Gn"} 353354720
+egtpc_tun_sent_delinddatafwdngrsp {vpnname="Gn"} 353354695
+egtpc_tun_sent_delinddatafwdngrspaccept {vpnname="Gn"} 351410221
+egtpc_tun_sent_delinddatafwdngrspdenied {vpnname="Gn"} 1944474
+egtpc_tun_recv_retranschangenotfreq {vpnname="Gn"} 1517
+egtpc_tun_sent_changenotfresp {vpnname="Gn"} 66312
+egtpc_tun_sent_changenotfrespaccept {vpnname="Gn"} 61848
+egtpc_tun_sent_changenotfrespdenied {vpnname="Gn"} 4464
+egtpc_tun_sent_retranschangenotfresp {vpnname="Gn"} 5
+egtpc_outsigpkts11s4sgw {vpnname="Gn"} 1950358610
+egtpc_incsigpkts11s4sgw {vpnname="Gn"} 2350402039
+egtpc_outsigocts11s4sgw {vpnname="Gn"} 1325182452
+egtpc_incsigocts11s4sgw {vpnname="Gn"} 2453452503
+egtpc_tun_sent_cresess {vpnname="Gn"} 677680540
+egtpc_tun_sent_retranscresess {vpnname="Gn"} 215847
+egtpc_tun_recv_cresessresp {vpnname="Gn"} 677584590
+egtpc_tun_recv_cresessrespaccept {vpnname="Gn"} 676815320
+egtpc_tun_recv_cresesssrespdenied {vpnname="Gn"} 766401
+egtpc_tun_recv_crebear {vpnname="Gn"} 4769
+egtpc_tun_recv_retranscrebear {vpnname="Gn"} 80
+egtpc_tun_sent_crebearresp {vpnname="Gn"} 4751
+egtpc_tun_sent_crebearrespaccept {vpnname="Gn"} 16
+egtpc_tun_sent_crebearrespdenied {vpnname="Gn"} 4735
+egtpc_tun_sent_modbearreq {vpnname="Gn"} 841377386
+egtpc_tun_sent_retransmodbearreq {vpnname="Gn"} 159641
+egtpc_tun_recv_cresessnorsp {vpnname="Gn"} 75676
+egtpc_tun_recv_cresessrespdiscard {vpnname="Gn"} 28731
+egtpc_tun_recv_crebeardiscard {vpnname="Gn"} 82
+egtpc_tun_recv_modbearreqnorsp {vpnname="Gn"} 47196
+egtpc_tun_recv_modbearrespdiscard {vpnname="Gn"} 87569
+egtpc_tun_recv_delsessrespdiscard {vpnname="Gn"} 277962
+egtpc_tun_recv_delbearreqdiscard {vpnname="Gn"} 68233824
+egtpc_tun_recv_modbearcmdnorsp {vpnname="Gn"} 168221
+egtpc_tun_recv_modbearfaildiscard {vpnname="Gn"} 13822
+egtpc_tun_recv_updbearreqdiscard {vpnname="Gn"} 3762488
+egtpc_tun_recv_changenotfreqnorsp {vpnname="Gn"} 329
+egtpc_tun_recv_changenotfrespdiscard {vpnname="Gn"} 1679
+egtpc_tun_recv_delsessreqnorsp {vpnname="Gn"} 6518
+egtpc_tun_recv_modbearresp {vpnname="Gn"} 841385144
+egtpc_tun_recv_modbearrespaccept {vpnname="Gn"} 841329594
+egtpc_tun_recv_modbearrespdenied {vpnname="Gn"} 55550
+egtpc_tun_sent_delsessreq {vpnname="Gn"} 149638516
+egtpc_tun_sent_retransdelsessreq {vpnname="Gn"} 75867
+egtpc_tun_recv_delsessresp {vpnname="Gn"} 149632829
+egtpc_tun_recv_delsessrespaccept {vpnname="Gn"} 139138949
+egtpc_tun_recv_delsessrespdenied {vpnname="Gn"} 10493545
+egtpc_tun_recv_delbearreq {vpnname="Gn"} 495806359
+egtpc_tun_recv_retransdelbearreq {vpnname="Gn"} 68231988
+egtpc_tun_sent_delbearresp {vpnname="Gn"} 495750528
+egtpc_tun_sent_delbearrespaccept {vpnname="Gn"} 495582961
+egtpc_tun_sent_delbearrespdenied {vpnname="Gn"} 167567
+egtpc_tun_sent_modbearcmd {vpnname="Gn"} 468855168
+egtpc_tun_sent_retransmodbearcmd {vpnname="Gn"} 615763
+egtpc_tun_recv_modbearfail {vpnname="Gn"} 543273
+egtpc_tun_sent_delbearcmd {vpnname="Gn"} 8
+egtpc_tun_recv_updbearreq {vpnname="Gn"} 480228267
+egtpc_tun_recv_retransupdbearreq {vpnname="Gn"} 154033
+egtpc_tun_sent_updbearresp {vpnname="Gn"} 476543957
+egtpc_tun_sent_updbearrespaccept {vpnname="Gn"} 437322850
+egtpc_tun_sent_updbearrespdenied {vpnname="Gn"} 39221107
+egtpc_tun_sent_changenotfreq {vpnname="Gn"} 64077
+egtpc_tun_sent_retranschangenotfreq {vpnname="Gn"} 1614
+egtpc_tun_recv_changenotfresp {vpnname="Gn"} 63634
+egtpc_tun_recv_changenotfrespaccept {vpnname="Gn"} 63351
+egtpc_tun_recv_changenotfrespdenied {vpnname="Gn"} 145
+egtpc_csfb_sent_suspendnotf {vpnname="Gn"} 24976
+egtpc_csfb_sent_retranssuspendnotf {vpnname="Gn"} 4
+egtpc_csfb_recv_suspendack {vpnname="Gn"} 24974
+egtpc_csfb_recv_suspendackaccept {vpnname="Gn"} 24865
+egtpc_csfb_recv_suspenddenied {vpnname="Gn"} 109
+egtpc_csfb_sent_resumenotf {vpnname="Gn"} 13114
+egtpc_outsigpkts5s8sgw {vpnname="Gn"} 3127976415
+egtpc_incsigpkts5s8sgw {vpnname="Gn"} 2730493066
+egtpc_outsigocts5s8sgw {vpnname="Gn"} 1796544677
+egtpc_incsigocts5s8sgw {vpnname="Gn"} 2762408046
+imsa_servid {vpnname="Charging"} 1
+imsa_dpca_imsaadd {vpnname="Charging"} 28
+imsa_dpca_sessupd {vpnname="Charging"} 7
+imsa_dpca_msg_recv {vpnname="Charging"} 102533
+imsa_dpca_msg_ccr {vpnname="Charging"} 63
+imsa_dpca_msg_ccrfin {vpnname="Charging"} 28
+imsa_dpca_msg_rar {vpnname="Charging"} 109229
+imsa_dpca_msg_raa {vpnname="Charging"} 102470
+imsa_dpca_msgerr_unksessreq {vpnname="Charging"} 102468
+imsa_dpca_term_diamlogout {vpnname="Charging"} 20
+imsa_dpca_term_linkbroken {vpnname="Charging"} 3
+imsa_dpca_imsa_msg_success {vpnname="Charging"} 63
+imsa_dpca_imsa_raa_msg_success {vpnname="Charging"} 2
+imsa_dpca_imsa_raa_msgerr_5xxx {vpnname="Charging"} 102468
+imsa_dpca_cursess {vpnname="Charging"} 660084
+imsa_dpca_start {vpnname="Charging"} 575782829
+imsa_dpca_term {vpnname="Charging"} 575186314
+imsa_dpca_msg_sent {vpnname="Charging"} 3301775863
+imsa_dpca_msg_cca {vpnname="Charging"} 3256825225
+imsa_dpca_msg_ccainit {vpnname="Charging"} 575732852
+imsa_dpca_msg_ccainitacc {vpnname="Charging"} 575579204
+imsa_dpca_msg_ccainitrej {vpnname="Charging"} 153648
+imsa_dpca_msg_ccrupd {vpnname="Charging"} 2105983690
+imsa_dpca_msg_ccaupd {vpnname="Charging"} 2105906366
+imsa_dpca_rar_unknown_reason {vpnname="Charging"} 20
+imsa_dpca_rar_ue_subscription_chngd {vpnname="Charging"} 94287
+imsa_dpca_imsa_usage_report {vpnname="Charging"} 1128909320
+imsa_dpca_msg_ccaupderror {vpnname="Charging"} 103701
+imsa_dpca_msg_ccafin {vpnname="Charging"} 575186007
+imsa_dpca_msg_ccafinerror {vpnname="Charging"} 1
+imsa_dpca_msgerr_proto {vpnname="Charging"} 15560
+imsa_dpca_term_admin {vpnname="Charging"} 10809949
+imsa_dpca_term_sesstmo {vpnname="Charging"} 353263819
+imsa_dpca_expres_errinitparam {vpnname="Charging"} 6
+imsa_dpca_expres_bearnotauth {vpnname="Charging"} 97654
+imsa_dpca_peer_switch {vpnname="Charging"} 215215
+imsa_dpca_peer_switch_done {vpnname="Charging"} 212995
+imsa_dpca_ccai_timeout {vpnname="Charging"} 49960
+imsa_dpca_ccri_send_error {vpnname="Charging"} 2151
+imsa_dpca_ccai_err_rcode {vpnname="Charging"} 15531
+imsa_dpca_ccau_timeout {vpnname="Charging"} 77310
+imsa_dpca_ccru_send_error {vpnname="Charging"} 27149
+imsa_dpca_ccau_err_rcode {vpnname="Charging"} 103668
+imsa_dpca_ccat_timeout {vpnname="Charging"} 30274
+imsa_dpca_ccrt_send_error {vpnname="Charging"} 13176
+imsa_dpca_ccat_err_rcode {vpnname="Charging"} 1
+imsa_dpca_ccfh_retry_and_term {vpnname="Charging"} 159765
+imsa_dpca_ccfh_terminate {vpnname="Charging"} 403
+imsa_dpca_fail_connfh_totmsgtmo {vpnname="Charging"} 157544
+imsa_dpca_fail_connfh_totmsgsenderr {vpnname="Charging"} 42476
+imsa_dpca_fail_rescodefh_confrescode {vpnname="Charging"} 119200
+imsa_dpca_imsa_msgerr_proto {vpnname="Charging"} 15560
+imsa_dpca_imsa_msgerr_permfailure {vpnname="Charging"} 144101
+imsa_dpca_total_ims_auth_fh_triggered {vpnname="Charging"} 213799
+imsa_dpca_imsa_raa_msgerr_3xxx {vpnname="Charging"} 8840
+imsa_dpca_msg_raa_ccr_collision {vpnname="Charging"} 8840
+imsa_dpca_peer_switch_tx {vpnname="Charging"} 84196
+imsa_dpca_peer_switch_rar {vpnname="Charging"} 1819
+imsa_dpca_imsa_bp_ccrt_msgs {vpnname="Charging"} 2
+imsa_dpca_imsa_bp_ccrt_sessid_rcvry_failures {vpnname="Charging"} 2
+pgw_servid {vpnname="Gn"} 11
+pgw_egtpc_s5s8_servid {vpnname="Gn"} 6
+pgw_egtpc_s5s8_tun_sent_cresessrespreqaccepted {vpnname="Gn"} 675612836
+pgw_egtpc_s5s8_tun_recv_delbearerrespunabletopageue {vpnname="Gn"} 8
+pgw_egtpc_s5s8_tun_recv_delbearerrespreqrejected {vpnname="Gn"} 149
+pgw_egtpc_s5s8_tun_recv_delbearerresppeernotresponding {vpnname="Gn"} 4587
+pgw_egtpc_s5s8_tun_recv_delbearerrespinvalidpeer {vpnname="Gn"} 2170
+pgw_egtpc_s5s8_tun_recv_delbearerresptemprejectedhoinprogress {vpnname="Gn"} 210
+pgw_egtpc_s5s8_tun_sent_delsessrespreqaccepted {vpnname="Gn"} 137042394
+pgw_egtpc_s5s8_tun_sent_delsessrespctxtnotexistent {vpnname="Gn"} 10541517
+pgw_egtpc_s5s8_tun_sent_delsessrespinvalidmsgformat {vpnname="Gn"} 53
+pgw_egtpc_s5s8_tun_sent_delsessrespinvalidlen {vpnname="Gn"} 1
+pgw_egtpc_s5s8_tun_sent_delsessrespmandatoryieincorrect {vpnname="Gn"} 220
+pgw_egtpc_s5s8_tun_sent_delsessrespconditionaliemissing {vpnname="Gn"} 65255
+pgw_egtpc_s5s8_tun_sent_delsessrespinvalidpeer {vpnname="Gn"} 7862
+pgw_egtpc_s5s8_tun_recv_crebearerrespreqrejected {vpnname="Gn"} 4688
+pgw_egtpc_s5s8_tun_sent_cresessrespctxtnotexistent {vpnname="Gn"} 855
+pgw_egtpc_s5s8_tun_sent_cresessrespservicenotsupported {vpnname="Gn"} 443
+pgw_egtpc_s5s8_tun_sent_cresessrespnoresourcesavl {vpnname="Gn"} 568067
+pgw_egtpc_s5s8_tun_recv_updbearerrespreqaccepted {vpnname="Gn"} 437440739
+pgw_egtpc_s5s8_tun_recv_updbearerrespctxtnotexistent {vpnname="Gn"} 3346
+pgw_egtpc_s5s8_tun_recv_updbearerrespservicenotsupported {vpnname="Gn"} 264
+pgw_egtpc_s5s8_tun_recv_updbearerrespsystemfailure {vpnname="Gn"} 3941
+pgw_egtpc_s5s8_tun_recv_updbearerrespnoresourcesavl {vpnname="Gn"} 186113
+pgw_egtpc_s5s8_tun_recv_updbearerrespdeniedinrat {vpnname="Gn"} 1583
+pgw_egtpc_s5s8_tun_recv_updbearerrespuenotresponding {vpnname="Gn"} 3491431
+pgw_egtpc_s5s8_tun_recv_updbearerrespuerefuses {vpnname="Gn"} 2511
+pgw_egtpc_s5s8_tun_recv_updbearerrespservicedenied {vpnname="Gn"} 1151354
+pgw_egtpc_s5s8_tun_recv_updbearerrespunabletopageue {vpnname="Gn"} 345
+pgw_egtpc_s5s8_tun_recv_updbearerrespreqrejected {vpnname="Gn"} 75567
+pgw_egtpc_s5s8_tun_recv_updbearerresppeernotresponding {vpnname="Gn"} 85575
+pgw_egtpc_s5s8_tun_recv_updbearerrespuepageunableduetosusp {vpnname="Gn"} 69
+pgw_egtpc_s5s8_tun_recv_updbearerresptemprejectedhoinprogress {vpnname="Gn"} 31792625
+pgw_egtpc_s5s8_tun_sent_modbearerfailindctxtnotexistent {vpnname="Gn"} 513254
+pgw_egtpc_s5s8_tun_sent_modbearerfailindnoresourcesavl {vpnname="Gn"} 806
+pgw_egtpc_s5s8_tun_sent_cresessrespapnaccessdenied {vpnname="Gn"} 21
+pgw_egtpc_s5s8_tun_sent_modbearerfailindinvalidpeer {vpnname="Gn"} 222
+pgw_egtpc_s5s8_tun_sent_changenotifrespreqaccepted {vpnname="Gn"} 19
+pgw_egtpc_s5s8_tun_sent_suspendackreqaccepted {vpnname="Gn"} 33495
+pgw_egtpc_s5s8_tun_sent_suspendackctxtnotexistent {vpnname="Gn"} 41
+pgw_egtpc_s5s8_tun_sent_suspendacknoresourcesavl {vpnname="Gn"} 111
+pgw_egtpc_s5s8_tun_sent_resumeackreqaccepted {vpnname="Gn"} 15431
+pgw_egtpc_s5s8_tun_sent_resumeackctxtnotexistent {vpnname="Gn"} 70
+pgw_egtpc_s5s8_tun_recv_cresess {vpnname="Gn"} 676189153
+pgw_egtpc_s5s8_tun_recv_retranscresess {vpnname="Gn"} 144168
+pgw_egtpc_s5s8_tun_recv_cresessreqdiscard {vpnname="Gn"} 48461
+pgw_egtpc_s5s8_tun_sent_cresessresp {vpnname="Gn"} 676182222
+pgw_egtpc_s5s8_tun_sent_cresessrespaccept {vpnname="Gn"} 675612836
+pgw_egtpc_s5s8_tun_sent_cresessrespdenied {vpnname="Gn"} 569386
+pgw_egtpc_s5s8_tun_sent_retranscresessresp {vpnname="Gn"} 104766
+pgw_egtpc_s5s8_tun_recv_modbearreq {vpnname="Gn"} 869722088
+pgw_egtpc_s5s8_tun_recv_retransmodbearreq {vpnname="Gn"} 576449
+pgw_egtpc_s5s8_tun_recv_modbearreqdiscard {vpnname="Gn"} 14153
+pgw_egtpc_s5s8_tun_sent_modbearresp {vpnname="Gn"} 869837391
+pgw_egtpc_s5s8_tun_sent_modbearrespaccept {vpnname="Gn"} 869749669
+pgw_egtpc_s5s8_tun_sent_modbearrespdenied {vpnname="Gn"} 87722
+pgw_egtpc_s5s8_tun_sent_retransmodbearresp {vpnname="Gn"} 562302
+pgw_egtpc_s5s8_tun_recv_delsessreq {vpnname="Gn"} 147657303
+pgw_egtpc_s5s8_tun_recv_delsessreqdiscard {vpnname="Gn"} 1
+pgw_egtpc_s5s8_tun_sent_delsessresp {vpnname="Gn"} 147657302
+pgw_egtpc_s5s8_tun_sent_delsessrespaccept {vpnname="Gn"} 137042394
+pgw_egtpc_s5s8_tun_sent_delsessrespdenied {vpnname="Gn"} 10614908
+pgw_egtpc_s5s8_tun_sent_crebear {vpnname="Gn"} 4699
+pgw_egtpc_s5s8_tun_sent_retranscrebear {vpnname="Gn"} 22
+pgw_egtpc_s5s8_tun_recv_crebearresp {vpnname="Gn"} 4692
+pgw_egtpc_s5s8_tun_recv_crebearrespdenied {vpnname="Gn"} 4690
+pgw_egtpc_s5s8_tun_sent_updbearreq {vpnname="Gn"} 475305680
+pgw_egtpc_s5s8_tun_sent_retransupdbearreq {vpnname="Gn"} 2829212
+pgw_egtpc_s5s8_tun_recv_updbearnorsp {vpnname="Gn"} 105704
+pgw_egtpc_s5s8_tun_recv_updbearresp {vpnname="Gn"} 474235463
+pgw_egtpc_s5s8_tun_recv_updbearrespdiscard {vpnname="Gn"} 190626
+pgw_egtpc_s5s8_tun_recv_updbearrespaccept {vpnname="Gn"} 437440739
+pgw_egtpc_s5s8_tun_recv_updbearrespdenied {vpnname="Gn"} 36794724
+pgw_egtpc_s5s8_tun_sent_delbearreq {vpnname="Gn"} 496066299
+pgw_egtpc_s5s8_tun_sent_retransdelbearreq {vpnname="Gn"} 68120768
+pgw_egtpc_s5s8_tun_recv_delbearnorsp {vpnname="Gn"} 7706432
+pgw_egtpc_s5s8_tun_recv_delbearresp {vpnname="Gn"} 496018434
+pgw_egtpc_s5s8_tun_recv_delbearrespdiscard {vpnname="Gn"} 7821781
+pgw_egtpc_s5s8_tun_recv_delbearrespaccept {vpnname="Gn"} 495831746
+pgw_egtpc_s5s8_tun_recv_delbearrespdenied {vpnname="Gn"} 186688
+pgw_egtpc_s5s8_tun_recv_modbearcmd {vpnname="Gn"} 469166771
+pgw_egtpc_s5s8_tun_recv_retransmodbearcmd {vpnname="Gn"} 194568
+pgw_egtpc_s5s8_tun_recv_modbearcmddiscard {vpnname="Gn"} 659746
+pgw_egtpc_s5s8_tun_sent_modbearfail {vpnname="Gn"} 514282
+pgw_egtpc_s5s8_tun_recv_changenotfreq {vpnname="Gn"} 19
+pgw_egtpc_s5s8_path_sent_echoreq {vpnname="Gn"} 36159512
+pgw_egtpc_s5s8_path_sent_retransechoreq {vpnname="Gn"} 620581
+pgw_egtpc_s5s8_path_recv_echoreq {vpnname="Gn"} 44902890
+pgw_egtpc_s5s8_path_recv_echoresp {vpnname="Gn"} 36150223
+pgw_egtpc_s5s8_csfb_recv_suspendnotf {vpnname="Gn"} 33648
+pgw_egtpc_s5s8_csfb_recv_retranssuspendnotf {vpnname="Gn"} 50
+pgw_egtpc_s5s8_tun_sent_modbearerrespreqaccepted {vpnname="Gn"} 869749667
+pgw_egtpc_s5s8_tun_sent_modbearerrespctxtnotexistent {vpnname="Gn"} 30245
+pgw_egtpc_s5s8_csfb_recv_suspendnotfdiscard {vpnname="Gn"} 1
+pgw_egtpc_s5s8_csfb_sent_suspendack {vpnname="Gn"} 33647
+pgw_egtpc_s5s8_csfb_sent_suspendackaccept {vpnname="Gn"} 33495
+pgw_egtpc_s5s8_csfb_sent_suspendackdenied {vpnname="Gn"} 152
+pgw_egtpc_s5s8_csfb_sent_retranssuspendack {vpnname="Gn"} 50
+pgw_egtpc_s5s8_csfb_recv_resumenotf {vpnname="Gn"} 15503
+pgw_egtpc_s5s8_csfb_recv_retransresumenotf {vpnname="Gn"} 18
+pgw_egtpc_s5s8_csfb_sent_resumeackaccept {vpnname="Gn"} 15431
+pgw_egtpc_s5s8_csfb_sent_resumeackdenied {vpnname="Gn"} 72
+pgw_egtpc_s5s8_incsigpkt {vpnname="Gn"} 3215501022
+pgw_egtpc_s5s8_incsigoct {vpnname="Gn"} 338291154070
+pgw_egtpc_s5s8_outsigpkt {vpnname="Gn"} 2818917153
+pgw_egtpc_s5s8_outsigoct {vpnname="Gn"} 179413966948
+pgw_egtpc_s5s8_tun_sent_modbearerrespmandatoryiemissing {vpnname="Gn"} 22316
+pgw_egtpc_s5s8_tun_sent_modbearerrespnoresourcesavl {vpnname="Gn"} 11264
+pgw_egtpc_s5s8_tun_sent_modbearerrespconditionaliemissing {vpnname="Gn"} 23897
+pgw_egtpc_s5s8_tun_recv_delbearerrespreqaccepted {vpnname="Gn"} 495831746
+pgw_egtpc_s5s8_tun_recv_delbearerrespctxtnotexistent {vpnname="Gn"} 177011
+pgw_egtpc_s5s8_tun_recv_delbearerrespmandatoryieincorrect {vpnname="Gn"} 2548
+pgw_egtpc_s5s8_tun_recv_delbearerrespsystemfailure {vpnname="Gn"} 3
+pgw_egtpc_s2a_servid {vpnname="Gn"} 6
+pgw_egtpc_s2b_servid {vpnname="Gn"} 6
+schema_sess_ttlarrived  1332352902
+schema_sess_ttlrejected  149186
+schema_sess_ttlconnected  891050610
+schema_sess_ttlfailed  15473066
+schema_sess_ttldisconn  888661183
+schema_sess_ttlhandoff  1067445824
+schema_sess_ttlcallop  3304082161
+schema_sess_curaaaactive  936030
+schema_sess_curaaadeleting  1593
+schema_sess_curaaaacctpending  1816
+schema_sess_curaaaacctitemsmax  10531296
+schema_sess_curaaabuffused  4991
+schema_sess_curaaabuffmax  38880
+schema_sess_ttlaaacancauth  4
+schema_aaa_ttlpseudoauthreq  1039069484
+schema_aaa_ttlacctsucc  417262403
+schema_aaa_ttlacctpurged  696522
+schema_aaa_ttlradacctreq  2076777580
+schema_aaa_ttlradacctreqretried  45026
+schema_aaa_ttlradacctrspdropped  684957
+schema_sess_bearerdur_24hr_qci6  56922
+schema_sess_bearerdur_over24hr_qci6  35131
+schema_sess_bearerdur_2day_qci6  35124
+schema_sess_bearerdur_4day_qci6  4
+schema_sess_bearerdur_5sec_qci7  160
+schema_sess_bearerdur_10sec_qci7  237
+schema_sess_bearerdur_30sec_qci7  786
+schema_sess_bearerdur_1min_qci7  1197
+schema_sess_bearerdur_2min_qci7  2336
+schema_sess_bearerdur_5min_qci7  7005
+schema_sess_bearerdur_15min_qci7  22638
+schema_sess_bearerdur_30min_qci7  34403
+schema_sess_bearerdur_1hr_qci7  4054
+schema_sess_bearerdur_4hr_qci7  11916
+schema_sess_bearerdur_12hr_qci7  37427
+schema_sess_bearerdur_24hr_qci7  15405
+schema_sess_bearerdur_over24hr_qci7  9472
+schema_sess_bearerdur_5sec_qci8  288
+schema_sess_bearerdur_10sec_qci8  319
+schema_sess_bearerdur_30sec_qci8  1231
+schema_sess_bearerdur_1min_qci8  1891
+schema_sess_bearerdur_2min_qci8  3592
+schema_sess_bearerdur_5min_qci8  10750
+schema_sess_bearerdur_15min_qci8  35924
+schema_sess_bearerdur_30min_qci8  53766
+schema_sess_bearerdur_1hr_qci8  6668
+schema_sess_bearerdur_4hr_qci8  17019
+schema_sess_bearerdur_12hr_qci8  57486
+schema_sess_bearerdur_24hr_qci8  19414
+schema_sess_bearerdur_over24hr_qci8  11830
+schema_sess_bearerdur_2day_qci8  11831
+schema_sess_bearerdur_10sec_qci9  3
+schema_sess_bearerdur_30sec_qci9  5
+schema_sess_bearerdur_1min_qci9  6
+schema_sess_bearerdur_2min_qci9  11
+schema_sess_bearerdur_5min_qci9  40
+schema_sess_bearerdur_15min_qci9  123
+schema_sess_bearerdur_30min_qci9  170
+schema_sess_bearerdur_1hr_qci9  47
+schema_sess_bearerdur_4hr_qci9  244
+schema_sess_bearerdur_24hr_qci9  88
+schema_sess_bearerdur_over24hr_qci9  17
+schema_disc_reason {disc_reason="disc_reason_610"} 12029617
+schema_sess_15peak_curactcall  934405
+schema_sess_15min_usageactive  14012344
+schema_sess_15min_usageall  14012352
+schema_pdp_ctx_15peak_active  195915
+schema_pdp_ctx_5peak_active  123647
+schema_cc_cursess  80085
+schema_cc_ttlecsadd  845272635
+schema_cc_ttlstart  96721855
+schema_cc_ttlsessupd  293517905
+schema_cc_ttlterm  844721074
+schema_cc_sessfailover  107943
+schema_cc_msg_recv  590409605
+schema_cc_msg_sent  590573833
+schema_cc_msg_request  590140076
+schema_cc_msg_answer  589975889
+schema_cc_msg_ccainit  96649093
+schema_cc_msg_ccainitaccept  87597366
+schema_cc_msg_ccainitreject  172
+schema_cc_msg_ccainittimeout  72445
+schema_cc_msg_ccrupdate  399724141
+schema_cc_msg_ccaupdate  399709152
+schema_cc_msg_ccaupdatetimeout  13285
+schema_cc_msg_ccrfinal  93694080
+schema_cc_msg_ccafinal  93617472
+schema_cc_msg_ccafinaltimeout  76456
+schema_cc_msg_rar  433757
+schema_cc_msgerr_proto  943
+schema_cc_msgerr_badanswer  38
+schema_cc_msgerr_reqtimeout  162186
+schema_cc_upd_threshold  170501296
+schema_cc_upd_qht  9276583
+schema_cc_upd_final  92339576
+schema_cc_upd_quotaexhaust  85878
+schema_cc_upd_validitytime  55117451
+schema_cc_upd_otherquota  170585509
+schema_cc_upd_ratingchange  15846915
+schema_cc_upd_forcedreauth  1324445
+schema_cc_term_diamlogout  61443043
+schema_cc_term_servnotprov  39320
+schema_cc_term_badanswer  38
+schema_cc_term_admin  9101319
+schema_cc_term_sesstimeout  23071675
+schema_cc_badans_parsemscc_err  16
+schema_cc_badans_misc_err  22
+schema_cc_traf_catcreate  179948688
+schema_sess_ttlemptyfwd  626806166
+schema_sess_ttlemptyrev  604775258
+schema_sess_curttlcalls  934405
+schema_sess_curpdptypeipconn  145710
+schema_cc_traf_catlookup  3881067789
+schema_cc_traf_hits  2868819874
+schema_cc_traf_misses  1012247915
+schema_cc_traf_triggerevent  15886403
+schema_cc_traf_finalunit  193060859
+schema_cc_traf_catsuccess  314607146
+schema_cc_traf_servdenied  28896389
+schema_cc_traf_limitreached  170961243
+schema_cc_traf_authreject  11688
+schema_cc_traf_othererror  29
+schema_cca_init_2001_rc  87649071
+schema_cca_updt_2001_rc  396712468
+schema_fail_action_term  12072269
+schema_dpca_cursess  924579
+schema_dcca_cursess  80085
+schema_sess_curarrived  7
+schema_sess_curimsauthorizing  17
+schema_sess_curdisc  155
+schema_sess_rxpkt_64  1538291724918
+schema_sess_txpkt_64  5656939145499
+schema_sess_rxpkt_127  7944615208840
+schema_sess_txpkt_127  3501734348139
+schema_sess_rxpkt_255  1218961833172
+schema_sess_txpkt_255  1164242166857
+schema_sess_rxpkt_511  720033187919
+schema_sess_txpkt_511  665019770222
+schema_sess_rxpkt_1023  668284910362
+schema_sess_txpkt_1023  629730463604
+schema_sess_rxpkt_2047  11258994982971
+schema_disc_reason {disc_reason="disc_reason_0"} 13272107
+schema_disc_reason {disc_reason="disc_reason_1"} 469579
+schema_disc_reason {disc_reason="disc_reason_2"} 359965069
+schema_disc_reason {disc_reason="disc_reason_3"} 64614
+schema_disc_reason {disc_reason="disc_reason_4"} 16
+schema_disc_reason {disc_reason="disc_reason_24"} 504892141
+schema_disc_reason {disc_reason="disc_reason_25"} 958933
+schema_disc_reason {disc_reason="disc_reason_34"} 3600
+schema_sess_txpkt_2047  11240975396578
+schema_sess_rxpkt_4095  810532
+schema_sess_txpkt_4095  32765
+schema_sess_rxpkt_4500  54819
+schema_sess_txpkt_4500  2309
+schema_sess_rxpkt_over4500  30511
+schema_sess_txpkt_over4500  1376
+schema_sess_txbytes  15838926145441628
+schema_sess_rxbytes  1381261248319763
+schema_sess_txpackets  14334630138599
+schema_sess_rxpackets  8698156434710
+schema_disc_reason {disc_reason="disc_reason_72"} 252869
+schema_disc_reason {disc_reason="disc_reason_84"} 73
+schema_disc_reason {disc_reason="disc_reason_109"} 9670141
+schema_disc_reason {disc_reason="disc_reason_137"} 1456
+schema_disc_reason {disc_reason="disc_reason_147"} 628
+schema_disc_reason {disc_reason="disc_reason_187"} 270650
+schema_disc_reason {disc_reason="disc_reason_202"} 167361
+schema_disc_reason {disc_reason="disc_reason_225"} 121225
+schema_disc_reason {disc_reason="disc_reason_255"} 20
+schema_sess_siptxbytes  15838926145441628
+schema_sess_siprxbytes  1381261248319763
+schema_sess_calldur_1min  16532
+schema_sess_calldur_2min  15984
+schema_sess_calldur_5min  46906
+schema_sess_calldur_15min  155405
+schema_sess_calldur_1hour  261906
+schema_sess_calldur_4hour  66872
+schema_sess_calldur_12hour  222528
+schema_sess_calldur_24hour  91820
+schema_sess_calldur_over24hour  56452
+schema_sess_setuptime_100ms  440857982
+schema_sess_setuptime_200ms  434572501
+schema_sess_setuptime_300ms  12573720
+schema_disc_reason {disc_reason="disc_reason_293"} 5386
+schema_disc_reason {disc_reason="disc_reason_363"} 128893
+schema_disc_reason {disc_reason="disc_reason_400"} 26755
+schema_disc_reason {disc_reason="disc_reason_401"} 10
+schema_disc_reason {disc_reason="disc_reason_412"} 60
+schema_disc_reason {disc_reason="disc_reason_415"} 351765
+schema_disc_reason {disc_reason="disc_reason_419"} 94056
+schema_disc_reason {disc_reason="disc_reason_448"} 357071
+schema_sess_setuptime_400ms  1249189
+schema_sess_setuptime_500ms  535604
+schema_sess_setuptime_600ms  273368
+schema_sess_setuptime_700ms  102017
+schema_sess_setuptime_800ms  54127
+schema_sess_setuptime_900ms  33452
+schema_sess_setuptime_1sec  27232
+schema_sess_setuptime_2sec  164074
+schema_sess_setuptime_3sec  35517
+schema_sess_setuptime_4sec  17696
+schema_sess_setuptime_6sec  158091
+schema_sess_setuptime_8sec  10463
+schema_sess_setuptime_10sec  5084
+schema_sess_setuptime_12sec  1455
+schema_sess_setuptime_14sec  512
+schema_sess_setuptime_16sec  219
+schema_sess_setuptime_over16sec  147
+schema_sess_setuptime_18sec  33
+schema_sess_setuptime_over18sec  114
+schema_ggsn_ttlsgsnconn  7996
+schema_enddate  20191106
+schema_session_capacity  10531296
+schema_session_capacity_usage  934509
+schema_npu_capacity  1107296256
+schema_npu_capacity_usage  45168624
+schema_sess_maxecsv2  1228380
+schema_lic_ggsn  3020000
+schema_lic_ecsv2  6020000
+schema_storage_curavail  1033574645760
+schema_storage_ttlavail  1098865704960
+schema_cca_2001_rc  568977643
+schema_cca_5002_rc  2996773
+schema_cca_other_rc  18001473
+schema_cc_msgerr_transfailure  18000223
+schema_cc_msgerr_permfailure  2997080
+schema_sess_txpackets_umts  2221408943513
+schema_sess_txbytes_umts  2340852000073953
+schema_sess_rxpackets_umts  1424184346354
+schema_sess_rxbytes_umts  221524445747952
+schema_sess_txpackets_gprs  25186114872
+schema_sess_txbytes_gprs  16524481114077
+schema_sess_rxpackets_gprs  28130088021
+schema_sess_rxbytes_gprs  4093704806420
+schema_sess_txpackets_lte  12087752862478
+schema_sess_txbytes_lte  13481359650323712
+schema_sess_rxpackets_lte  7080169916471
+schema_sess_rxbytes_lte  1105676910650734
+schema_sess_total_sessions_umts  112692
+schema_sess_num_calls_arrived_umts  577356713
+schema_sess_ttlconnected_umts  107729612
+schema_sess_num_calls_disconnected_umts  145061655
+schema_sess_total_sessions_gprs  11047
+schema_sess_num_calls_arrived_gprs  72439110
+schema_sess_ttlconnected_gprs  61928215
+schema_sess_num_calls_disconnected_gprs  64814281
+schema_aaa_ttlreq  1457064386
+schema_aaa_curreq  35706
+schema_aaa_ttlauthreq  1039069484
+schema_aaa_ttlacctreq  2293858082
+schema_aaa_curacctreq  1816
+schema_sess_total_sessions_lte  810660
+schema_sess_num_calls_arrived_lte  1183484020
+schema_sess_ttlconnected_lte  721008025
+schema_sess_num_calls_disconnected_lte  678770725
+schema_disc_reason {disc_reason="disc_reason_501"} 229570
+schema_disc_reason {disc_reason="disc_reason_508"} 251308
+schema_sess_maxadc  1228380
+schema_lic_adc  3000000
+schema_ggsn_activedata  78043
+schema_saegw_activedata  268495
+schema_disc_reason {disc_reason="disc_reason_561"} 1
+schema_aaa_ttlauthsucc  1039069484
+schema_aaa_curallocreq  36052
+schema_aaa_curmaxreq  15075000
+schema_disc_reason {disc_reason="disc_reason_588"} 26
+schema_disc_reason {disc_reason="disc_reason_590"} 51483
+schema_disc_reason {disc_reason="disc_reason_591"} 644672
+schema_disc_reason {disc_reason="disc_reason_593"} 137
+schema_disc_reason {disc_reason="disc_reason_594"} 18
+schema_disc_reason {disc_reason="disc_reason_597"} 3681
+schema_sess_num_calls_rejected_umts  43112
+schema_sess_num_calls_failed_umts  445314
+schema_sess_num_handoffs_umts  470345988
+schema_sess_num_callops_umts  1193252782
+schema_sess_num_calls_rejected_gprs  4263
+schema_sess_num_calls_failed_gprs  180889
+schema_sess_num_handoffs_gprs  10535687
+schema_sess_num_callops_gprs  147974230
+schema_sess_num_calls_rejected_lte  101811
+schema_sess_num_calls_failed_lte  14704213
+schema_sess_num_handoffs_lte  586533435
+schema_sess_num_callops_lte  2463594204
+schema_sess_bearerdur_5min_qci5  1
+schema_sess_bearerdur_15min_qci5  3
+schema_sess_bearerdur_30min_qci5  5
+schema_sess_bearerdur_5sec_qci6  794
+schema_sess_bearerdur_10sec_qci6  875
+schema_sess_bearerdur_30sec_qci6  3444
+schema_sess_bearerdur_1min_qci6  5206
+schema_sess_bearerdur_2min_qci6  10038
+schema_sess_bearerdur_5min_qci6  29127
+schema_sess_bearerdur_15min_qci6  96792
+schema_sess_bearerdur_30min_qci6  148677
+schema_sess_bearerdur_1hr_qci6  14248
+schema_sess_bearerdur_4hr_qci6  37714
+schema_sess_bearerdur_12hr_qci6  127431
+card_npuutil_15minave {card="1"} 4
+card_npuutil_5minave {card="3"} 14
+card_npuutil_5minave {card="4"} 26
+card_npuutil_15minave {card="8"} 26
+card_npuutil_15minave {card="10"} 28
+card_npuutil_5minave {card="17"} 26
+card_npuutil_15minave {card="23"} 32
+card_npuutil_15minave {card="25"} 31
+card_npuutil_5minave {card="26"} 31
+card_npuutil_5minave {card="29"} 31
+port_port_15peak_tx_util {port="1"} 3
+apn_sess_curr {apn="www.xlgprs.net"} 16803
+apn_qci7_relbear {apn="www.xlmms.net"} 2732054
+radius_acc_req_pending {vpnname="Gi-LBTS"} 1
+schema_sess_bearerdur_2day_qci7  9469
+schema_sess_bearerdur_5sec_qci9  4
+schema_sess_bearerdur_12hr_qci9  248
+schema_sess_bearerdur_2min_qci5  1
+card_npuutil_15minave {card="7"} 27
+card_npuutil_5minave {card="9"} 26
+card_npuutil_5minave {card="11"} 26
+card_npuutil_15minave {card="11"} 25
+card_npuutil_15minave {card="14"} 27
+card_npuutil_15minave {card="19"} 30
+card_npuutil_15minave {card="22"} 30
+card_npuutil_15minave {card="30"} 29
+card_npuutil_5minave {card="31"} 21
+apn_active_other_sessions {apn="axis"} 1
+schema_sess_curimsauthorized  1
