@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # version 1.3
-# contact: afajri@cisco.com
+# contact: anthony.fajri@gmail.com
 
 
 import getopt, sys
@@ -208,7 +208,7 @@ for linedata in open(bulkstatdata).readlines():
                             hashtemp.append(config2[item][schemadata.index(data)])
                             hashtemp.append(label)
                             a = hash(str(hashtemp))
-                            
+
                             if(a not in hashlist):
                                
                                 f.write(schema.lower().replace("-","_") + "_" + metric +label +data+"\n")

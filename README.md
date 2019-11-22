@@ -1,4 +1,3 @@
-Project Title
 Cisco StarOS Bulkstat Parser to PushGateway
 
 Getting Started
@@ -11,28 +10,16 @@ Due to the uniq way of bulkstat implementation, there are custom handlings on th
 reference to Cisco StarOS Bulkstat: https://www.cisco.com/c/dam/en/us/td/docs/wireless/asr_5000/21-16_6-10/Bulkstats-Doc-Spreadsheet/21-16-Bulkstats-Docs-Spreadsheet.pdf
 
 
+
 Prerequisites
 - Python 3
 
-Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
 
 Running
 ./bulkstat-exporter.py -config config_bulkstat.log -file bulkstat_data.csv -node PGW1 -pushgateway 1.1.1.1:9091
 
-
 Authors
-Anthony Fajri
+Anthony Fajri (anthony.fajr@gmail.com)
 
-License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
