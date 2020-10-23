@@ -19,7 +19,6 @@ Running
 ./bulkstat-exporter.py -config config_bulkstat.log -file bulkstat_data.csv -node PGW1 -pushgateway 1.1.1.1:9091
 
 Authors
-Anthony Fajri (anthony.fajr@gmail.com)
+Anthony Fajri (anthony.fajri@gmail.com)
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
 
